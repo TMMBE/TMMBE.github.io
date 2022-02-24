@@ -2,3 +2,5 @@ theme: jekyll-theme-cayman
 title: Squatix
 description: Alles voor jouw club in één applicatie!
 markdown: kramdown
+kramdown:
+  toc_levels        : [1, 2]
