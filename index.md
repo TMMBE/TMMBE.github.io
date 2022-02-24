@@ -58,7 +58,7 @@ Hier worden alle gebeurtenissen die plaatsvinden op de training getoond:
 - Training geannulleerd (Lid + beheerder)
 - Trainers aangepast (Beheerder)
 			
-**Editeer training**, zie ([Editeer/creeër training](#editeer/creeër training))
+**Editeer training**, zie ([Editeer/creeër training](#editeer/creeër-training))
 		
 **Maak kopie** 
 Toon de bewerk training pagina met alle velden ingevuld gelijk aan de waardes van de training waarvan een kopie gemaakt is.
@@ -126,7 +126,7 @@ Deze optie is enkel beschikbaar bij het aanmaken van een nieuwe training.
 Kies de dagen in de week waarop deze training zich moet herhalen (de dag van de intieële training dient steeds geselecteerd te worden). Kies ook de datum waarop de herhaling dient te stoppen (maximum 1 jaar in de toekomst). Zodra de training wordt aangemaakt worden op de opgegeven dagen identieke kopieën gecreerd.
 		
 **Bewaren** 
-Indien een training wordt aangepast en deze onderdeel is van een serie (zie [Herhaal training](#herhaal training)) wordt bij het bewaren van de training gevraagd of enkel de geopende training moet aangepast worden of de aanpassing moet doorgevoerd worden in (een deel van) de serie. 
+Indien een training wordt aangepast en deze onderdeel is van een serie (zie [Herhaal training](#herhaal-training)) wordt bij het bewaren van de training gevraagd of enkel de geopende training moet aangepast worden of de aanpassing moet doorgevoerd worden in (een deel van) de serie. 
 Indien serie aangeduid wordt: selecteer de trainingen waarop de aanpassing moet doorgevoerd worden (standaard staat elke training van de serie geselecteerd) en klik op bewaren. Alle geselecteerde trainingen zullen nu aangepast worden met de ingegeven veranderingen.
 
 
