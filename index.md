@@ -19,6 +19,8 @@ Via berichten kan je alle leden die jouw app gebruiken in éénmaal bereiken. El
 # Trainingen
 ## Overzicht 
 In het trainingsoverzicht zie je alle trainingen voor de geselecteerde maand. 
+
+![training_overview](/training_buttons.png)
 		
 Bovenaan kan je kiezen voor kalenderzicht (1) of lijstzicht (2). 
 De knop mijn trainingen toont de trainingen waarop het ingelogde lid is ingeschreven (trainer?) (verleden of toekomst). 
