@@ -1,3 +1,5 @@
+{:toc}
+
 # Clubdetails
 ## Clubinfo
 Vul informatie in over jouw club, zichtbaar voor jouw leden. Mogelijke velden zijn:
