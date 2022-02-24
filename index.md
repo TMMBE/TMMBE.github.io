@@ -58,7 +58,7 @@ Hier worden alle gebeurtenissen die plaatsvinden op de training getoond:
 - Training geannulleerd (Lid + beheerder)
 - Trainers aangepast (Beheerder)
 			
-**Editeer training**, zie ()
+**Editeer training**, zie ([Editeer/creeër training](#Editeer/creeër training))
 		
 **Maak kopie** 
 Toon de bewerk training pagina met alle velden ingevuld gelijk aan de waardes van de training waarvan een kopie gemaakt is.
@@ -71,7 +71,7 @@ Training krijgt status "geannuleerd". Alle ingeschreven deelnemers krijgt een no
 	
 ## Editeer/creeër training
 	
-Om trainingen te kunnen aanmaken dien je over minstens 1 trainingscategorie te beschikken. (zie ([here](## TrainingsCategorieën)))
+Om trainingen te kunnen aanmaken dien je over minstens 1 trainingscategorie te beschikken. (zie ([TrainingsCategorieën](#TrainingsCategorieën)))
 	
 Volgende velden kan je invullen:
 - Titel (verplicht)
@@ -86,7 +86,7 @@ Volgende velden kan je invullen:
 - Herhaal training (optioneel)
 
 **Categorie**
-Trainingscategorieën kunnen aangemaakt worden in de instellingen, zie ()
+Trainingscategorieën kunnen aangemaakt worden in de instellingen, zie ([TrainingsCategorieën](#TrainingsCategorieën))
 
 **Trainers**
 Hier kan je een of meerdere trainers toevoegen. Dit kan op twee manieren:
@@ -100,7 +100,7 @@ bevestigen. Indien de trainer aangeeft dat hij niet aanwezig kan zijn dient hij 
 Indien je dit aanvinkt wordt de training aangeduid als "automatisch inschrijven". Dit houdt in dat na creatie van de training alle leden van jouw club als deelnemer zullen toegevoegd worden aan de training indien ze aan volgende criteria voldoen:
 - Geldig abonnement op datum van de training:
 	- Geldigheidsdatum later dan de begintijd
-	- Abonnementscategorie is gelinkt aan de trainingscategorie (zie ())
+	- Abonnementscategorie is gelinkt aan de trainingscategorie (zie ([AbonnementsCategorieën](#AbonnementsCategorieën)))
 	- Met aantal resterende beurten wordt geen rekening gehouden.
 - Niet aangeduid als trainer voor de training
 - De trainingscategorie is geselecteerd onder "Categorieën automatisch inschrijven" op het overeenkomende abonnement (zie ())
