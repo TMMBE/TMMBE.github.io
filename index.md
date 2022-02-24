@@ -71,7 +71,7 @@ Training krijgt status "geannuleerd". Alle ingeschreven deelnemers krijgt een no
 	
 ## Editeer/creeër training
 	
-Om trainingen te kunnen aanmaken dien je over minstens 1 trainingscategorie te beschikken. (zie ())
+Om trainingen te kunnen aanmaken dien je over minstens 1 trainingscategorie te beschikken. (zie ([here](## TrainingsCategorieën)))
 	
 Volgende velden kan je invullen:
 - Titel (verplicht)
