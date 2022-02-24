@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: Squatix
 description: Alles voor jouw club in één applicatie!
+markdown: kramdown
