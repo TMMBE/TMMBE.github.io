@@ -25,7 +25,7 @@ In het trainingsoverzicht zie je alle trainingen voor de geselecteerde maand.
 Bovenaan kan je kiezen voor kalenderzicht (1) of lijstzicht (2). 
 De knop mijn trainingen (3) toont de trainingen waarop het ingelogde lid is ingeschreven (trainer?) (verleden of toekomst). 
 Via de QR-code knop (4) kom je in de scanning module terecht waar de QR-code van een lid kan worden gescand. (zie QR scanning)
-Via de knop trainingen aanmaken kan je een nieuwe training creëren (zie editeer training)
+Via de knop trainingen aanmaken kan je een nieuwe training creëren (zie [Editeer/creeër training](#editeer/creeër training))
 Aanklikken van een training opent de training detail pagina
 
 ## Detail
@@ -111,7 +111,7 @@ Indien een training aangeduid is als "automatisch inschrijven" wordt bij verschi
 - Aanvinken "automatisch inschrijven" bij aanpassen/aanmaken training
 - Verwijderen/toevoegen van trainers
 - Veranderen categorie van de training
-- Aanvaarden/toevoegen van een nieuw lid in de club (zie ledenbeheerd)
+- Aanvaarden/toevoegen van een nieuw lid in de club (zie [Ledenbeheer](#ledenbeheer))
 - Aanpassen van een abonnement van een lid (zie)
 - Toewijzen/verwijderen van een trainingcategorie bij een abonnementscategorie
 		
@@ -126,7 +126,7 @@ Deze optie is enkel beschikbaar bij het aanmaken van een nieuwe training.
 Kies de dagen in de week waarop deze training zich moet herhalen (de dag van de intieële training dient steeds geselecteerd te worden). Kies ook de datum waarop de herhaling dient te stoppen (maximum 1 jaar in de toekomst). Zodra de training wordt aangemaakt worden op de opgegeven dagen identieke kopieën gecreerd.
 		
 **Bewaren** 
-Indien een training wordt aangepast en deze onderdeel is van een serie (zie herhaal training) wordt bij het bewaren van de training gevraagd of enkel de geopende training moet aangepast worden of de aanpassing moet doorgevoerd worden in (een deel van) de serie. 
+Indien een training wordt aangepast en deze onderdeel is van een serie (zie [Herhaal training](#herhaal training)) wordt bij het bewaren van de training gevraagd of enkel de geopende training moet aangepast worden of de aanpassing moet doorgevoerd worden in (een deel van) de serie. 
 Indien serie aangeduid wordt: selecteer de trainingen waarop de aanpassing moet doorgevoerd worden (standaard staat elke training van de serie geselecteerd) en klik op bewaren. Alle geselecteerde trainingen zullen nu aangepast worden met de ingegeven veranderingen.
 
 
