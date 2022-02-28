@@ -5,7 +5,7 @@ description: Handleiding beheerder
 * TOC
 {:toc}
 
-# Clubdetails
+# 1.Clubdetails
 ## Clubinfo
 
 Vul informatie in over jouw club, zichtbaar voor jouw leden. Mogelijke velden zijn:
@@ -22,12 +22,12 @@ Upload een logo, zichtbaar voor jouw leden
 
 ![logo](/assets/images/upload_logo.png)
 
-# Berichten
+# 2.Berichten
 Via berichten kan je alle leden die jouw app gebruiken in éénmaal bereiken. Elk lid wordt op de hoogte gebracht dat je een bericht geplaatst hebt door middel van een e-mail of gsmnotificatie (afhankelijk van hun instellingen). Berichten laten tekst en een afbeelding toe. Gebruikers kunnen jouw bericht zien en erop reageren. Je wordt eveneens op de hoogtegebracht van reacties door middel van een notificatie. Berichten kunnen verwijderd of bewerkt worden waarna het bericht de editeerdatum zal tonen (bewerken) of "bericht verwijderd" (verwijderen).
 
 ![messages](/assets/images/messages.png)
 
-# Trainingen
+# 3.Trainingen
 ## Overzicht 
 In het trainingsoverzicht zie je alle trainingen voor de geselecteerde maand. 
 
@@ -157,9 +157,9 @@ Kies de dagen in de week waarop deze training zich moet herhalen (de dag van de 
 Indien een training wordt aangepast en deze onderdeel is van een serie wordt bij het bewaren van de training gevraagd of enkel de geopende training moet aangepast worden of de aanpassing moet doorgevoerd worden in (een deel van) de serie. 
 Indien serie aangeduid wordt: selecteer de trainingen waarop de aanpassing moet doorgevoerd worden (standaard staat elke training van de serie geselecteerd) en klik op bewaren. Alle geselecteerde trainingen zullen nu aangepast worden met de ingegeven veranderingen.
 
-# QR scanning			
+# 4.QR scanning			
 	
-# Ledenbeheer
+# 5.Ledenbeheer
 
 ## Overzicht
 	
@@ -279,7 +279,7 @@ Hier kan je een overzicht krijgen van alle trainingen waarop het lid ingeschreve
 
 ![member details subscriptions](/assets/images/member_detail_trainings.png)
 
-# Instellingen
+# 6.Instellingen
 ## Trainingscategorieën
 Om een trainingscategorie toe te voegen, klik op "voeg toe". 
 Volgende data kan ingegeven worden:
@@ -324,4 +324,4 @@ Onder club kan je volgende dingen bekijken:
 
 ![club settings](/assets/images/club_settings.png)
 
-## Chats
+# 7.Chats
