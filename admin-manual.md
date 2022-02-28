@@ -178,9 +178,11 @@ filters toe te passen:
 		
 Een van de extra filters weer verwijderen kan door op "meer filters" te klikken en deze weer leeg te maken of door te klikken op het kruisje naast de desbetreffende filter.
 		
-Nieuwe leden toevoegen kan via "Voeg toe" (zie ([Toevoegen](#toevoegen))
-Rollen bewerken kan via "Rollen" (zie ([Rollen](#rollen))
-Indien er ledenverzoeken zijn wordt dit hier getoond (zie ([Ledenverzoeken](#ledenverzoeken))
+Nieuwe leden toevoegen kan via "Voeg toe" (zie ([Toevoegen](#toevoegen)).
+
+Rollen bewerken kan via "Rollen" (zie ([Rollen](#rollen)).
+
+Indien er ledenverzoeken zijn wordt dit hier getoond (zie ([Ledenverzoeken](#ledenverzoeken)).
 
 ![member actions](/assets/images/member_actions1.png)
 
