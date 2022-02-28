@@ -1,5 +1,6 @@
 ---
 layout: default
+description: Handleiding beheerder
 ---
 <h1>Handleiding beheerder</h1>
 
