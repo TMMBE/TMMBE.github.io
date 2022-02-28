@@ -186,7 +186,7 @@ Indien er ledenverzoeken zijn wordt dit hier getoond (zie ([Ledenverzoeken](#led
 
 ![member actions](/assets/images/member_actions1.png)
 
-Met het drop-down menu en de "Uitvoeren" knop kan je acties uitvoeren op meerdere leden tegelijkertijd, zie ([Ledenacties](#ledenacties)
+Met het drop-down menu en de "Uitvoeren" knop kan je acties uitvoeren op meerdere leden tegelijkertijd, zie [Ledenacties](#ledenacties)
 
 ![member actions](/assets/images/member_actions2.png)		
 		
@@ -194,23 +194,33 @@ Met het drop-down menu en de "Uitvoeren" knop kan je acties uitvoeren op meerder
 ### Abonnementen bewerken
 Deze functie kan gebruikt worden indien je bij verschillende leden tegelijk een abonnementsaanpassing wilt doen. Vink in het overzicht de leden aan, selecteer "Bewerk abonnementen" in het drop-down menu en klik op uitvoeren. Het abonnementenscherm wordt geopend.
 		
-Bovenaan vind je een overzicht met de geselecteerde leden, met () kan je eventueel nog leden terug verwijderen.
+Bovenaan vind je een overzicht met de geselecteerde leden, met X kan je eventueel nog leden terug verwijderen.
+
+![mass subscriptions](/assets/images/mass_subscriptions1.png)	
 		
 In het onderste deel kan je gewenste actie selecteren:
 - Nieuw abonnement toevoegen: alle geselecteerde leden krijgen een nieuwe abonnementen toegevoegd. Dit nieuw abonnement moet compatibel zijn met hun bestaande actieve abonnementen. Selecteer de gewenste opties van dit nieuwe abonnement en klik op "bewaar"
+![mass subscriptions](/assets/images/mass_subscriptions2.png)
+
 - Abonnement verlengen: alle geselecteerd abonnementen van de geselecteerde leden worden verlengd. Selecteer de termijn en klik op "bewaar"
-		
+![mass subscriptions](/assets/images/mass_subscriptions3.png)		
 		
 		
 ### QR genereren
 QR-codes van leden kunnen ook afgedrukt worden. Met deze codes kunnen leden gescand worden om hun aanwezigheid op de training te bevestigen (zie ([QR scanning](#qr-scanning)). Vink in het overzicht de leden, selecteer "Genereer QR" in het drop-down menu en klik op uitvoeren. Een PDF bestand met de gewenste QR codes wordt geopend.
+
+![QR codes](/assets/images/generate_qr.png)	
 		
 ### Aanwezigheidslijst
 Genereer een rapport met de aanwezigheden per lid. Vink eerst een aantal leden aan in het overzichtsscherm, selecteer "aanwezigheidslijst" in het drop-down menu en klik op "uitvoeren", het aanwezigheidslijstscherm wordt geopend.
 		
-Bovenaan vind je een overzicht met de geselecteerde leden, met () kan je eventueel nog leden terug verwijderen.
+Bovenaan vind je een overzicht met de geselecteerde leden, met X kan je eventueel nog leden terug verwijderen.
+
+![attendance list](/assets/images/attendance_list1.png)	
 		
-In het onderste deel kan je de trainingen filteren waarvoor je de aanwezigheidslijst wilt genereren, eens de juiste parameters zijn ingevuld, klik op "ok" en de resultaten worden zichtbaar. Wens je de lijst gemakkelijk te kunnen afdrukken, klik dan op () en er wordt een PDF gegenereerd met hetzelfde overzicht.
+In het onderste deel kan je de trainingen filteren waarvoor je de aanwezigheidslijst wilt genereren, eens de juiste parameters zijn ingevuld, klik op "ok" en de resultaten worden zichtbaar. Wens je de lijst gemakkelijk te kunnen afdrukken, klik dan op (1) en er wordt een PDF gegenereerd met hetzelfde overzicht.
+
+![attendance list](/assets/images/attendance_list2.png)	
 		
 		
 ## Toevoegen
