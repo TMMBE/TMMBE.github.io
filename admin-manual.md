@@ -82,18 +82,18 @@ Hier worden alle gebeurtenissen die plaatsvinden op de training getoond:
 			
 **Editeer training (2)**, (zie [Editeer/creeër training](#editeercreeër-training))
 
-**Extra acties (3)**
+**Extra acties via (3):**
 
 ![training actions](/assets/images/training_actions2.png)
 
-	**Maak kopie** 
-	Toon de bewerk training pagina met alle velden ingevuld gelijk aan de waardes van de training waarvan een kopie gemaakt is.
+**Maak kopie(1)** 
+Toon de bewerk training pagina met alle velden ingevuld gelijk aan de waardes van de training waarvan een kopie gemaakt is.
 
-	**Verwijder**
-	Dit is enkel mogelijk indien er nog geen ingeschreven deelnemers zijn of indien de training eerst geannuleerd is. Verwijderen kan niet ongedaan gemaakt worden.
+**Verwijder(2)**
+Dit is enkel mogelijk indien er nog geen ingeschreven deelnemers zijn of indien de training eerst geannuleerd is. Verwijderen kan niet ongedaan gemaakt worden.
 
-	**Annuleer training** 
-	Training krijgt status "geannuleerd". Alle ingeschreven deelnemers krijgt een notificatie. 
+**Annuleer training(3)** 
+Training krijgt status "geannuleerd". Alle ingeschreven deelnemers krijgt een notificatie. 
 	
 ## Editeer/creeër training
 	
