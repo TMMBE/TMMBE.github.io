@@ -166,7 +166,7 @@ In het onderste deel kan je gewenste actie selecteren:
 		
 		
 ### QR genereren
-QR-codes van leden kunnen ook afgedrukt worden. Met deze codes kunnen leden gescand worden om hun aanwezigheid op de training te bevestigen (zie ([QR scanning](#qrscanning)). Vink in het overzicht de leden, selecteer "Genereer QR" in het drop-down menu en klik op uitvoeren. Een PDF bestand met de gewenste QR codes wordt geopend.
+QR-codes van leden kunnen ook afgedrukt worden. Met deze codes kunnen leden gescand worden om hun aanwezigheid op de training te bevestigen (zie ([QR scanning](#qr-scanning)). Vink in het overzicht de leden, selecteer "Genereer QR" in het drop-down menu en klik op uitvoeren. Een PDF bestand met de gewenste QR codes wordt geopend.
 		
 ### Aanwezigheidslijst
 Genereer een rapport met de aanwezigheden per lid. Vink eerst een aantal leden aan in het overzichtsscherm, selecteer "aanwezigheidslijst" in het drop-down menu en klik op "uitvoeren", het aanwezigheidslijstscherm wordt geopend.
