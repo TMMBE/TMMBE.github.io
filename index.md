@@ -240,7 +240,7 @@ Volgende data kan ingegeven worden:
 Aanpassen van een AbonnementsCategorie: klik op ()
 		
 ## Lid verzoek vragen
-Wanneer leden een verzoek verzenden om lid te worden van jouw club kan je hen vragen een aantal vragen te beantwoorden. Zo kan je bijvoorbeeld vragen of ze ook een vrijwillige functie in de club willen uitvoeren, voor welke afdeling ze zich inschrijven in jouw club enzovoort. De antwoorden van het lid zie je bij hun lidverzoek (zie ([Lidverzoeken](#lidverzoeken)). De vragen en antwoorden kunnen aangemaakt worden in verschillende talen. De vraag zal voor de gebruiker automatisch verschijnen in de taal die hij in zijn profiel ingevuld heeft.
+Wanneer leden een verzoek verzenden om lid te worden van jouw club kan je hen vragen een aantal vragen te beantwoorden. Zo kan je bijvoorbeeld vragen of ze ook een vrijwillige functie in de club willen uitvoeren, voor welke afdeling ze zich inschrijven in jouw club enzovoort. De antwoorden van het lid zie je bij hun lidverzoek (zie ([Lidverzoeken](#lid-verzoeken)). De vragen en antwoorden kunnen aangemaakt worden in verschillende talen. De vraag zal voor de gebruiker automatisch verschijnen in de taal die hij in zijn profiel ingevuld heeft.
 		
 Om een nieuwe vraag aan te maken, klik op "voeg toe".
 Onder "vraag" vul je de vraag in. Klik op "vertaling toevoegen" om de vraag in meerdere talen beschikbaar te stellen.
