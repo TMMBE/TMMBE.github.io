@@ -7,6 +7,9 @@ description: Handleiding beheerder
 
 # Clubdetails
 ## Clubinfo
+
+![clubinfo](/assets/images/club_info.png)
+
 Vul informatie in over jouw club, zichtbaar voor jouw leden. Mogelijke velden zijn:
 - Beschrijving
 - Adres
@@ -14,6 +17,9 @@ Vul informatie in over jouw club, zichtbaar voor jouw leden. Mogelijke velden zi
 - Website
 
 ## Logo
+
+![logo](/assets/images/upload_logo.png)
+
 Upload een logo, zichtbaar voor jouw leden
 
 # Berichten
