@@ -171,18 +171,18 @@ filters toe te passen:
 - rol (zie)
 - status abonnement (geldig of niet meer geldig, beurten tellen WEL/NIET mee?)
 - type abonnement (met beurten of enkel met een geldigheidsdatum)
-- abonnementscategorie (zie ([Abonnement](#abonnement))
+- abonnementscategorie (zie [Abonnement](#abonnement))
 - trainingscategorie (filter wordt enkel getoond indien een abonnementscategorie is geselecteerd, filter bevat de trainingscategorieën gelinkt aan dit abonnement, zie ([AbonnementsCategorieën](#abonnementscategorieën))
 
 ![member list](/assets/images/member_list.png)
 		
 Een van de extra filters weer verwijderen kan door op "meer filters" te klikken en deze weer leeg te maken of door te klikken op het kruisje naast de desbetreffende filter.
 		
-Nieuwe leden toevoegen kan via "Voeg toe" (zie ([Toevoegen](#toevoegen)).
+Nieuwe leden toevoegen kan via "Voeg toe" (zie [Toevoegen](#toevoegen)).
 
-Rollen bewerken kan via "Rollen" (zie ([Rollen](#rollen)).
+Rollen bewerken kan via "Rollen" (zie [Rollen](#rollen)).
 
-Indien er ledenverzoeken zijn wordt dit hier getoond (zie ([Ledenverzoeken](#ledenverzoeken)).
+Indien er ledenverzoeken zijn wordt dit hier getoond (zie [Ledenverzoeken](#ledenverzoeken)).
 
 ![member actions](/assets/images/member_actions1.png)
 
@@ -244,7 +244,9 @@ Velden die je kan invullen zijn:
 	
 ## Rollen
 Met rollen kan je jouw leden toegang geven tot bepaalde functionaliteiten of pagina's waar een lid zonder die rol geen toegang toe heeft. Op de rollen-pagina kan je de verschillende rollen en hun permissies voor jouw club definiëren. Daarna kan je in de detail pagina van een lid hem een van die rollen toekennen (zie ([Lid gegevens](#lid-gegevens)).
-	
+
+![roles](/assets/images/roles.png)	
+
 Volgende permissies kunnen aan een rol gegeven worden:
 - Club info wijzigen ()
 - Club chat ()
@@ -257,13 +259,25 @@ Volgende permissies kunnen aan een rol gegeven worden:
 Standaard rollen die niet kunnen verwijderd op aangepast worden:
 - Eigenaar (Alle permissies, uitgezonder trainer. Enkel toegekend aan persoon die de club aangemaakt heeft, kan beheerders aanduiden)
 - Beheerder (Alle permissies, uitgezonderd trainer)
+- Trainer (Kan als trainer toegevoegd worden aan een training)
 		
 ## Detail
 ### Abonnement
+
+![member details subscriptions](/assets/images/member_detail_subscriptions.png)
+
 ### Lid gegevens
+
+![member details subscriptions](/assets/images/member_detail_memberdetails.png)
+
 ### Persoonlijk
+
+![member details subscriptions](/assets/images/member_detail_personal.png)
+
 ### Trainingen
 Hier kan je een overzicht krijgen van alle trainingen waarop het lid ingeschreven is (verleden en toekomst)
+
+![member details subscriptions](/assets/images/member_detail_trainings.png)
 
 # Instellingen
 ## Trainingscategorieën
@@ -274,7 +288,9 @@ Volgende data kan ingegeven worden:
 - Inschrijven: enkel leden met een geldig abonnement kunnen inschrijven op de training of alle leden kunnen inschrijven
 - Trainers: selecteer trainers die automatisch zullen ingevuld worden bij het aanmaken van een training van deze categorie
 
-Voor het aanpassen van een trainingscategorie: klik op ()
+![Training category](/assets/images/training_categorie.png)
+
+Voor het aanpassen van een trainingscategorie: klik op het potloodje
 
 ## Abonnementscategorieën
 AbonnementsCategorieën zijn optioneel. Het is ook mogelijk een abonnement aan te maken zonder categorie.
@@ -283,11 +299,15 @@ Om een abonnementscategorie toe te voegen, klik op "voeg toe".
 Volgende data kan ingegeven worden:
 - Naam
 - Gelinkte trainingscategorieën: link een van de aangemaakte trainingscategorieën aan de abonnementscategorie. Op deze manier kan je bepalen voor welke trainingen een lid kan inschrijven (indien de categorie enkel voor geldig abonnement inschrijfbaar is) of voor welke trainingen een lid automatisch kan ingeschreven worden (zie ([Automatisch inschrijven](#automatischinschrijven))
+
+![Subscription category](/assets/images/subscription_categorie.png)
 			
-Aanpassen van een AbonnementsCategorie: klik op ()
+Aanpassen van een AbonnementsCategorie: klik op het potloodje
 		
 ## Lid verzoek vragen
 Wanneer leden een verzoek verzenden om lid te worden van jouw club kan je hen vragen een aantal vragen te beantwoorden. Zo kan je bijvoorbeeld vragen of ze ook een vrijwillige functie in de club willen uitvoeren, voor welke afdeling ze zich inschrijven in jouw club enzovoort. De antwoorden van het lid zie je bij hun lidverzoek (zie ([Lidverzoeken](#lid-verzoeken)). De vragen en antwoorden kunnen aangemaakt worden in verschillende talen. De vraag zal voor de gebruiker automatisch verschijnen in de taal die hij in zijn profiel ingevuld heeft.
+
+![member question](/assets/images/member_question.png)
 		
 Om een nieuwe vraag aan te maken, klik op "voeg toe".
 Onder "vraag" vul je de vraag in. Klik op "vertaling toevoegen" om de vraag in meerdere talen beschikbaar te stellen.
@@ -301,5 +321,7 @@ Om een eerder aangemaakte vraag aan te passen, klik op (). Hetzelfde scherm als 
 Onder club kan je volgende dingen bekijken:
 - Bekijk het abonnement waarover de club beschikt bij squatix en de geldigheidsdatum. Zodra de geldigheidsdatum is overschreven is het niet meer mogelijk nieuwe leden toe te voegen.
 - Agenda delen: Het is mogelijk de trainingskalender te gebruiken in een externe kalender applicatie die ICS ondersteunt. Kopieër daartoe de ics-url naar de benodigde plaats. Voor ondersteuning neem contact op met het team dat de applicatie aanbiedt.
+
+![club settings](/assets/images/club_settings.png)
 
 ## Chats
