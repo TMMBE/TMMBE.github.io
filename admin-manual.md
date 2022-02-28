@@ -86,19 +86,21 @@ Hier worden alle gebeurtenissen die plaatsvinden op de training getoond:
 
 ![training actions](/assets/images/training_actions2.png)
 
-**Maak kopie(1)** 
+**Maak kopie (1)** 
 Toon de bewerk training pagina met alle velden ingevuld gelijk aan de waardes van de training waarvan een kopie gemaakt is.
 
-**Verwijder(2)**
+**Verwijder (2)**
 Dit is enkel mogelijk indien er nog geen ingeschreven deelnemers zijn of indien de training eerst geannuleerd is. Verwijderen kan niet ongedaan gemaakt worden.
 
-**Annuleer training(3)** 
+**Annuleer training (3)** 
 Training krijgt status "geannuleerd". Alle ingeschreven deelnemers krijgt een notificatie. 
 	
 ## Editeer/creeër training
 	
-Om trainingen te kunnen aanmaken dien je over minstens 1 trainingscategorie te beschikken. (zie ([TrainingsCategorieën](#trainingscategorieën)))
-	
+Om trainingen te kunnen aanmaken dien je over minstens 1 trainingscategorie te beschikken. (zie [TrainingsCategorieën](#trainingscategorieën))
+
+![new training](/assets/images/new_training.png)
+
 Volgende velden kan je invullen:
 - Titel (verplicht)
 - Start datum/uur (verplicht)
@@ -171,14 +173,22 @@ filters toe te passen:
 - type abonnement (met beurten of enkel met een geldigheidsdatum)
 - abonnementscategorie (zie ([Abonnement](#abonnement))
 - trainingscategorie (filter wordt enkel getoond indien een abonnementscategorie is geselecteerd, filter bevat de trainingscategorieën gelinkt aan dit abonnement, zie ([AbonnementsCategorieën](#abonnementscategorieën))
+
+![member list](/assets/images/member_list.png)
 		
-Een van de extra filters weer verwijderen kan door op "meer filters" te klikken en deze weer leeg te maken of door te klikken p het kruisje naast de desbetreffende filter.
+Een van de extra filters weer verwijderen kan door op "meer filters" te klikken en deze weer leeg te maken of door te klikken op het kruisje naast de desbetreffende filter.
 		
-Nieuwe leden toevoegen kan via "Voeg toe" (zie ([Toevoegen](#toevoegen))
-Rollen bewerken kan via "Rollen" (zie ([Rollen](#rollen))
+Nieuwe leden toevoegen kan via "Voeg toe" (zie ([Toevoegen](#toevoegen)).
+
+Rollen bewerken kan via "Rollen" (zie ([Rollen](#rollen)).
+
+Indien er ledenverzoeken zijn wordt dit hier getoond (zie ([Ledenverzoeken](#ledenverzoeken)).
+
+![member actions](/assets/images/member_actions1.png)
+
 Met het drop-down menu en de "Uitvoeren" knop kan je acties uitvoeren op meerdere leden tegelijkertijd, zie ([Ledenacties](#ledenacties)
-Indien er ledenverzoeken zijn wordt dit hier getoond (zie ([Ledenverzoeken](#ledenverzoeken))
-		
+
+![member actions](/assets/images/member_actions2.png)		
 		
 ## Ledenacties
 ### Abonnementen bewerken
