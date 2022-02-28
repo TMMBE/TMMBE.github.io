@@ -192,7 +192,8 @@ Velden die je kan invullen zijn:
 	- gemeente
 	- postcode 
 	- land
-	
+
+## Ledenverzoeken
 	
 ## Rollen
 Met rollen kan je jouw leden toegang geven tot bepaalde functionaliteiten of pagina's waar een lid zonder die rol geen toegang toe heeft. Op de rollen-pagina kan je de verschillende rollen en hun permissies voor jouw club definiëren. Daarna kan je in de detail pagina van een lid hem een van die rollen toekennen (zie ([Lid gegevens](#lidgegevens)).
