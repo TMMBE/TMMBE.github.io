@@ -150,7 +150,7 @@ Een van de extra filters weer verwijderen kan door op "meer filters" te klikken 
 Nieuwe leden toevoegen kan via "Voeg toe" (zie ([Toevoegen](#toevoegen))
 Rollen bewerken kan via "Rollen" (zie ([Rollen](#rollen))
 Met het drop-down menu en de "Uitvoeren" knop kan je acties uitvoeren op meerdere leden tegelijkertijd, zie ([Ledenacties](#ledenacties)
-Indien er ledenverzoeken zijn wordt dit hier getoond (zie ([Ledenverzoeke](#ledenverzoeken))
+Indien er ledenverzoeken zijn wordt dit hier getoond (zie ([Ledenverzoeken](#ledenverzoeken))
 		
 		
 ## Ledenacties
