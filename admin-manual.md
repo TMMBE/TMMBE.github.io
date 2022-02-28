@@ -8,19 +8,19 @@ description: Handleiding beheerder
 # Clubdetails
 ## Clubinfo
 
-![clubinfo](/assets/images/club_info.png)
-
 Vul informatie in over jouw club, zichtbaar voor jouw leden. Mogelijke velden zijn:
 - Beschrijving
 - Adres
 - Contactinformatie (naam contactpersoon, e-mail, telefoonnummer)
 - Website
 
+![clubinfo](/assets/images/club_info.png)
+
 ## Logo
 
-![logo](/assets/images/upload_logo.png)
-
 Upload een logo, zichtbaar voor jouw leden
+
+![logo](/assets/images/upload_logo.png)
 
 # Berichten
 Via berichten kan je alle leden die jouw app gebruiken in éénmaal bereiken. Elk lid wordt op de hoogte gebracht dat je een bericht geplaatst hebt door middel van een e-mail of gsmnotificatie (afhankelijk van hun instellingen). Berichten laten tekst en een afbeelding toe. Gebruikers kunnen jouw bericht zien en erop reageren. Je wordt eveneens op de hoogtegebracht van reacties door middel van een notificatie. Berichten kunnen verwijderd of bewerkt worden waarna het bericht de editeerdatum zal tonen (bewerken) of "bericht verwijderd" (verwijderen).
