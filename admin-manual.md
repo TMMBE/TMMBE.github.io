@@ -34,7 +34,9 @@ In het trainingsoverzicht zie je alle trainingen voor de geselecteerde maand.
 Bovenaan kan je kiezen voor kalenderzicht (1) of lijstzicht (2). 
 De knop mijn trainingen (3) toont de trainingen waarop het ingelogde lid is ingeschreven (trainer?) (verleden of toekomst). 
 Via de QR-code knop (4) kom je in de scanning module terecht waar de QR-code van een lid kan worden gescand. (zie QR scanning)
+
 Via de knop trainingen aanmaken kan je een nieuwe training creëren (zie [Editeer/creeër training](#editeercreeër-training))
+
 Aanklikken van een training opent de training detail pagina
 
 ## Detail
