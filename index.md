@@ -1,2 +1,2 @@
-[Handleiding gebruiker](user-manual.md)
-[Handleiding beheerder](admin-manual.md)
+- [Handleiding gebruiker](user-manual.md)
+- [Handleiding beheerder](admin-manual.md)
