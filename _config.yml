@@ -1,7 +1,5 @@
-title: "Remote theme example"
+title: "Squatix"
 remote_theme: pmarsceill/just-the-docs
-color_scheme: "dark"
+color_scheme: "light"
 search_enabled: false
 markdown: kramdown
-kramdown:
-  toc_levels        : [1, 2]
