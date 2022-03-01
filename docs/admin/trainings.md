@@ -1,5 +1,5 @@
 ---
-
+layout: admin
 ---
 
 # Trainingen
@@ -13,7 +13,7 @@ De knop mijn trainingen (3) toont de trainingen waarop het ingelogde lid is inge
 
 ![training_overview](/assets/images/training_buttons.png)
 
-Via de knop "Training aanmaken" kan je een nieuwe training creëren (zie [Editeer/creeër training](#editeercreeër-training))
+Via de knop "Training aanmaken" kan je een nieuwe training creÃ«ren (zie [Editeer/creeÃ«r training](#editeercreeÃ«r-training))
 
 Aanklikken van een training opent de training detail pagina.
 
@@ -28,7 +28,7 @@ De training detail pagina toont volgende training info:
 
 ![trainingdetails](/assets/images/training_details.png)
 
-In de deelnemers tabel zie je de ingeschreven deelnemers. Via + kan je zelf leden handmatig inschrijven voor de training. Wanneer een beheerder een lid handmatig inschrijft is het mogelijk om ook deelnemers met een ongeldig abonnement in te schrijven, zelfs indien ingesteld is dat de training categorie enkel voor leden met een geldig abonnement is (zie [6.1 Trainingscategorieën](#6.1-trainingscategorieën)). Wanneer een lid zichzelf wilt inschrijven moet hij wel aan deze regel voldoen.
+In de deelnemers tabel zie je de ingeschreven deelnemers. Via + kan je zelf leden handmatig inschrijven voor de training. Wanneer een beheerder een lid handmatig inschrijft is het mogelijk om ook deelnemers met een ongeldig abonnement in te schrijven, zelfs indien ingesteld is dat de training categorie enkel voor leden met een geldig abonnement is (zie [6.1 TrainingscategorieÃ«n](#6.1-trainingscategorieÃ«n)). Wanneer een lid zichzelf wilt inschrijven moet hij wel aan deze regel voldoen.
 
 ![training participants](/assets/images/training-participants.png)
 
@@ -57,7 +57,7 @@ Hier worden alle gebeurtenissen die plaatsvinden op de training getoond. Sommige
 			
 **Editeer training (2)** 
 
-zie [Editeer/creeër training](#editeercreeër-training)
+zie [Editeer/creeÃ«r training](#editeercreeÃ«r-training)
 
 **Extra acties via (3):**
 
@@ -72,9 +72,9 @@ Dit is enkel mogelijk indien er nog geen ingeschreven deelnemers zijn of indien 
 - **Annuleer training (3)**  
 Training krijgt status "geannuleerd". Alle ingeschreven deelnemers krijgt een notificatie. 
 	
-## Editeer/creeër training
+## Editeer/creeÃ«r training
 	
-Om trainingen te kunnen aanmaken dien je over minstens 1 trainingscategorie te beschikken. (zie [6.1 Trainingscategorieën](#6.1-trainingscategorieën))
+Om trainingen te kunnen aanmaken dien je over minstens 1 trainingscategorie te beschikken. (zie [6.1 TrainingscategorieÃ«n](#6.1-trainingscategorieÃ«n))
 
 Volgende velden kan je invullen:
 - Titel (verplicht)
@@ -90,7 +90,7 @@ Volgende velden kan je invullen:
 
 **Categorie**
 
-Trainingscategorieën kunnen aangemaakt worden in instellingen, zie [6.1 Trainingscategorieën](#6.1-trainingscategorieën)
+TrainingscategorieÃ«n kunnen aangemaakt worden in instellingen, zie [6.1 TrainingscategorieÃ«n](#6.1-trainingscategorieÃ«n)
 
 ![training categorie](/assets/images/new_training_category.png)
 
@@ -98,7 +98,7 @@ Trainingscategorieën kunnen aangemaakt worden in instellingen, zie [6.1 Training
 
 Hier kan je een of meerdere trainers toevoegen. Dit kan op twee manieren:
 - Manueel: klik op "voeg trainer toe" en selecteer de trainer. Enkel leden met een trainer-rol worden getoond. Voor het toekennen van de trainer-rol zie [Lid gegevens](#lid-gegevens)
-- Automatisch: indien een trainer gelinkt is aan de gekozen trainingscategorie wordt hij automatisch ingevuld. Voor het linken van trainers aan een categorie zie ([AbonnementsCategorieën](#abonnementscategorieën). Wens je de trainer toch niet toe te voegen aan de trainer of wil je hem later weer verwijderen, klik op X
+- Automatisch: indien een trainer gelinkt is aan de gekozen trainingscategorie wordt hij automatisch ingevuld. Voor het linken van trainers aan een categorie zie ([AbonnementsCategorieÃ«n](#abonnementscategorieÃ«n). Wens je de trainer toch niet toe te voegen aan de trainer of wil je hem later weer verwijderen, klik op X
 
 ![training categorie](/assets/images/new_training_trainers.png)
 
@@ -109,10 +109,10 @@ Het is ook mogelijk deze trainers te vragen om hun aanwezigheid te bevestigen. D
 Indien je dit aanvinkt wordt de training aangeduid als "automatisch inschrijven". Dit houdt in dat na creatie van de training alle leden van jouw club als deelnemer zullen toegevoegd worden aan de training indien ze aan volgende criteria voldoen:
 - Geldig abonnement op datum van de training:
 	- Geldigheidsdatum later dan de begintijd
-	- Abonnementscategorie is gelinkt aan de trainingscategorie (zie ([AbonnementsCategorieën](#abonnementscategorieën)))
+	- Abonnementscategorie is gelinkt aan de trainingscategorie (zie ([AbonnementsCategorieÃ«n](#abonnementscategorieÃ«n)))
 	- Met aantal resterende beurten wordt geen rekening gehouden.
 - Niet aangeduid als trainer voor de training
-- De trainingscategorie is geselecteerd onder "Categorieën automatisch inschrijven" op het overeenkomende abonnement (zie [Abonnement](#abonnement))
+- De trainingscategorie is geselecteerd onder "CategorieÃ«n automatisch inschrijven" op het overeenkomende abonnement (zie [Abonnement](#abonnement))
 - Lid is niet inactief
 - Lid heeft zich niet eerder manueel uitgeschreven van de training (enkel toepasbaar indien training eerder aangemaakt werd als "gewone" training en pas later aangepast werd naar "automatisch inschrijven" - training)
 
@@ -138,7 +138,7 @@ Met deze instelling wordt geen rekening gehouden in volgende gevallen:
 **Herhaal training**
 
 Deze optie is enkel beschikbaar bij het aanmaken van een nieuwe training. 
-Kies de dagen in de week waarop deze training zich moet herhalen (de dag van de intieële training dient steeds geselecteerd te worden). Kies ook de datum waarop de herhaling dient te stoppen (maximum 1 jaar in de toekomst). Zodra de training wordt aangemaakt worden op de opgegeven dagen identieke kopieën gecreerd.
+Kies de dagen in de week waarop deze training zich moet herhalen (de dag van de intieÃ«le training dient steeds geselecteerd te worden). Kies ook de datum waarop de herhaling dient te stoppen (maximum 1 jaar in de toekomst). Zodra de training wordt aangemaakt worden op de opgegeven dagen identieke kopieÃ«n gecreerd.
 
 ![training categorie](/assets/images/new_training_recurrence.png)
 		
