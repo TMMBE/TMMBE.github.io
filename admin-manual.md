@@ -114,19 +114,18 @@ Volgende velden kan je invullen:
 - Herhaal training (optioneel)
 
 **Categorie**
-Trainingscategorieën kunnen aangemaakt worden in de instellingen, zie [TrainingsCategorieën](#trainingscategorieën)
+Trainingscategorieën kunnen aangemaakt worden in instellingen, zie [TrainingsCategorieën](#trainingscategorieën)
 
 ![training categorie](/assets/images/new_training_category.png)
 
 **Trainers**
 Hier kan je een of meerdere trainers toevoegen. Dit kan op twee manieren:
-- Manueel: klik op "voeg trainer toe" en selecteer de trainer. Enkel leden met een trainer-rol worden getoond. Voor het toekennen van de trainer-rol zie ()
-- Automatisch: indien een trainer gelinkt is aan de gekozen trainingscategorie wordt hij automatisch ingevuld. Voor het linken van trainers aan een categorie zie ([AbonnementsCategorieën](#abonnementscategorieën). Wens je de trainer toch niet toe te voegen aan de trainer of wil je hem later weer verwijderen, klik op ()
+- Manueel: klik op "voeg trainer toe" en selecteer de trainer. Enkel leden met een trainer-rol worden getoond. Voor het toekennen van de trainer-rol zie [Lid gegevens](#lid-gegevens)
+- Automatisch: indien een trainer gelinkt is aan de gekozen trainingscategorie wordt hij automatisch ingevuld. Voor het linken van trainers aan een categorie zie ([AbonnementsCategorieën](#abonnementscategorieën). Wens je de trainer toch niet toe te voegen aan de trainer of wil je hem later weer verwijderen, klik op X
 
 ![training categorie](/assets/images/new_training_trainers.png)
 
-Het is ook mogelijk deze trainers te vragen om hun aanwezigheid te bevestigen. Dit doe je door () aan te vinken. De trainer ontvangt een notificatie dat hij zijn aanwezigheid moet bevestigen. Bevestigen kan hij op de detail pagina van de training of in zijn "mijn trainingen"-pagina waar hij een overzicht heeft op alle trainingen die hij nog moet
-bevestigen. Indien de trainer aangeeft dat hij niet aanwezig kan zijn dient hij een vervanger te kiezen uit de andere beschikbare trainers.
+Het is ook mogelijk deze trainers te vragen om hun aanwezigheid te bevestigen. Dit doe je door "Vraag bevestiging" aan te vinken. De trainer ontvangt een notificatie dat hij zijn aanwezigheid moet bevestigen. Bevestigen kan hij op de detail pagina van de training of in zijn "mijn trainingen"-pagina waar hij een overzicht heeft op alle trainingen die hij nog moet bevestigen. Indien de trainer aangeeft dat hij niet aanwezig kan zijn dient hij een vervanger te kiezen uit de andere beschikbare trainers.
 
 **Automatisch alle leden inschrijven die aan de categorie zijn gekoppeld**
 Indien je dit aanvinkt wordt de training aangeduid als "automatisch inschrijven". Dit houdt in dat na creatie van de training alle leden van jouw club als deelnemer zullen toegevoegd worden aan de training indien ze aan volgende criteria voldoen:
