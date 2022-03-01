@@ -89,15 +89,15 @@ zie [Editeer/creeër training](#editeercreeër-training)
 ![training actions](/assets/images/training_actions2.png)
 
 - **Maak kopie (1)** 
-- 
+
 Toon de bewerk training pagina met alle velden ingevuld gelijk aan de waardes van de training waarvan een kopie gemaakt is.
 
 - **Verwijder (2)**
-- 
+
 Dit is enkel mogelijk indien er nog geen ingeschreven deelnemers zijn of indien de training eerst geannuleerd is. Verwijderen kan niet ongedaan gemaakt worden.
 
 - **Annuleer training (3)** 
-- 
+
 Training krijgt status "geannuleerd". Alle ingeschreven deelnemers krijgt een notificatie. 
 	
 ## 3.3 Editeer/creeër training
