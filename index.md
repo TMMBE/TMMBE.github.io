@@ -1,5 +1,5 @@
 ---
 layout: default
 ---
-- [Handleiding gebruiker](user-manual.md)
-- [Handleiding beheerder](admin-manual.md)
+- [Handleiding gebruiker](member/user-manual.md)
+- [Handleiding beheerder](admin/admin-manual.md)
