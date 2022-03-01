@@ -1,3 +1,7 @@
+---
+
+---
+
 # Trainingen
 ## Overzicht 
 In het trainingsoverzicht zie je alle trainingen voor de geselecteerde maand. 
