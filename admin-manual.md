@@ -1,6 +1,5 @@
 ---
-layout: default
-description: Handleiding beheerder
+layout: admin
 ---
 * TOC
 {:toc}
