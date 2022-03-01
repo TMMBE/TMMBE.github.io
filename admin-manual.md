@@ -5,8 +5,8 @@ description: Handleiding beheerder
 * TOC
 {:toc}
 
-# 1.Clubdetails
-## Clubinfo
+# 1 Clubdetails
+## 1.1 Clubinfo
 
 Vul informatie in over jouw club, zichtbaar voor jouw leden. Mogelijke velden zijn:
 - Beschrijving
@@ -14,36 +14,35 @@ Vul informatie in over jouw club, zichtbaar voor jouw leden. Mogelijke velden zi
 - Contactinformatie (naam contactpersoon, e-mail, telefoonnummer)
 - Website
 
-![clubinfo](/assets/images/club_info.png)
-
-## Logo
+## 1.2 Logo
 
 Upload een logo, zichtbaar voor jouw leden
 
 ![logo](/assets/images/upload_logo.png)
 
-# 2.Berichten
-Via berichten kan je alle leden die jouw app gebruiken in éénmaal bereiken. Elk lid wordt op de hoogte gebracht dat je een bericht geplaatst hebt door middel van een e-mail of gsmnotificatie (afhankelijk van hun instellingen). Berichten laten tekst en een afbeelding toe. Gebruikers kunnen jouw bericht zien en erop reageren. Je wordt eveneens op de hoogtegebracht van reacties door middel van een notificatie. Berichten kunnen verwijderd of bewerkt worden waarna het bericht de editeerdatum zal tonen (bewerken) of "bericht verwijderd" (verwijderen).
+# 2 Berichten
+Via berichten kan je alle leden die jouw app gebruiken in éénmaal bereiken. Elk lid wordt op de hoogte gebracht dat je een bericht geplaatst hebt door middel van een e-mail of gsmnotificatie (afhankelijk van hun instellingen). Berichten laten tekst en een afbeelding toe. Gebruikers kunnen jouw bericht zien en erop reageren. Je wordt eveneens op de hoogtegebracht van reacties door middel van een notificatie. 
+
+Berichten kunnen verwijderd of bewerkt worden waarna het bericht de editeerdatum zal tonen (bewerken) of "bericht verwijderd" (verwijderen).
 
 ![messages](/assets/images/messages.png)
 
-# 3.Trainingen
-## Overzicht 
+# 3 Trainingen
+## 3.1 Overzicht 
 In het trainingsoverzicht zie je alle trainingen voor de geselecteerde maand. 
 
 ![traininglist](/assets/images/training_list.png)
 		
 Bovenaan kan je kiezen voor kalenderzicht (1) of lijstzicht (2). 
 De knop mijn trainingen (3) toont de trainingen waarop het ingelogde lid is ingeschreven (trainer?) (verleden of toekomst). 
-Via de QR-code knop (4) kom je in de scanning module terecht waar de QR-code van een lid kan worden gescand. (zie [QR scanning](#qr-scanning))
 
 ![training_overview](/assets/images/training_buttons.png)
 
 Via de knop "Training aanmaken" kan je een nieuwe training creëren (zie [Editeer/creeër training](#editeercreeër-training))
 
-Aanklikken van een training opent de training detail pagina
+Aanklikken van een training opent de training detail pagina.
 
-## Detail
+## 3.2 Detail
 De training detail pagina toont volgende training info:
 - Titel
 - Start- en eind datum 
@@ -54,7 +53,7 @@ De training detail pagina toont volgende training info:
 
 ![trainingdetails](/assets/images/training_details.png)
 
-In de deelnemers tabel zie je de ingeschreven deelnemers. Via + kan je zelf leden handmatig inschrijven voor de training. Wanneer een beheerder een lid handmatig inschrijft is het mogelijk om ook deelnemers met een ongeldig abonnement in te schrijven, zelfs indien ingesteld is dat de training categorie enkel voor leden met een geldig abonnement is (zie ([TrainingsCategorieën](#trainingscategorieën)). Wanneer een lid zichzelf wilt inschrijven moet hij wel aan deze regel voldoen.
+In de deelnemers tabel zie je de ingeschreven deelnemers. Via + kan je zelf leden handmatig inschrijven voor de training. Wanneer een beheerder een lid handmatig inschrijft is het mogelijk om ook deelnemers met een ongeldig abonnement in te schrijven, zelfs indien ingesteld is dat de training categorie enkel voor leden met een geldig abonnement is (zie [TrainingsCategorieën](#trainingscategorieën)). Wanneer een lid zichzelf wilt inschrijven moet hij wel aan deze regel voldoen.
 
 ![training participants](/assets/images/training-participants.png)
 
@@ -70,7 +69,7 @@ Een deelnemer kan bevestigd worden voor de training indien zijn QR-code gescand 
 
 ![training actions](/assets/images/training_actions1.png)
 
-**Training geschiedenis (1)** 
+- **Training geschiedenis (1)** 
 Hier worden alle gebeurtenissen die plaatsvinden op de training getoond:
 - Aanpassing details training (lid + beheerder)
 - Deelnemer schrijft zich uit (Beheerder)
@@ -80,13 +79,13 @@ Hier worden alle gebeurtenissen die plaatsvinden op de training getoond:
 - Training geannulleerd (Lid + beheerder)
 - Trainers aangepast (Beheerder)
 			
-**Editeer training (2)**, (zie [Editeer/creeër training](#editeercreeër-training))
+- **Editeer training (2)**, (zie [Editeer/creeër training](#editeercreeër-training))
 
-**Extra acties via (3):**
+- **Extra acties via (3):**
 
 ![training actions](/assets/images/training_actions2.png)
 
-**Maak kopie (1)** 
+  - **Maak kopie (1)** 
 Toon de bewerk training pagina met alle velden ingevuld gelijk aan de waardes van de training waarvan een kopie gemaakt is.
 
 **Verwijder (2)**
@@ -95,7 +94,7 @@ Dit is enkel mogelijk indien er nog geen ingeschreven deelnemers zijn of indien 
 **Annuleer training (3)** 
 Training krijgt status "geannuleerd". Alle ingeschreven deelnemers krijgt een notificatie. 
 	
-## Editeer/creeër training
+## 3.3 Editeer/creeër training
 	
 Om trainingen te kunnen aanmaken dien je over minstens 1 trainingscategorie te beschikken. (zie [TrainingsCategorieën](#trainingscategorieën))
 
@@ -157,11 +156,11 @@ Kies de dagen in de week waarop deze training zich moet herhalen (de dag van de 
 Indien een training wordt aangepast en deze onderdeel is van een serie wordt bij het bewaren van de training gevraagd of enkel de geopende training moet aangepast worden of de aanpassing moet doorgevoerd worden in (een deel van) de serie. 
 Indien serie aangeduid wordt: selecteer de trainingen waarop de aanpassing moet doorgevoerd worden (standaard staat elke training van de serie geselecteerd) en klik op bewaren. Alle geselecteerde trainingen zullen nu aangepast worden met de ingegeven veranderingen.
 
-# 4.QR scanning			
+# 4 QR scanning			
 	
-# 5.Ledenbeheer
+# 5 Ledenbeheer
 
-## Overzicht
+## 5.1 Overzicht
 	
 Standaard worden alle actieve leven getoond, alfabetisch gerangschikt op voornaam. Met () en () is het mogelijk de resultaten op een andere manier te rangschikken. Het is mogelijk verschillende
 filters toe te passen:
@@ -190,7 +189,7 @@ Met het drop-down menu en de "Uitvoeren" knop kan je acties uitvoeren op meerder
 
 ![member actions](/assets/images/member_actions2.png)		
 		
-## Ledenacties
+## 5.2 Ledenacties
 ### Abonnementen bewerken
 Deze functie kan gebruikt worden indien je bij verschillende leden tegelijk een abonnementsaanpassing wilt doen. Vink in het overzicht de leden aan, selecteer "Bewerk abonnementen" in het drop-down menu en klik op uitvoeren. Het abonnementenscherm wordt geopend.
 		
@@ -223,7 +222,7 @@ In het onderste deel kan je de trainingen filteren waarvoor je de aanwezigheidsl
 ![attendance list](/assets/images/attendance_list2.png)	
 		
 		
-## Toevoegen
+## 5.3 Toevoegen
 Deze functie laat jou toe om leden toe te voegen en hun details te bewaren, ook al gebruiken ze Squatix niet. Indien ze toch later Squatix beginnen gebruiken en een lidverzoek voor jouw club indienen kan je het door jou aangemaakte profiel met de echte gebruiker linken. (zie ([Ledenverzoeken](#ledenverzoeken))
 Velden die je kan invullen zijn:
 - voornaam (verplicht)
@@ -240,9 +239,9 @@ Velden die je kan invullen zijn:
 	- postcode 
 	- land
 
-## Ledenverzoeken
+## 5.4 Ledenverzoeken
 	
-## Rollen
+## 5.5 Rollen
 Met rollen kan je jouw leden toegang geven tot bepaalde functionaliteiten of pagina's waar een lid zonder die rol geen toegang toe heeft. Op de rollen-pagina kan je de verschillende rollen en hun permissies voor jouw club definiëren. Daarna kan je in de detail pagina van een lid hem een van die rollen toekennen (zie ([Lid gegevens](#lid-gegevens)).
 
 ![roles](/assets/images/roles.png)	
@@ -261,7 +260,7 @@ Standaard rollen die niet kunnen verwijderd op aangepast worden:
 - Beheerder (Alle permissies, uitgezonderd trainer)
 - Trainer (Kan als trainer toegevoegd worden aan een training)
 		
-## Detail
+## 5.6 Detail
 ### Abonnement
 
 ![member details subscriptions](/assets/images/member_detail_subscriptions.png)
@@ -280,7 +279,7 @@ Hier kan je een overzicht krijgen van alle trainingen waarop het lid ingeschreve
 ![member details subscriptions](/assets/images/member_detail_trainings.png)
 
 # 6.Instellingen
-## Trainingscategorieën
+## 6.1 Trainingscategorieën
 Om een trainingscategorie toe te voegen, klik op "voeg toe". 
 Volgende data kan ingegeven worden:
 - Naam
@@ -292,7 +291,7 @@ Volgende data kan ingegeven worden:
 
 Voor het aanpassen van een trainingscategorie: klik op het potloodje
 
-## Abonnementscategorieën
+## 6.2 Abonnementscategorieën
 AbonnementsCategorieën zijn optioneel. Het is ook mogelijk een abonnement aan te maken zonder categorie.
 
 Om een abonnementscategorie toe te voegen, klik op "voeg toe". 
@@ -304,7 +303,7 @@ Volgende data kan ingegeven worden:
 			
 Aanpassen van een AbonnementsCategorie: klik op het potloodje
 		
-## Lid verzoek vragen
+## 6.3 Lid verzoek vragen
 Wanneer leden een verzoek verzenden om lid te worden van jouw club kan je hen vragen een aantal vragen te beantwoorden. Zo kan je bijvoorbeeld vragen of ze ook een vrijwillige functie in de club willen uitvoeren, voor welke afdeling ze zich inschrijven in jouw club enzovoort. De antwoorden van het lid zie je bij hun lidverzoek (zie ([Lidverzoeken](#lid-verzoeken)). De vragen en antwoorden kunnen aangemaakt worden in verschillende talen. De vraag zal voor de gebruiker automatisch verschijnen in de taal die hij in zijn profiel ingevuld heeft.
 
 ![member question](/assets/images/member_question.png)
@@ -317,11 +316,11 @@ Om de vraag te bewaren klik je op "bewaar". Het volgende lid dat lid wil worden 
 		
 Om een eerder aangemaakte vraag aan te passen, klik op (). Hetzelfde scherm als bij het aanmaken van een vraag opent zich met de reeds eerder ingevulde waarden.
 	
-## Club
+## 6.4 Club
 Onder club kan je volgende dingen bekijken:
 - Bekijk het abonnement waarover de club beschikt bij squatix en de geldigheidsdatum. Zodra de geldigheidsdatum is overschreven is het niet meer mogelijk nieuwe leden toe te voegen.
 - Agenda delen: Het is mogelijk de trainingskalender te gebruiken in een externe kalender applicatie die ICS ondersteunt. Kopieër daartoe de ics-url naar de benodigde plaats. Voor ondersteuning neem contact op met het team dat de applicatie aanbiedt.
 
 ![club settings](/assets/images/club_settings.png)
 
-# 7.Chats
+# 7 Chats
