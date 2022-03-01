@@ -14,8 +14,6 @@ Vul informatie in over jouw club, zichtbaar voor jouw leden. Mogelijke velden zi
 - Contactinformatie (naam contactpersoon, e-mail, telefoonnummer)
 - Website
 
-![clubinfo](/assets/images/club_info.png)
-
 ## 1.2 Logo
 
 Upload een logo, zichtbaar voor jouw leden
@@ -23,7 +21,9 @@ Upload een logo, zichtbaar voor jouw leden
 ![logo](/assets/images/upload_logo.png)
 
 # 2 Berichten
-Via berichten kan je alle leden die jouw app gebruiken in éénmaal bereiken. Elk lid wordt op de hoogte gebracht dat je een bericht geplaatst hebt door middel van een e-mail of gsmnotificatie (afhankelijk van hun instellingen). Berichten laten tekst en een afbeelding toe. Gebruikers kunnen jouw bericht zien en erop reageren. Je wordt eveneens op de hoogtegebracht van reacties door middel van een notificatie. Berichten kunnen verwijderd of bewerkt worden waarna het bericht de editeerdatum zal tonen (bewerken) of "bericht verwijderd" (verwijderen).
+Via berichten kan je alle leden die jouw app gebruiken in éénmaal bereiken. Elk lid wordt op de hoogte gebracht dat je een bericht geplaatst hebt door middel van een e-mail of gsmnotificatie (afhankelijk van hun instellingen). Berichten laten tekst en een afbeelding toe. Gebruikers kunnen jouw bericht zien en erop reageren. Je wordt eveneens op de hoogtegebracht van reacties door middel van een notificatie. 
+
+Berichten kunnen verwijderd of bewerkt worden waarna het bericht de editeerdatum zal tonen (bewerken) of "bericht verwijderd" (verwijderen).
 
 ![messages](/assets/images/messages.png)
 
@@ -35,13 +35,12 @@ In het trainingsoverzicht zie je alle trainingen voor de geselecteerde maand.
 		
 Bovenaan kan je kiezen voor kalenderzicht (1) of lijstzicht (2). 
 De knop mijn trainingen (3) toont de trainingen waarop het ingelogde lid is ingeschreven (trainer?) (verleden of toekomst). 
-Via de QR-code knop (4) kom je in de scanning module terecht waar de QR-code van een lid kan worden gescand. (zie [QR scanning](#qr-scanning))
 
 ![training_overview](/assets/images/training_buttons.png)
 
 Via de knop "Training aanmaken" kan je een nieuwe training creëren (zie [Editeer/creeër training](#editeercreeër-training))
 
-Aanklikken van een training opent de training detail pagina
+Aanklikken van een training opent de training detail pagina.
 
 ## 3.2 Detail
 De training detail pagina toont volgende training info:
@@ -54,7 +53,7 @@ De training detail pagina toont volgende training info:
 
 ![trainingdetails](/assets/images/training_details.png)
 
-In de deelnemers tabel zie je de ingeschreven deelnemers. Via + kan je zelf leden handmatig inschrijven voor de training. Wanneer een beheerder een lid handmatig inschrijft is het mogelijk om ook deelnemers met een ongeldig abonnement in te schrijven, zelfs indien ingesteld is dat de training categorie enkel voor leden met een geldig abonnement is (zie ([TrainingsCategorieën](#trainingscategorieën)). Wanneer een lid zichzelf wilt inschrijven moet hij wel aan deze regel voldoen.
+In de deelnemers tabel zie je de ingeschreven deelnemers. Via + kan je zelf leden handmatig inschrijven voor de training. Wanneer een beheerder een lid handmatig inschrijft is het mogelijk om ook deelnemers met een ongeldig abonnement in te schrijven, zelfs indien ingesteld is dat de training categorie enkel voor leden met een geldig abonnement is (zie [TrainingsCategorieën](#trainingscategorieën)). Wanneer een lid zichzelf wilt inschrijven moet hij wel aan deze regel voldoen.
 
 ![training participants](/assets/images/training-participants.png)
 
@@ -70,7 +69,7 @@ Een deelnemer kan bevestigd worden voor de training indien zijn QR-code gescand 
 
 ![training actions](/assets/images/training_actions1.png)
 
-**Training geschiedenis (1)** 
+- **Training geschiedenis (1)** 
 Hier worden alle gebeurtenissen die plaatsvinden op de training getoond:
 - Aanpassing details training (lid + beheerder)
 - Deelnemer schrijft zich uit (Beheerder)
@@ -80,13 +79,13 @@ Hier worden alle gebeurtenissen die plaatsvinden op de training getoond:
 - Training geannulleerd (Lid + beheerder)
 - Trainers aangepast (Beheerder)
 			
-**Editeer training (2)**, (zie [Editeer/creeër training](#editeercreeër-training))
+- **Editeer training (2)**, (zie [Editeer/creeër training](#editeercreeër-training))
 
-**Extra acties via (3):**
+- **Extra acties via (3):**
 
 ![training actions](/assets/images/training_actions2.png)
 
-**Maak kopie (1)** 
+  - **Maak kopie (1)** 
 Toon de bewerk training pagina met alle velden ingevuld gelijk aan de waardes van de training waarvan een kopie gemaakt is.
 
 **Verwijder (2)**
