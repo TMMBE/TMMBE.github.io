@@ -101,8 +101,6 @@ Training krijgt status "geannuleerd". Alle ingeschreven deelnemers krijgt een no
 	
 Om trainingen te kunnen aanmaken dien je over minstens 1 trainingscategorie te beschikken. (zie [TrainingsCategorieën](#trainingscategorieën))
 
-![new training](/assets/images/new_training.png)
-
 Volgende velden kan je invullen:
 - Titel (verplicht)
 - Start datum/uur (verplicht)
@@ -116,12 +114,16 @@ Volgende velden kan je invullen:
 - Herhaal training (optioneel)
 
 **Categorie**
-Trainingscategorieën kunnen aangemaakt worden in de instellingen, zie ([TrainingsCategorieën](#trainingscategorieën))
+Trainingscategorieën kunnen aangemaakt worden in de instellingen, zie [TrainingsCategorieën](#trainingscategorieën)
+
+![training categorie](/assets/images/new_training_category.png)
 
 **Trainers**
 Hier kan je een of meerdere trainers toevoegen. Dit kan op twee manieren:
 - Manueel: klik op "voeg trainer toe" en selecteer de trainer. Enkel leden met een trainer-rol worden getoond. Voor het toekennen van de trainer-rol zie ()
 - Automatisch: indien een trainer gelinkt is aan de gekozen trainingscategorie wordt hij automatisch ingevuld. Voor het linken van trainers aan een categorie zie ([AbonnementsCategorieën](#abonnementscategorieën). Wens je de trainer toch niet toe te voegen aan de trainer of wil je hem later weer verwijderen, klik op ()
+
+![training categorie](/assets/images/new_training_trainers.png)
 
 Het is ook mogelijk deze trainers te vragen om hun aanwezigheid te bevestigen. Dit doe je door () aan te vinken. De trainer ontvangt een notificatie dat hij zijn aanwezigheid moet bevestigen. Bevestigen kan hij op de detail pagina van de training of in zijn "mijn trainingen"-pagina waar hij een overzicht heeft op alle trainingen die hij nog moet
 bevestigen. Indien de trainer aangeeft dat hij niet aanwezig kan zijn dient hij een vervanger te kiezen uit de andere beschikbare trainers.
@@ -136,7 +138,9 @@ Indien je dit aanvinkt wordt de training aangeduid als "automatisch inschrijven"
 - De trainingscategorie is geselecteerd onder "Categorieën automatisch inschrijven" op het overeenkomende abonnement (zie [Abonnement](#abonnement))
 - Lid is niet inactief
 - Lid heeft zich niet eerder manueel uitgeschreven van de training (enkel toepasbaar indien training eerder aangemaakt werd als "gewone" training en pas later aangepast werd naar "automatisch inschrijven" - training)
-			
+
+![training categorie](/assets/images/new_training_autosubscribe.png)
+
 Indien een training aangeduid is als "automatisch inschrijven" wordt bij verschillende acties gekeken of de deelnemerslijst automatisch moet aangepast worden:
 - Aanvinken "automatisch inschrijven" bij aanpassen/aanmaken training
 - Verwijderen/toevoegen van trainers
@@ -150,10 +154,14 @@ Geef een maximum aantal deelnemers voor de training in. Leden zullen niet zelf k
 Met deze instelling wordt geen rekening gehouden in volgende gevallen: 
 - Wanneer een beheerder zelf manueel een deelnemer toevoegt aan de training
 - Wanneer de training aangeduid is als "automatisch inschrijven" en er hierdoor leden automatisch moeten toevoegd worden
+
+![training categorie](/assets/images/new_training_limit_members.png)
 		
 **Herhaal training**
 Deze optie is enkel beschikbaar bij het aanmaken van een nieuwe training. 
 Kies de dagen in de week waarop deze training zich moet herhalen (de dag van de intieële training dient steeds geselecteerd te worden). Kies ook de datum waarop de herhaling dient te stoppen (maximum 1 jaar in de toekomst). Zodra de training wordt aangemaakt worden op de opgegeven dagen identieke kopieën gecreerd.
+
+![training categorie](/assets/images/new_training_recurrence.png)
 		
 **Bewaren** 
 Indien een training wordt aangepast en deze onderdeel is van een serie wordt bij het bewaren van de training gevraagd of enkel de geopende training moet aangepast worden of de aanpassing moet doorgevoerd worden in (een deel van) de serie. 
