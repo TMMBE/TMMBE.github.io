@@ -178,13 +178,12 @@ Indien serie aangeduid wordt: selecteer de trainingen waarop de aanpassing moet 
 
 ## 5.1 Overzicht
 	
-Standaard worden alle actieve leven getoond, alfabetisch gerangschikt op voornaam. Met () en () is het mogelijk de resultaten op een andere manier te rangschikken. Het is mogelijk verschillende
-filters toe te passen:
+Standaard worden alle actieve leden getoond, alfabetisch gerangschikt op voornaam. Met de pijltjes naast voornaam en achternaam is het mogelijk de resultaten op een andere manier te rangschikken. Het is mogelijk verschillende filters toe te passen:
 - naam (er wordt gezocht in zowel voor- en achternaam)
 - toon inactieve leden (deze verschijnen in het grijs tussen de actieve leden)
 - type lid (gekoppelde leden gebruiken Squatix, niet-gekoppelde leden zijn niet gekoppeld met een echte gebruiker)
-- rol (zie)
-- status abonnement (geldig of niet meer geldig, beurten tellen WEL/NIET mee?)
+- rol (zie [Rollen](#rollen))
+- status abonnement (geldig of niet meer geldig)
 - type abonnement (met beurten of enkel met een geldigheidsdatum)
 - abonnementscategorie (zie [Abonnement](#abonnement))
 - trainingscategorie (filter wordt enkel getoond indien een abonnementscategorie is geselecteerd, filter bevat de trainingscategorieën gelinkt aan dit abonnement, zie ([AbonnementsCategorieën](#abonnementscategorieën))
@@ -192,16 +191,15 @@ filters toe te passen:
 ![member list](/assets/images/member_list.png)
 		
 Een van de extra filters weer verwijderen kan door op "meer filters" te klikken en deze weer leeg te maken of door te klikken op het kruisje naast de desbetreffende filter.
-		
-Nieuwe leden toevoegen kan via "Voeg toe" (zie [Toevoegen](#toevoegen)).
 
-Rollen bewerken kan via "Rollen" (zie [Rollen](#rollen)).
-
-Indien er ledenverzoeken zijn wordt dit hier getoond (zie [Ledenverzoeken](#ledenverzoeken)).
+**Acties**
+- Nieuwe leden toevoegen kan via "Voeg toe" (zie [Toevoegen](#toevoegen)).
+- Rollen bewerken kan via "Rollen" (zie [Rollen](#rollen)).
+- Indien er ledenverzoeken zijn wordt dit hier getoond (zie [Ledenverzoeken](#ledenverzoeken)).
 
 ![member actions](/assets/images/member_actions1.png)
 
-Met het drop-down menu en de "Uitvoeren" knop kan je acties uitvoeren op meerdere leden tegelijkertijd, zie [Ledenacties](#ledenacties)
+- Met het drop-down menu en de "Uitvoeren" knop kan je acties uitvoeren op meerdere leden tegelijkertijd, zie [Ledenacties](#ledenacties)
 
 ![member actions](/assets/images/member_actions2.png)		
 		
@@ -214,15 +212,15 @@ Bovenaan vind je een overzicht met de geselecteerde leden, met X kan je eventuee
 ![mass subscriptions](/assets/images/mass_subscriptions1.png)	
 		
 In het onderste deel kan je gewenste actie selecteren:
-- Nieuw abonnement toevoegen: alle geselecteerde leden krijgen een nieuwe abonnementen toegevoegd. Dit nieuw abonnement moet compatibel zijn met hun bestaande actieve abonnementen. Selecteer de gewenste opties van dit nieuwe abonnement en klik op "bewaar"
+- Nieuw abonnement toevoegen: alle geselecteerde leden krijgen een nieuwe abonnementen toegevoegd. Dit nieuw abonnement moet compatibel zijn met hun bestaande actieve abonnementen. Selecteer de gewenste opties van dit nieuwe abonnement en klik op "Bewaar"
 ![mass subscriptions](/assets/images/mass_subscriptions2.png)
 
-- Abonnement verlengen: alle geselecteerd abonnementen van de geselecteerde leden worden verlengd. Selecteer de termijn en klik op "bewaar"
+- Abonnement verlengen: alle geselecteerd abonnementen van de geselecteerde leden worden verlengd. Selecteer de termijn en klik op "Bewaar"
 ![mass subscriptions](/assets/images/mass_subscriptions3.png)		
 		
 		
 ### QR genereren
-QR-codes van leden kunnen ook afgedrukt worden. Met deze codes kunnen leden gescand worden om hun aanwezigheid op de training te bevestigen (zie ([QR scanning](#qr-scanning)). Vink in het overzicht de leden, selecteer "Genereer QR" in het drop-down menu en klik op uitvoeren. Een PDF bestand met de gewenste QR codes wordt geopend.
+QR-codes van leden kunnen ook afgedrukt worden. Met deze codes kunnen leden gescand worden om hun aanwezigheid op de training te bevestigen (zie [QR scanning](#qr-scanning)). Vink in het overzicht de leden, selecteer "Genereer QR" in het drop-down menu en klik op uitvoeren. Een PDF bestand met de gewenste QR codes wordt geopend.
 
 ![QR codes](/assets/images/generate_qr.png)	
 		
