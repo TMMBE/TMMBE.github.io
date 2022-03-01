@@ -53,7 +53,7 @@ De training detail pagina toont volgende training info:
 
 ![trainingdetails](/assets/images/training_details.png)
 
-In de deelnemers tabel zie je de ingeschreven deelnemers. Via + kan je zelf leden handmatig inschrijven voor de training. Wanneer een beheerder een lid handmatig inschrijft is het mogelijk om ook deelnemers met een ongeldig abonnement in te schrijven, zelfs indien ingesteld is dat de training categorie enkel voor leden met een geldig abonnement is (zie [TrainingsCategorieën](#trainingscategorieën)). Wanneer een lid zichzelf wilt inschrijven moet hij wel aan deze regel voldoen.
+In de deelnemers tabel zie je de ingeschreven deelnemers. Via + kan je zelf leden handmatig inschrijven voor de training. Wanneer een beheerder een lid handmatig inschrijft is het mogelijk om ook deelnemers met een ongeldig abonnement in te schrijven, zelfs indien ingesteld is dat de training categorie enkel voor leden met een geldig abonnement is (zie [6.1 Trainingscategorieën](#6.1-trainingscategorieën)). Wanneer een lid zichzelf wilt inschrijven moet hij wel aan deze regel voldoen.
 
 ![training participants](/assets/images/training-participants.png)
 
@@ -99,7 +99,7 @@ Training krijgt status "geannuleerd". Alle ingeschreven deelnemers krijgt een no
 	
 ## 3.3 Editeer/creeër training
 	
-Om trainingen te kunnen aanmaken dien je over minstens 1 trainingscategorie te beschikken. (zie [TrainingsCategorieën](#trainingscategorieën))
+Om trainingen te kunnen aanmaken dien je over minstens 1 trainingscategorie te beschikken. (zie [6.1 Trainingscategorieën](#6.1-trainingscategorieën))
 
 Volgende velden kan je invullen:
 - Titel (verplicht)
@@ -114,11 +114,13 @@ Volgende velden kan je invullen:
 - Herhaal training (optioneel)
 
 **Categorie**
-Trainingscategorieën kunnen aangemaakt worden in instellingen, zie [TrainingsCategorieën](#trainingscategorieën)
+
+Trainingscategorieën kunnen aangemaakt worden in instellingen, zie [6.1 Trainingscategorieën](#6.1-trainingscategorieën)
 
 ![training categorie](/assets/images/new_training_category.png)
 
 **Trainers**
+
 Hier kan je een of meerdere trainers toevoegen. Dit kan op twee manieren:
 - Manueel: klik op "voeg trainer toe" en selecteer de trainer. Enkel leden met een trainer-rol worden getoond. Voor het toekennen van de trainer-rol zie [Lid gegevens](#lid-gegevens)
 - Automatisch: indien een trainer gelinkt is aan de gekozen trainingscategorie wordt hij automatisch ingevuld. Voor het linken van trainers aan een categorie zie ([AbonnementsCategorieën](#abonnementscategorieën). Wens je de trainer toch niet toe te voegen aan de trainer of wil je hem later weer verwijderen, klik op X
@@ -128,6 +130,7 @@ Hier kan je een of meerdere trainers toevoegen. Dit kan op twee manieren:
 Het is ook mogelijk deze trainers te vragen om hun aanwezigheid te bevestigen. Dit doe je door "Vraag bevestiging" aan te vinken. De trainer ontvangt een notificatie dat hij zijn aanwezigheid moet bevestigen. Bevestigen kan hij op de detail pagina van de training of in zijn "mijn trainingen"-pagina waar hij een overzicht heeft op alle trainingen die hij nog moet bevestigen. Indien de trainer aangeeft dat hij niet aanwezig kan zijn dient hij een vervanger te kiezen uit de andere beschikbare trainers.
 
 **Automatisch alle leden inschrijven die aan de categorie zijn gekoppeld**
+
 Indien je dit aanvinkt wordt de training aangeduid als "automatisch inschrijven". Dit houdt in dat na creatie van de training alle leden van jouw club als deelnemer zullen toegevoegd worden aan de training indien ze aan volgende criteria voldoen:
 - Geldig abonnement op datum van de training:
 	- Geldigheidsdatum later dan de begintijd
@@ -149,6 +152,7 @@ Indien een training aangeduid is als "automatisch inschrijven" wordt bij verschi
 - Toewijzen/verwijderen van een trainingcategorie bij een abonnementscategorie
 		
 **Beperk deelnemers**
+
 Geef een maximum aantal deelnemers voor de training in. Leden zullen niet zelf kunnen inschrijven voor een training die volgeboekt is.
 Met deze instelling wordt geen rekening gehouden in volgende gevallen: 
 - Wanneer een beheerder zelf manueel een deelnemer toevoegt aan de training
@@ -157,12 +161,14 @@ Met deze instelling wordt geen rekening gehouden in volgende gevallen:
 ![training categorie](/assets/images/new_training_limit_members.png)
 		
 **Herhaal training**
+
 Deze optie is enkel beschikbaar bij het aanmaken van een nieuwe training. 
 Kies de dagen in de week waarop deze training zich moet herhalen (de dag van de intieële training dient steeds geselecteerd te worden). Kies ook de datum waarop de herhaling dient te stoppen (maximum 1 jaar in de toekomst). Zodra de training wordt aangemaakt worden op de opgegeven dagen identieke kopieën gecreerd.
 
 ![training categorie](/assets/images/new_training_recurrence.png)
 		
 **Bewaren** 
+
 Indien een training wordt aangepast en deze onderdeel is van een serie wordt bij het bewaren van de training gevraagd of enkel de geopende training moet aangepast worden of de aanpassing moet doorgevoerd worden in (een deel van) de serie. 
 Indien serie aangeduid wordt: selecteer de trainingen waarop de aanpassing moet doorgevoerd worden (standaard staat elke training van de serie geselecteerd) en klik op bewaren. Alle geselecteerde trainingen zullen nu aangepast worden met de ingegeven veranderingen.
 
