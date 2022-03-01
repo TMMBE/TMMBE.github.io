@@ -69,7 +69,7 @@ Een deelnemer kan bevestigd worden voor de training indien zijn QR-code gescand 
 
 ![training actions](/assets/images/training_actions1.png)
 
-- **Training geschiedenis (1)** 
+**Training geschiedenis (1)** 
 Hier worden alle gebeurtenissen die plaatsvinden op de training getoond:
 - Aanpassing details training (lid + beheerder)
 - Deelnemer schrijft zich uit (Beheerder)
@@ -79,19 +79,19 @@ Hier worden alle gebeurtenissen die plaatsvinden op de training getoond:
 - Training geannulleerd (Lid + beheerder)
 - Trainers aangepast (Beheerder)
 			
-- **Editeer training (2)**, (zie [Editeer/creeër training](#editeercreeër-training))
+**Editeer training (2)**, (zie [Editeer/creeër training](#editeercreeër-training))
 
-- **Extra acties via (3):**
+**Extra acties via (3):**
 
 ![training actions](/assets/images/training_actions2.png)
 
-  - **Maak kopie (1)** 
+- **Maak kopie (1)** 
 Toon de bewerk training pagina met alle velden ingevuld gelijk aan de waardes van de training waarvan een kopie gemaakt is.
 
-**Verwijder (2)**
+- **Verwijder (2)**
 Dit is enkel mogelijk indien er nog geen ingeschreven deelnemers zijn of indien de training eerst geannuleerd is. Verwijderen kan niet ongedaan gemaakt worden.
 
-**Annuleer training (3)** 
+- **Annuleer training (3)** 
 Training krijgt status "geannuleerd". Alle ingeschreven deelnemers krijgt een notificatie. 
 	
 ## 3.3 Editeer/creeër training
