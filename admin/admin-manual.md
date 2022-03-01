@@ -1,6 +1,8 @@
 ---
-layout: default
-description: Handleiding beheerder
+title: "Squatix"
+remote_theme: pmarsceill/just-the-docs
+color_scheme: "light"
+search_enabled: false
 ---
 * TOC
 {:toc}
