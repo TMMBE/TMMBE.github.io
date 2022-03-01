@@ -1,6 +1,7 @@
+title: "Remote theme example"
 remote_theme: pmarsceill/just-the-docs
-title: Squatix
-description: Alles voor jouw club in één applicatie!
+color_scheme: "dark"
+search_enabled: false
 markdown: kramdown
 kramdown:
   toc_levels        : [1, 2]
