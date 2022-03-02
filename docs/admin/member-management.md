@@ -14,13 +14,13 @@ Standaard worden alle actieve leden getoond, alfabetisch gerangschikt op voornaa
 - status abonnement (geldig of niet meer geldig)
 - type abonnement (met beurten of enkel met een geldigheidsdatum)
 - abonnementscategorie (zie [Abonnement](#abonnement))
-- trainingscategorie (filter wordt enkel getoond indien een abonnementscategorie is geselecteerd, filter bevat de trainingscategorieën gelinkt aan dit abonnement, zie ([AbonnementsCategorieën](#abonnementscategorieën))
+- trainingscategorie (filter wordt enkel getoond indien een abonnementscategorie is geselecteerd, filter bevat de trainingscategorieÃ«n gelinkt aan dit abonnement, zie ([AbonnementsCategorieÃ«n](#abonnementscategorieÃ«n))
 
 ![member list](/assets/images/member_list.png)
 		
 Een van de extra filters weer verwijderen kan door op "meer filters" te klikken en deze weer leeg te maken of door te klikken op het kruisje naast de desbetreffende filter.
 
-**Acties**
+**Acties** 
 - Nieuwe leden toevoegen kan via "Voeg toe" (zie [Toevoegen](#toevoegen)).
 - Rollen bewerken kan via "Rollen" (zie [Rollen](#rollen)).
 - Indien er ledenverzoeken zijn wordt dit hier getoond (zie [Ledenverzoeken](#ledenverzoeken)).
@@ -86,7 +86,7 @@ Velden die je kan invullen zijn:
 ## Ledenverzoeken
 	
 ## Rollen
-Met rollen kan je jouw leden toegang geven tot bepaalde functionaliteiten of pagina's waar een lid zonder die rol geen toegang toe heeft. Op de rollen-pagina kan je de verschillende rollen en hun permissies voor jouw club definiëren. Daarna kan je in de detail pagina van een lid hem een van die rollen toekennen (zie [Lid gegevens](#lid-gegevens).
+Met rollen kan je jouw leden toegang geven tot bepaalde functionaliteiten of pagina's waar een lid zonder die rol geen toegang toe heeft. Op de rollen-pagina kan je de verschillende rollen en hun permissies voor jouw club definiÃ«ren. Daarna kan je in de detail pagina van een lid hem een van die rollen toekennen (zie [Lid gegevens](#lid-gegevens).
 
 ![roles](/assets/images/roles.png)	
 
@@ -125,14 +125,14 @@ Er wordt een overzicht getoond van alle actieve en inactieve (vorige) abonnement
 **Actieve abonnementen**  
 
 Het werken met abonnementen is optioneel. Een lid kan echter ook meerdere actieve abonnementen hebben. De beheerder kan dus zelf kiezen welke aanpak hij verkiest. Volgende beperkingen gelden:
-- Er kan maar één abonnement zijn van elke abonnementscategorie
-- Er kan maar één abonnement zijn zonder abonnementscategorie
-- Twee abonnementen kunnen geen overlappende gelinkte trainingscategorieën hebben.
+- Er kan maar Ã©Ã©n abonnement zijn van elke abonnementscategorie
+- Er kan maar Ã©Ã©n abonnement zijn zonder abonnementscategorie
+- Twee abonnementen kunnen geen overlappende gelinkte trainingscategorieÃ«n hebben.
 
 Om een nieuw actief abonnement toe te voegen, klik op het +-teken. Het scherm om een nieuw abonnement aan te maken opent zich. Volgende velden kunnen ingevuld worden:
 - Type (verplicht, abonnement of beurten)
-- Categorie (optioneel, zie [Abonnementscategorieën](#abonnementscategorieën)
-- Categorieën automatisch inschrijven (optioneel, enkel indien abonnementscategorie geselecteerd met gelinkte trainingscategorieën, zie [Abonnementscategorieën](#abonnementscategorieën) en [Automatisch inschrijven](#automatisch-inschrijven))
+- Categorie (optioneel, zie [AbonnementscategorieÃ«n](#abonnementscategorieÃ«n)
+- CategorieÃ«n automatisch inschrijven (optioneel, enkel indien abonnementscategorie geselecteerd met gelinkte trainingscategorieÃ«n, zie [AbonnementscategorieÃ«n](#abonnementscategorieÃ«n) en [Automatisch inschrijven](#automatisch-inschrijven))
 - Geldig tot (verplicht)
 - Beurten over (verplicht indien type beurten geselecteerd)
 
