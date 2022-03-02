@@ -57,15 +57,14 @@ layout: table_wrappers
           {% assign collection = site[collection_key] %}
           {% if collection_value.nav_exclude != true %}
 		  {% if collection_value.user != true %}
-            {% if collections_size > 1 %}
-              <div class="nav-category">Blaa {{ collection_value.name }}</div>
-            {% endif %}
-            {% include nav.html pages=collection %}
-          {% endif %}
+		    {% if collections_size > 1 %}
+		      <div class="nav-category">Blaa {{ collection_value.name }}</div>
+		    {% endif %}
+		    {% include nav.html pages=collection %}
 		  {% endif %}
+	  {% endif %}
         {% endfor %}
       {% else %}
-	    lalala2
         {% include nav.html pages=site.html_pages %}
       {% endif %}
     </nav>
