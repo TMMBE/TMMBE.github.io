@@ -2,4 +2,5 @@ title: "Squatix"
 remote_theme: pmarsceill/just-the-docs
 search_enabled: false
 logo: "/assets/images/logo_white.png"
+color_scheme: squatix
 markdown: kramdown
