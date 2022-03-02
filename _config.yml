@@ -1,9 +1,20 @@
 title: "Squatix"
+description: Squatix - Alles voor jouw club in 1 applicatie
 remote_theme: pmarsceill/just-the-docs
 search_enabled: true
 logo: "/assets/images/logo_white.png"
 color_scheme: squatix
 markdown: kramdown
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Terug naar boven"
+
+footer_content: "Copyright &copy; 2022 <a href=\"http://www.squatix.com\">Squatix.</a>"
+
+plugins:
+  - jekyll-seo-tag
+  
 # Enable or disable the site search
 # Supports true (default) or false
 search_enabled: true
