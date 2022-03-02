@@ -17,7 +17,8 @@ nav_order: 6
 
 ## Overzicht
 	
-Standaard worden alle actieve leden getoond, alfabetisch gerangschikt op voornaam. Met de pijltjes naast voornaam en achternaam is het mogelijk de resultaten op een andere manier te rangschikken. Het is mogelijk verschillende filters toe te passen:
+Standaard worden alle actieve leden getoond, alfabetisch gerangschikt op voornaam. Met de pijltjes naast voornaam en achternaam is het mogelijk de resultaten op een andere manier te rangschikken. 
+Het is mogelijk verschillende filters toe te passen:
 - naam (er wordt gezocht in zowel voor- en achternaam)
 - toon inactieve leden (deze verschijnen in het grijs tussen de actieve leden)
 - type lid (gekoppelde leden gebruiken Squatix, niet-gekoppelde leden zijn niet gekoppeld met een echte gebruiker)
@@ -25,7 +26,8 @@ Standaard worden alle actieve leden getoond, alfabetisch gerangschikt op voornaa
 - status abonnement (geldig of niet meer geldig)
 - type abonnement (met beurten of enkel met een geldigheidsdatum)
 - abonnementscategorie (zie [Abonnement](#abonnement))
-- trainingscategorie (filter wordt enkel getoond indien een abonnementscategorie is geselecteerd, filter bevat de trainingscategorieën gelinkt aan dit abonnement, zie ([AbonnementsCategorieën](#abonnementscategorieën))
+- trainingscategorie (filter wordt enkel getoond indien een abonnementscategorie is geselecteerd, filter bevat de trainingscategorieën gelinkt aan dit abonnement, 
+zie ([AbonnementsCategorieën](settings.md#abonnementscategorieën))
 
 ![member list](/assets/images/member_list.png)
 		
@@ -61,7 +63,7 @@ In het onderste deel kan je gewenste actie selecteren:
 		
 		
 ### QR genereren
-QR-codes van leden kunnen ook afgedrukt worden. Met deze codes kunnen leden gescand worden om hun aanwezigheid op de training te bevestigen (zie [QR scanning](#qr-scanning)). Vink in het overzicht de leden aan, selecteer "Genereer QR" in het drop-down menu en klik op uitvoeren. Een PDF bestand met de gewenste QR codes wordt geopend.
+QR-codes van leden kunnen ook afgedrukt worden. Met deze codes kunnen leden gescand worden om hun aanwezigheid op de training te bevestigen (zie [QR scanning](qr-scanning.md)). Vink in het overzicht de leden aan, selecteer "Genereer QR" in het drop-down menu en klik op uitvoeren. Een PDF bestand met de gewenste QR codes wordt geopend.
 
 ![QR codes](/assets/images/generate_qr.png)	
 		
@@ -97,7 +99,8 @@ Velden die je kan invullen zijn:
 ## Ledenverzoeken
 	
 ## Rollen
-Met rollen kan je jouw leden toegang geven tot bepaalde functionaliteiten of pagina's waar een lid zonder die rol geen toegang toe heeft. Op de rollen-pagina kan je de verschillende rollen en hun permissies voor jouw club definiëren. Daarna kan je in de detail pagina van een lid hem een van die rollen toekennen (zie [Lid gegevens](#lid-gegevens).
+Met rollen kan je jouw leden toegang geven tot bepaalde functionaliteiten of pagina's waar een lid zonder die rol geen toegang toe heeft. Op de rollen-pagina kan je de 
+verschillende rollen en hun permissies voor jouw club definiëren. Daarna kan je in de detail pagina van een lid hem een van die rollen toekennen (zie [Lid gegevens](#lid-gegevens)).
 
 ![roles](/assets/images/roles.png)	
 
@@ -142,8 +145,9 @@ Het werken met abonnementen is optioneel. Een lid kan echter ook meerdere actiev
 
 Om een nieuw actief abonnement toe te voegen, klik op het +-teken. Het scherm om een nieuw abonnement aan te maken opent zich. Volgende velden kunnen ingevuld worden:
 - Type (verplicht, abonnement of beurten)
-- Categorie (optioneel, zie [Abonnementscategorieën](#abonnementscategorieën)
-- Categorieën automatisch inschrijven (optioneel, enkel indien abonnementscategorie geselecteerd met gelinkte trainingscategorieën, zie [Abonnementscategorieën](#abonnementscategorieën) en [Automatisch inschrijven](#automatisch-inschrijven))
+- Categorie (optioneel, zie [Abonnementscategorieën](settings.md#abonnementscategorieën))
+- Categorieën automatisch inschrijven (optioneel, enkel indien abonnementscategorie geselecteerd met gelinkte trainingscategorieën, 
+zie [Abonnementscategorieën](settings.md#abonnementscategorieën) en [Automatisch inschrijven](#automatisch-inschrijven))
 - Geldig tot (verplicht)
 - Beurten over (verplicht indien type beurten geselecteerd)
 
@@ -165,7 +169,7 @@ Dit toont een overzicht van inactieve abonnementen. Indien er aanpassingen gewee
 
 **Rollen**
 
-Verander de autorisaties van het lid in Squatix door hem een of meerdere rollen toe te kennen (zie [Rollen](#rollen)
+Verander de autorisaties van het lid in Squatix door hem een of meerdere rollen toe te kennen (zie [Rollen](#rollen))
 
 **Opmerkingen**
 

@@ -88,7 +88,7 @@ Training krijgt status "geannuleerd". Alle ingeschreven deelnemers krijgt een no
 	
 ## Editeer/creeër training
 	
-Om trainingen te kunnen aanmaken dien je over minstens 1 trainingscategorie te beschikken. (zie [6.1 Trainingscategorieën](#6.1-trainingscategorieën))
+Om trainingen te kunnen aanmaken dien je over minstens 1 trainingscategorie te beschikken. (zie [Trainingscategorieën](settings.md#trainingscategorieën))
 
 Volgende velden kan je invullen:
 - Titel (verplicht)
@@ -104,15 +104,16 @@ Volgende velden kan je invullen:
 
 **Categorie**
 
-Trainingscategorieën kunnen aangemaakt worden in instellingen, zie [6.1 Trainingscategorieën](#6.1-trainingscategorieën)
+Trainingscategorieën kunnen aangemaakt worden in instellingen, zie [Trainingscategorieën](settings.md#trainingscategorieën)
 
 ![training categorie](/assets/images/new_training_category.png)
 
 **Trainers**
 
 Hier kan je een of meerdere trainers toevoegen. Dit kan op twee manieren:
-- Manueel: klik op "voeg trainer toe" en selecteer de trainer. Enkel leden met een trainer-rol worden getoond. Voor het toekennen van de trainer-rol zie [Lid gegevens](#lid-gegevens)
-- Automatisch: indien een trainer gelinkt is aan de gekozen trainingscategorie wordt hij automatisch ingevuld. Voor het linken van trainers aan een categorie zie ([AbonnementsCategorieën](#abonnementscategorieën). Wens je de trainer toch niet toe te voegen aan de trainer of wil je hem later weer verwijderen, klik op X
+- Manueel: klik op "voeg trainer toe" en selecteer de trainer. Enkel leden met een trainer-rol worden getoond. Voor het toekennen van de trainer-rol zie [Lid gegevens](member-management.md#lid-gegevens)
+- Automatisch: indien een trainer gelinkt is aan de gekozen trainingscategorie wordt hij automatisch ingevuld. Voor het linken van trainers aan een 
+categorie zie ([AbonnementsCategorieën](settings.md#abonnementscategorieën). Wens je de trainer toch niet toe te voegen aan de trainer of wil je hem later weer verwijderen, klik op X
 
 ![training categorie](/assets/images/new_training_trainers.png)
 
@@ -123,10 +124,10 @@ Het is ook mogelijk deze trainers te vragen om hun aanwezigheid te bevestigen. D
 Indien je dit aanvinkt wordt de training aangeduid als "automatisch inschrijven". Dit houdt in dat na creatie van de training alle leden van jouw club als deelnemer zullen toegevoegd worden aan de training indien ze aan volgende criteria voldoen:
 - Geldig abonnement op datum van de training:
 	- Geldigheidsdatum later dan de begintijd
-	- Abonnementscategorie is gelinkt aan de trainingscategorie (zie ([AbonnementsCategorieën](#abonnementscategorieën)))
+	- Abonnementscategorie is gelinkt aan de trainingscategorie (zie ([AbonnementsCategorieën](settings.md#abonnementscategorieën)))
 	- Met aantal resterende beurten wordt geen rekening gehouden.
 - Niet aangeduid als trainer voor de training
-- De trainingscategorie is geselecteerd onder "Categorieën automatisch inschrijven" op het overeenkomende abonnement (zie [Abonnement](#abonnement))
+- De trainingscategorie is geselecteerd onder "Categorieën automatisch inschrijven" op het overeenkomende abonnement (zie [Abonnement](member-management.md#abonnement))
 - Lid is niet inactief
 - Lid heeft zich niet eerder manueel uitgeschreven van de training (enkel toepasbaar indien training eerder aangemaakt werd als "gewone" training en pas later aangepast werd naar "automatisch inschrijven" - training)
 
@@ -136,8 +137,8 @@ Indien een training aangeduid is als "automatisch inschrijven" wordt bij verschi
 - Aanvinken "automatisch inschrijven" bij aanpassen/aanmaken training
 - Verwijderen/toevoegen van trainers
 - Veranderen categorie van de training
-- Aanvaarden/toevoegen van een nieuw lid in de club (zie [Ledenbeheer](#ledenbeheer))
-- Aanpassen van een abonnement van een lid (zie [Abonnement](#abonnement))
+- Aanvaarden/toevoegen van een nieuw lid in de club (zie [Ledenbeheer](member-management.md))
+- Aanpassen van een abonnement van een lid (zie [Abonnement](member-management.md#abonnement))
 - Toewijzen/verwijderen van een trainingcategorie bij een abonnementscategorie
 		
 **Beperk deelnemers**
