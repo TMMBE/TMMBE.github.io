@@ -1,7 +1,7 @@
 ---
 layout: admin
 title: Clubdetails
-nav_order: 1
+nav_order: 2
 ---
 
 # Clubdetails
