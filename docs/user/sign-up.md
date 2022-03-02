@@ -1,5 +1,6 @@
 ---
 layout: user
+user: true
 ---
 
 # Aanmelden
