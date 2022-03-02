@@ -1,8 +1,20 @@
 ---
 layout: admin
+title: Instellingen
+nav_order: 6
 ---
 
-# Instellingen 
+# Instellingen
+{: .no_toc }
+
+## Inhoudsopgave
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
 ## Trainingscategorieën
 Om een trainingscategorie toe te voegen, klik op "Voeg toe". 
 Volgende data kan ingegeven worden:

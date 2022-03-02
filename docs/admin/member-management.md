@@ -1,8 +1,19 @@
 ---
 layout: admin
----		
-	
+title: Ledenbeheer
+nav_order: 5
+---
+
 # Ledenbeheer
+{: .no_toc }
+
+## Inhoudsopgave
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 ## Overzicht
 	

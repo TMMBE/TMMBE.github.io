@@ -1,8 +1,20 @@
 ---
 layout: admin
+title: Trainingen
+nav_order: 3
 ---
 
 # Trainingen
+{: .no_toc }
+
+## Inhoudsopgave
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
 ## Overzicht 
 In het trainingsoverzicht zie je alle trainingen voor de geselecteerde maand. 
 
