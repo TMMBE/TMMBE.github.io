@@ -1,5 +1,5 @@
 ---
 layout: admin
 ---
-
+ 
 # QR scanning	
