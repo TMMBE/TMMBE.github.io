@@ -2,8 +2,8 @@
 layout: admin
 ---
 
-# Instellingen
-## Trainingscategorieën
+# Instellingen 
+## TrainingscategorieÃ«n
 Om een trainingscategorie toe te voegen, klik op "Voeg toe". 
 Volgende data kan ingegeven worden:
 - Naam
@@ -15,13 +15,13 @@ Volgende data kan ingegeven worden:
 
 Voor het aanpassen van een trainingscategorie: klik op het potloodje
 
-## Abonnementscategorieën
-Abonnementscategorieën zijn optioneel. Het is ook mogelijk een abonnement aan te maken zonder categorie.
+## AbonnementscategorieÃ«n
+AbonnementscategorieÃ«n zijn optioneel. Het is ook mogelijk een abonnement aan te maken zonder categorie.
 
 Om een abonnementscategorie toe te voegen, klik op "Voeg toe". 
 Volgende data kan ingegeven worden:
 - Naam
-- Gelinkte trainingscategorieën: link een van de aangemaakte trainingscategorieën aan de abonnementscategorie. Op deze manier kan je bepalen voor welke trainingen een lid kan inschrijven (indien de trainingscategorie enkel voor een geldig abonnement inschrijfbaar is) of voor welke trainingen een lid automatisch kan ingeschreven worden (zie [Automatisch inschrijven](#automatischinschrijven))
+- Gelinkte trainingscategorieÃ«n: link een van de aangemaakte trainingscategorieÃ«n aan de abonnementscategorie. Op deze manier kan je bepalen voor welke trainingen een lid kan inschrijven (indien de trainingscategorie enkel voor een geldig abonnement inschrijfbaar is) of voor welke trainingen een lid automatisch kan ingeschreven worden (zie [Automatisch inschrijven](#automatischinschrijven))
 
 ![Subscription category](/assets/images/subscription_categorie.png)
 			
@@ -42,6 +42,6 @@ Om een eerder aangemaakte vraag aan te passen, klik op het potloodje. Hetzelfde 
 ## Club
 Onder club kan je volgende dingen bekijken:
 - Bekijk het abonnement waarover de club beschikt bij squatix en de geldigheidsdatum. Zodra de geldigheidsdatum is overschreden is het niet meer mogelijk nieuwe leden toe te voegen.
-- Agenda delen: Het is mogelijk de trainingskalender te gebruiken in een externe kalender applicatie die ICS ondersteunt. Kopieër daartoe de ics-url naar de benodigde plaats. Voor ondersteuning neem contact op met het team dat de applicatie aanbiedt.
+- Agenda delen: Het is mogelijk de trainingskalender te gebruiken in een externe kalender applicatie die ICS ondersteunt. KopieÃ«r daartoe de ics-url naar de benodigde plaats. Voor ondersteuning neem contact op met het team dat de applicatie aanbiedt.
 
 ![club settings](/assets/images/club_settings.png)
