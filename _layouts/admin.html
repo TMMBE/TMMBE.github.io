@@ -48,6 +48,7 @@ layout: table_wrappers
       </a>
     </div>
     <nav role="navigation" aria-label="Main" id="site-nav" class="site-nav">
+	    lalala1
       {% if site.just_the_docs.collections %}
         {% assign collections_size = site.just_the_docs.collections | size %}
         {% for collection_entry in site.just_the_docs.collections %}
@@ -64,6 +65,7 @@ layout: table_wrappers
 		  {% endif %}
         {% endfor %}
       {% else %}
+	    lalala2
         {% include nav.html pages=site.html_pages %}
       {% endif %}
     </nav>
