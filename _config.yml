@@ -10,7 +10,7 @@ markdown: kramdown
 back_to_top: true
 back_to_top_text: "Terug naar boven"
 
-footer_content: "Copyright &copy; 2022 <a href=\"http://www.squatix.com\">Squatix.</a>"
+footer_content: "Copyright &copy; 2022 <a target="_blank" href=\"http://www.squatix.com\">Squatix.</a>"
 
 plugins:
   - jekyll-seo-tag
