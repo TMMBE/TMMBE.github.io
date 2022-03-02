@@ -59,7 +59,7 @@
   
   {%- for node in pages_list -%}
     {%- if node.parent == nil -%}
-      {%- unless !node.user -%}
+      {%- unless node.user != true -%}
       <li class="nav-list-item{% if page.url == node.url or page.parent == node.title or page.grand_parent == node.title %} active{% endif %}">
         {%- if node.has_children -%}
           <a href="#" class="nav-list-expander"><svg viewBox="0 0 24 24"><use xlink:href="#svg-arrow-right"></use></svg></a>
