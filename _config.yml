@@ -11,9 +11,6 @@ back_to_top: true
 back_to_top_text: "Terug naar boven"
 
 footer_content: "Copyright &copy; 2022 <a target="_blank" href=\"http://www.squatix.com\">Squatix.</a>"
-
-plugins:
-  - jekyll-seo-tag
   
 # Enable or disable the site search
 # Supports true (default) or false
