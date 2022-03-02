@@ -1,5 +1,0 @@
----
-layout: index
----
-- [Handleiding gebruiker](user-manual.md)
-- [Handleiding beheerder](admin-manual.md)
