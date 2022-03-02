@@ -48,7 +48,9 @@ layout: table_wrappers
       </a>
     </div>
     <nav role="navigation" aria-label="Main" id="site-nav" class="site-nav">
+	
       {% if site.just_the_docs.collections %}
+	        lalala1
         {% assign collections_size = site.just_the_docs.collections | size %}
         {% for collection_entry in site.just_the_docs.collections %}
           {% assign collection_key = collection_entry[0] %}
@@ -57,18 +59,19 @@ layout: table_wrappers
           {% if collection_value.nav_exclude != true %}
 		  {% if collection_value.user != true %}
             {% if collections_size > 1 %}
-              <div class="nav-category">{{ collection_value.name }}</div>
+              <div class="nav-category">Blaa {{ collection_value.name }}</div>
             {% endif %}
             {% include nav.html pages=collection %}
           {% endif %}
 		  {% endif %}
         {% endfor %}
       {% else %}
+	    lalala2
         {% include nav.html pages=site.html_pages %}
       {% endif %}
     </nav>
     <footer class="site-footer">
-      This site uses <a href="https://github.com/pmarsceill/just-the-docs">Just the Docs</a>, a documentation theme for Jekyll.
+      This site uses NIET <a href="https://github.com/pmarsceill/just-the-docs">Just the Docs</a>, a documentation theme for Jekyll.
     </footer>
   </div>
   <div class="main" id="top">
