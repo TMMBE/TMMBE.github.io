@@ -103,7 +103,35 @@ of je ze wilt aanvaarden of afwijzen.
 
 ![member requests](/assets/images/member_requests.png)	
 
+Door te klikken op een ledenverzoek wordt er meer informatie getoond over de gebruiker die het verzoek verstuurt heeft.
 
+![member requests](/assets/images/member_request.png)	
+
+1) Info gebruiker
+
+Meer info over wie het verzoek verstuurd heeft (indien ingevuld door gebruiker):
+- E-mail
+- Telefoon
+- Geboortedatum 
+- Geslacht
+- Profielfoto
+
+2) Lid verzoek vragen
+Indien je lid verzoek vragen ingesteld hebt (zie [Lid verzoek vragen](settings.md#lid-verzoek-vragen)) kan je hier de antwoorden van de gebruiker lezen.
+
+3) Koppelen
+Het is mogelijk de gebruiker te koppelen aan een bestaand ledenprofiel. Op die manier kan je jouw leden initieel zelf aanmaken zonder dat ze gekoppeld zijn met een gebruiker (en zo hun gegevens 
+bijhouden). Zodra ze echter de applicatie beginnen te gebruiken kan je met deze functie de gebruiker koppelen met dit eerder aangemaakte profiel. Alle gegevens die je al ingegeven had blijven 
+bewaard na koppeling.  
+Opteer je ervoor om geen koppeling uit te voeren, dan wordt er een nieuw lid voor de gebruiker aangemaakt en worden de gegevens die de gebruiker in zijn eigen gebruikersprofiel al ingegeven had 
+(geboortedatum, geslacht, naam, voornaam, ...) gekopieerd naar dit leden profiel in jouw club).
+
+4) Afwijzen/aanvaarden
+Indien je ervoor opteert het ledenverzoek af te wijzen wordt het onherroepelijk verwijderd.  
+Zodra je het verzoek geaccepteerd hebt wordt er een extra actief lid toegevoegd aan jouw club.
+
+**Opgelet:** Om een kindprofiel lid te laten worden van jouw club en toegang te geven tot alle functionaliteit is het voldoende dat enkel dit kindprofiel een ledenverzoek verstuurt. Het is dus **niet**
+nodig dat ook een gekoppeld ouderprofiel lid wordt van de club.
 	
 ## Rollen
 Met rollen kan je jouw leden toegang geven tot bepaalde functionaliteiten of pagina's waar een lid zonder die rol geen toegang toe heeft. Op de rollen-pagina kan je de 
