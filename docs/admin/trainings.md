@@ -59,6 +59,11 @@ De deelnemers tabel toont:
 
 Een deelnemer kan bevestigd worden voor de training indien zijn QR-code gescand wordt of indien op "bevestigen" geklikt wordt in de deelnemers tabel.
 
+### Berichten
+
+Net als bij clubberichten (zie [Trainingscategorieën](communication.md#berichten)) is het ook hier een algemeen bericht over de training te plaatsen. Berichten kunnen tekst en een fotto bevatten.
+In vergelijking met clubberichten kunnen de leden zelf ook een nieuw bericht plaatsen. Alle leden die ingeschrijven zijn op de training krijgen een melding bij een nieuw bericht.
+
 ### Trainingsacties
 
 ![training actions](/assets/images/training_actions1.png)
