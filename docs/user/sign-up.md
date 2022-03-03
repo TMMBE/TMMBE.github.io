@@ -41,7 +41,7 @@ In te vullen info:
 **Opgelet:** Indien de applicatie zal gebruikt worden voor een kind dat lid is van een club en waarbij de ouder het profiel wenst op te volgen, vul dan bij het registreren de informatie van de
 ouder in. Voor het kind kan laten een kindprofiel opgezet worden (zie [Kindprofiel aanmaken](profile.md#kindprofiel-aanmaken))
 
-![sign in](/assets/images/sign_in_verify.png)
+![sign in](/assets/images/register.png)
 
 ### E-mail verificatie
 
