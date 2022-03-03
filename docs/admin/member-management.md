@@ -97,6 +97,13 @@ Velden die je kan invullen zijn:
 	- land
 
 ## Ledenverzoeken
+
+Vooraleer een gebruiker toegang krijgt tot de functionaliteiten in jouw club dient hij eerst een lidverzoek in te dienen. Op deze pagina krijg je een overzicht van de lidverzoeken en kan je beslissen 
+of je ze wilt aanvaarden of afwijzen. 
+
+![member requests](/assets/images/member_requests.png)	
+
+
 	
 ## Rollen
 Met rollen kan je jouw leden toegang geven tot bepaalde functionaliteiten of pagina's waar een lid zonder die rol geen toegang toe heeft. Op de rollen-pagina kan je de 

@@ -30,6 +30,9 @@ Via de knop "Training aanmaken" kan je een nieuwe training creëren (zie [Editee
 Aanklikken van een training opent de training detail pagina.
 
 ## Detail
+
+### Algemene velden
+
 De training detail pagina toont volgende training info:
 - Titel
 - Start- en eind datum 
@@ -40,6 +43,8 @@ De training detail pagina toont volgende training info:
 
 ![trainingdetails](/assets/images/training_details.png)
 
+
+### Deelnemers
 In de deelnemers tabel zie je de ingeschreven deelnemers. Via + kan je zelf leden handmatig inschrijven voor de training. Wanneer een beheerder een lid handmatig inschrijft is het mogelijk om 
 ook deelnemers met een ongeldig abonnement in te schrijven, zelfs indien ingesteld is dat de training categorie enkel voor leden met een 
 geldig abonnement is (zie [Trainingscategorieën](settings.md#trainingscategorieën)). Wanneer een lid zichzelf wilt inschrijven moet hij wel aan deze regel voldoen.
