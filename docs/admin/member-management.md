@@ -117,9 +117,11 @@ Meer info over wie het verzoek verstuurd heeft (indien ingevuld door gebruiker):
 - Profielfoto
 
 2) Lid verzoek vragen
+
 Indien je lid verzoek vragen ingesteld hebt (zie [Lid verzoek vragen](settings.md#lid-verzoek-vragen)) kan je hier de antwoorden van de gebruiker lezen.
 
 3) Koppelen
+
 Het is mogelijk de gebruiker te koppelen aan een bestaand ledenprofiel. Op die manier kan je jouw leden initieel zelf aanmaken zonder dat ze gekoppeld zijn met een gebruiker (en zo hun gegevens 
 bijhouden). Zodra ze echter de applicatie beginnen te gebruiken kan je met deze functie de gebruiker koppelen met dit eerder aangemaakte profiel. Alle gegevens die je al ingegeven had blijven 
 bewaard na koppeling.  
@@ -127,6 +129,7 @@ Opteer je ervoor om geen koppeling uit te voeren, dan wordt er een nieuw lid voo
 (geboortedatum, geslacht, naam, voornaam, ...) gekopieerd naar dit leden profiel in jouw club).
 
 4) Afwijzen/aanvaarden
+
 Indien je ervoor opteert het ledenverzoek af te wijzen wordt het onherroepelijk verwijderd.  
 Zodra je het verzoek geaccepteerd hebt wordt er een extra actief lid toegevoegd aan jouw club.
 
