@@ -21,7 +21,9 @@ In het trainingsoverzicht zie je alle trainingen voor de geselecteerde maand.
 ![traininglist](/assets/images/training_list.png)
 		
 Bovenaan kan je kiezen voor kalenderzicht (1) of lijstzicht (2). 
-De knop mijn trainingen (3) toont de trainingen waarop het ingelogde lid is ingeschreven (trainer?) (verleden of toekomst). 
+De knop mijn trainingen (3) toont de trainingen waarop het ingelogde lid is ingeschreven (verleden of toekomst). Op deze pagina zien trainers ook een overzicht van de 
+trainingen waarop ze al bevestigd hebben of dewelke ze nog moeten bevestigen (indien degene die de training aangemaakt heeft daarom gevraagd heeft, 
+zie [Editeer/creeër training](#editeercreeër-training)
 
 ![training_overview](/assets/images/training_buttons.png)
 
@@ -45,9 +47,12 @@ De training detail pagina toont volgende training info:
 
 
 ### Deelnemers
-In de deelnemers tabel zie je de ingeschreven deelnemers. Via + kan je zelf leden handmatig inschrijven voor de training. Wanneer een beheerder een lid handmatig inschrijft is het mogelijk om 
-ook deelnemers met een ongeldig abonnement in te schrijven, zelfs indien ingesteld is dat de training categorie enkel voor leden met een 
-geldig abonnement is (zie [Trainingscategorieën](settings.md#trainingscategorieën)). Wanneer een lid zichzelf wilt inschrijven moet hij wel aan deze regel voldoen.
+In de deelnemers tabel zie je de ingeschreven deelnemers. 
+
+Via + kan je zelf leden handmatig inschrijven voor de training. Wanneer een beheerder een lid handmatig inschrijft is het mogelijk om 
+ook deelnemers met een ongeldig abonnement in te schrijven, zelfs indien ingesteld is dat de trainingscategorie enkel voor leden met een 
+geldig abonnement toegankelijk is (zie [Trainingscategorieën](settings.md#trainingscategorieën)). 
+Wanneer een lid zichzelf wilt inschrijven moet hij wel aan deze regel voldoen.
 
 ![training participants](/assets/images/training-participants.png)
 
@@ -57,12 +62,16 @@ De deelnemers tabel toont:
 - Of de deelnemer aanwezig was (bevestigd)
 - Verwijderknop.
 
-Een deelnemer kan bevestigd worden voor de training indien zijn QR-code gescand wordt of indien op "bevestigen" geklikt wordt in de deelnemers tabel.
+Een deelnemer kan bevestigd worden voor de training indien zijn QR-code gescand wordt (zie QR scanning(qr-scanning.md)) of indien op "Bevestig" geklikt wordt 
+in de deelnemers tabel.
 
 ### Berichten
 
-Net als bij clubberichten (zie [Trainingscategorieën](communication.md#berichten)) is het ook hier een algemeen bericht over de training te plaatsen. Berichten kunnen tekst en een fotto bevatten.
-In vergelijking met clubberichten kunnen de leden zelf ook een nieuw bericht plaatsen. Alle leden die ingeschrijven zijn op de training krijgen een melding bij een nieuw bericht.
+Net als bij clubberichten (zie [Berichten](communication.md#berichten)) is het ook hier mogelijk een algemeen publiek bericht over de training te plaatsen. Berichten 
+kunnen tekst en een afbeelding bevatten.
+
+In tegenstelling tot bij clubberichten kunnen de leden hier zelf ook een nieuw bericht plaatsen. Alle leden die ingeschreven zijn op de training krijgen een melding
+indien een nieuw bericht geplaatst is.
 
 ### Trainingsacties
 
@@ -76,7 +85,7 @@ Hier worden alle gebeurtenissen die plaatsvinden op de training getoond. Sommige
 - Beheerder schrijft deelnemer manueel in (Beheerder)
 - Beheerder schrijft deelnemer manueel uit (Beheerder)
 - Training aangemaakt (Lid + beheerder)
-- Training geannulleerd (Lid + beheerder)
+- Training geannuleerd (Lid + beheerder)
 - Trainers aangepast (Beheerder)
 			
 **Editeer training (2)** 
@@ -94,7 +103,7 @@ Toon de bewerk training pagina met alle velden ingevuld gelijk aan de waardes va
 Dit is enkel mogelijk indien er nog geen ingeschreven deelnemers zijn of indien de training eerst geannuleerd is. Verwijderen kan niet ongedaan gemaakt worden.
 
 - **Annuleer training (3)**  
-Training krijgt status "geannuleerd". Alle ingeschreven deelnemers krijgt een notificatie. 
+Training krijgt status "geannuleerd". Alle ingeschreven deelnemers krijgen een notificatie. 
 	
 ## Editeer/creeër training
 	
@@ -121,25 +130,32 @@ Trainingscategorieën kunnen aangemaakt worden in instellingen, zie [Trainingsca
 **Trainers**
 
 Hier kan je een of meerdere trainers toevoegen. Dit kan op twee manieren:
-- Manueel: klik op "voeg trainer toe" en selecteer de trainer. Enkel leden met een trainer-rol worden getoond. Voor het toekennen van de trainer-rol zie [Lid gegevens](member-management.md#lid-gegevens)
+- Manueel: klik op "voeg trainer toe" en selecteer de trainer. Enkel leden met een trainer-rol worden getoond. Voor het toekennen van de trainer-rol aan een lid 
+zie [Lid gegevens](member-management.md#lid-gegevens)
 - Automatisch: indien een trainer gelinkt is aan de gekozen trainingscategorie wordt hij automatisch ingevuld. Voor het linken van trainers aan een 
-categorie zie ([AbonnementsCategorieën](settings.md#abonnementscategorieën). Wens je de trainer toch niet toe te voegen aan de trainer of wil je hem later weer verwijderen, klik op X
+categorie zie [AbonnementsCategorieën](settings.md#abonnementscategorieën). Wens je de trainer toch niet toe te voegen aan de training of wil je hem later weer verwijderen, 
+klik op X
 
 ![training categorie](/assets/images/new_training_trainers.png)
 
-Het is ook mogelijk deze trainers te vragen om hun aanwezigheid te bevestigen. Dit doe je door "Vraag bevestiging" aan te vinken. De trainer ontvangt een notificatie dat hij zijn aanwezigheid moet bevestigen. Bevestigen kan hij op de detail pagina van de training of in zijn "mijn trainingen"-pagina waar hij een overzicht heeft op alle trainingen die hij nog moet bevestigen. Indien de trainer aangeeft dat hij niet aanwezig kan zijn dient hij een vervanger te kiezen uit de andere beschikbare trainers.
+Het is ook mogelijk deze trainers te vragen om hun aanwezigheid te bevestigen. Dit doe je door "Vraag bevestiging" aan te vinken. De trainer ontvangt een notificatie 
+dat hij zijn aanwezigheid moet bevestigen. Bevestigen kan hij op de detail pagina van de training of in zijn "mijn trainingen"-pagina waar hij een overzicht heeft op 
+alle trainingen die hij nog moet bevestigen. Indien de trainer aangeeft dat hij niet aanwezig kan zijn dient hij een vervanger te kiezen uit de andere beschikbare trainers.
 
 **Automatisch alle leden inschrijven die aan de categorie zijn gekoppeld**
 
-Indien je dit aanvinkt wordt de training aangeduid als "automatisch inschrijven". Dit houdt in dat na creatie van de training alle leden van jouw club als deelnemer zullen toegevoegd worden aan de training indien ze aan volgende criteria voldoen:
+Indien je dit aanvinkt wordt de training aangeduid als "automatisch inschrijven". Dit houdt in dat na creatie van de training alle leden van jouw club automatisch 
+als deelnemer zullen toegevoegd worden aan de training indien ze aan volgende criteria voldoen:
 - Geldig abonnement op datum van de training:
 	- Geldigheidsdatum later dan de begintijd
-	- Abonnementscategorie is gelinkt aan de trainingscategorie (zie ([AbonnementsCategorieën](settings.md#abonnementscategorieën)))
+	- Abonnementscategorie is gelinkt aan de trainingscategorie (zie [AbonnementsCategorieën](settings.md#abonnementscategorieën))
 	- Met aantal resterende beurten wordt geen rekening gehouden.
 - Niet aangeduid als trainer voor de training
-- De trainingscategorie is geselecteerd onder "Categorieën automatisch inschrijven" op het overeenkomende abonnement (zie [Abonnement](member-management.md#abonnement))
+- De trainingscategorie is geselecteerd onder "Categorieën automatisch inschrijven" op het overeenkomende actieve abonnement van het lid 
+(zie [Abonnement](member-management.md#abonnement))
 - Lid is niet inactief
-- Lid heeft zich niet eerder manueel uitgeschreven van de training (enkel toepasbaar indien training eerder aangemaakt werd als "gewone" training en pas later aangepast werd naar "automatisch inschrijven" - training)
+- Lid heeft zich niet eerder manueel uitgeschreven van de training (enkel toepasbaar indien training eerder aangemaakt werd als "gewone" training en pas later 
+aangepast werd naar "automatisch inschrijven" - training)
 
 ![training categorie](/assets/images/new_training_autosubscribe.png)
 
@@ -163,11 +179,14 @@ Met deze instelling wordt geen rekening gehouden in volgende gevallen:
 **Herhaal training**
 
 Deze optie is enkel beschikbaar bij het aanmaken van een nieuwe training. 
-Kies de dagen in de week waarop deze training zich moet herhalen (de dag van de intieële training dient steeds geselecteerd te worden). Kies ook de datum waarop de herhaling dient te stoppen (maximum 1 jaar in de toekomst). Zodra de training wordt aangemaakt worden op de opgegeven dagen identieke kopieën gecreerd.
+Kies de dagen in de week waarop deze training zich moet herhalen (de dag van de intieële training dient steeds geselecteerd te worden). Kies ook de datum waarop de 
+herhaling dient te stoppen (maximum 1 jaar in de toekomst). Zodra de training wordt aangemaakt worden op de opgegeven dagen identieke kopieën gecreerd.
 
 ![training categorie](/assets/images/new_training_recurrence.png)
 		
 **Bewaren** 
 
-Indien een training wordt aangepast en deze onderdeel is van een serie wordt bij het bewaren van de training gevraagd of enkel de geopende training moet aangepast worden of de aanpassing moet doorgevoerd worden in (een deel van) de serie. 
-Indien serie aangeduid wordt: selecteer de trainingen waarop de aanpassing moet doorgevoerd worden (standaard staat elke training van de serie geselecteerd) en klik op bewaren. Alle geselecteerde trainingen zullen nu aangepast worden met de ingegeven veranderingen.
+Indien een training wordt aangepast en deze onderdeel is van een serie wordt bij het bewaren van de training gevraagd of enkel de geopende training moet aangepast worden 
+of de aanpassing moet doorgevoerd worden in (een deel van) de serie. 
+Indien serie aangeduid wordt: selecteer de trainingen waarop de aanpassing moet doorgevoerd worden (standaard staat elke training van de serie geselecteerd) en klik op 
+bewaren. Alle geselecteerde trainingen zullen nu aangepast worden met de ingegeven veranderingen.

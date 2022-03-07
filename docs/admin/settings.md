@@ -40,13 +40,14 @@ Volgende data kan ingegeven worden:
 Aanpassen van een Abonnementscategorie: klik op het potloodje
 		
 ## Lid verzoek vragen
-Wanneer leden een verzoek verzenden om lid te worden van jouw club kan je hen vragen een aantal vragen te beantwoorden. Zo kan je bijvoorbeeld vragen of ze ook een vrijwillige functie in de club 
-willen uitvoeren, voor welke afdeling ze zich inschrijven in jouw club enzovoort. De antwoorden van het lid zie je bij hun lidverzoek (zie [Ledenverzoeken](member-management.md#ledenverzoeken)). 
-De vragen en antwoorden kunnen aangemaakt worden in verschillende talen. De vraag zal voor de gebruiker automatisch verschijnen in de taal die hij in zijn profiel ingevuld heeft.
+Wanneer leden een verzoek verzenden om lid te worden van jouw club kan je hen vragen een aantal vragen te beantwoorden. Zo kan je bijvoorbeeld vragen of ze ook een 
+vrijwillige functie in de club willen uitvoeren, voor welke afdeling ze zich inschrijven in jouw club enzovoort. De antwoorden van het lid zie je bij hun lidverzoek 
+(zie [Ledenverzoeken](member-management.md#ledenverzoeken)). De vragen en antwoorden kunnen aangemaakt worden in verschillende talen. De vraag zal voor de gebruiker 
+automatisch verschijnen in de taal die hij in zijn profiel ingevuld heeft.
 
 ![member question](/assets/images/member_question.png)
 		
-Om een nieuwe vraag aan te maken, klik op "Voeg toe".Onder "Vraag" vul je de vraag in. Klik op "Vertaling toevoegen" om de vraag in meerdere talen beschikbaar te stellen.
+Om een nieuwe vraag aan te maken, klik op "Voeg toe". Onder "Vraag" vul je de vraag in. Klik op "Vertaling toevoegen" om de vraag in meerdere talen beschikbaar te stellen.
 Onder "Antwoorden" vul je een mogelijk antwoord op de vraag in. Klik op "Vertaling toevoegen" om het antwoord in meerdere talen beschikbaar te stellen. Klik op + om een extra mogelijk antwoord op de vraag toe te voegen.
 
 Om de vraag te bewaren klik je op "Bewaar". Het volgende lid dat lid wil worden van de club zal de vraag dienen te beantwoorden.
@@ -56,6 +57,8 @@ Om een eerder aangemaakte vraag aan te passen, klik op het potloodje. Hetzelfde 
 ## Club
 Onder club kan je volgende dingen bekijken:
 - Bekijk het abonnement waarover de club beschikt bij squatix en de geldigheidsdatum. Zodra de geldigheidsdatum is overschreden is het niet meer mogelijk nieuwe leden toe te voegen.
-- Agenda delen: Het is mogelijk de trainingskalender te gebruiken in een externe kalender applicatie die ICS ondersteunt. Kopieër daartoe de ics-url naar de benodigde plaats. Voor ondersteuning neem contact op met het team dat de applicatie aanbiedt.
+- Agenda delen: het is mogelijk de trainingskalender te gebruiken in een externe kalender applicatie die ICS ondersteunt. Kopieër daartoe de ics-url naar de benodigde 
+plaats. Voor ondersteuning neem contact op met het team dat de applicatie aanbiedt.
+- Handleiding: klik op de link om de beheerdershandleiding te bekijken.
 
 ![club settings](/assets/images/club_settings.png)

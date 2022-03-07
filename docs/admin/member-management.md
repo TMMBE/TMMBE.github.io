@@ -17,17 +17,20 @@ nav_order: 6
 
 ## Overzicht
 	
-Standaard worden alle actieve leden getoond, alfabetisch gerangschikt op voornaam. Met de pijltjes naast voornaam en achternaam is het mogelijk de resultaten op een andere manier te rangschikken. 
+Standaard worden alle actieve leden getoond, alfabetisch gerangschikt op voornaam. Met de pijltjes naast voornaam en achternaam is het mogelijk de resultaten op een 
+andere manier te rangschikken. 
+
 Het is mogelijk verschillende filters toe te passen:
-- naam (er wordt gezocht in zowel voor- en achternaam)
-- toon inactieve leden (deze verschijnen in het grijs tussen de actieve leden)
-- type lid (gekoppelde leden gebruiken Squatix, niet-gekoppelde leden zijn niet gekoppeld met een echte gebruiker)
-- rol (zie [Rollen](#rollen))
-- status abonnement (geldig of niet meer geldig)
-- type abonnement (met beurten of enkel met een geldigheidsdatum)
-- abonnementscategorie (zie [Abonnement](#abonnement))
-- trainingscategorie (filter wordt enkel getoond indien een abonnementscategorie is geselecteerd, filter bevat de trainingscategorieën gelinkt aan dit abonnement, 
-zie ([AbonnementsCategorieën](settings.md#abonnementscategorieën))
+- Naam (er wordt gezocht in zowel voor- en achternaam)
+- Toon inactieve leden (deze verschijnen in het grijs tussen de actieve leden)
+- Type lid (gekoppelde leden gebruiken Squatix, niet-gekoppelde leden zijn niet gekoppeld met een echte gebruiker (zie ([Toevoegen leden](#toevoegen))))
+- Rol (zie [Rollen](#rollen))
+- Status abonnement (geldig of niet meer geldig)
+- Type abonnement (met beurten of enkel met een geldigheidsdatum)
+- Abonnementscategorie (zie [Abonnement](#abonnement))
+- Trainingscategorie (filter wordt enkel getoond indien een abonnementscategorie is geselecteerd, filter bevat de trainingscategorieën gelinkt aan dit abonnement, 
+zie [AbonnementsCategorieën](settings.md#abonnementscategorieën). Resultaat toont de leden die een abonnement hebben met de geselecteerde abonnementscategorie en 
+waarvoor de aangeduide trainingscategoriën aangevinkt staan als "automatisch inschrijven".
 
 ![member list](/assets/images/member_list.png)
 		
@@ -53,7 +56,8 @@ Bovenaan vind je een overzicht met de geselecteerde leden, met X kan je eventuee
 ![mass subscriptions](/assets/images/mass_subscriptions1.png)	
 		
 In het onderste deel kan je gewenste actie selecteren:
-- Nieuw abonnement toevoegen: alle geselecteerde leden krijgen een nieuwe abonnementen toegevoegd. Dit nieuw abonnement moet compatibel zijn met hun bestaande actieve abonnementen. Selecteer de gewenste opties van dit nieuwe abonnement en klik op "Bewaar"
+- Nieuw abonnement toevoegen: alle geselecteerde leden krijgen een nieuwe abonnement toegevoegd. Dit nieuw abonnement moet compatibel zijn met hun bestaande actieve 
+abonnementen. Selecteer de gewenste opties van dit nieuwe abonnement en klik op "Bewaar"
 
 ![mass subscriptions](/assets/images/mass_subscriptions2.png)
 
@@ -82,19 +86,19 @@ In het onderste deel kan je de trainingen filteren waarvoor je de aanwezigheidsl
 ## Toevoegen
 Deze functie laat jou toe om leden toe te voegen en hun details te bewaren, ook al gebruiken ze Squatix niet. Indien ze toch later Squatix beginnen gebruiken en een lidverzoek voor jouw club indienen kan je het door jou aangemaakte profiel met de echte gebruiker linken. (zie [Ledenverzoeken](#ledenverzoeken))
 Velden die je kan invullen zijn:
-- voornaam (verplicht)
-- achternaam (verplicht)
-- email (optioneel)
-- telefoon (optioneel)
-- geboortedatum (optioneel)
-- geslacht (optioneel)
-- nationaliteit (optioneel)
-- adres (optioneel)
-	- straat
-	- huisnummer
-	- gemeente
-	- postcode 
-	- land
+- Voornaam (verplicht)
+- Achternaam (verplicht)
+- Email (optioneel)
+- Telefoon (optioneel)
+- Geboortedatum (optioneel)
+- Geslacht (optioneel)
+- Nationaliteit (optioneel)
+- Adres (optioneel)
+	- Straat
+	- Huisnummer
+	- Gemeente
+	- Postcode 
+	- Land
 
 ## Ledenverzoeken
 
@@ -125,20 +129,23 @@ Indien je lid verzoek vragen ingesteld hebt (zie [Lid verzoek vragen](settings.m
 Het is mogelijk de gebruiker te koppelen aan een bestaand ledenprofiel. Op die manier kan je jouw leden initieel zelf aanmaken zonder dat ze gekoppeld zijn met een gebruiker (en zo hun gegevens 
 bijhouden). Zodra ze echter de applicatie beginnen te gebruiken kan je met deze functie de gebruiker koppelen met dit eerder aangemaakte profiel. Alle gegevens die je al ingegeven had blijven 
 bewaard na koppeling.  
-Opteer je ervoor om geen koppeling uit te voeren, dan wordt er een nieuw lid voor de gebruiker aangemaakt en worden de gegevens die de gebruiker in zijn eigen gebruikersprofiel al ingegeven had 
-(geboortedatum, geslacht, naam, voornaam, ...) gekopieerd naar dit leden profiel in jouw club).
+
+Opteer je ervoor om geen koppeling uit te voeren, dan wordt er een nieuw lid voor de gebruiker aangemaakt en worden de gegevens die de gebruiker in zijn eigen 
+gebruikersprofiel al ingegeven had (geboortedatum, geslacht, naam, voornaam, ...) gekopieerd naar dit leden profiel in jouw club.
 
 4) Afwijzen/aanvaarden
 
-Indien je ervoor opteert het ledenverzoek af te wijzen wordt het onherroepelijk verwijderd.  
+Indien je ervoor opteert het ledenverzoek af te wijzen wordt het onherroepelijk verwijderd. 
+ 
 Zodra je het verzoek geaccepteerd hebt wordt er een extra actief lid toegevoegd aan jouw club.
 
 **Opgelet:** Om een kindprofiel lid te laten worden van jouw club en toegang te geven tot alle functionaliteit is het voldoende dat enkel dit kindprofiel een ledenverzoek verstuurt. Het is dus **niet**
-nodig dat ook een gekoppeld ouderprofiel lid wordt van de club.
+nodig dat ook een gekoppeld ouderprofiel lid wordt van de club indien deze in realiteit eigenlijk geen lid is.
 	
 ## Rollen
 Met rollen kan je jouw leden toegang geven tot bepaalde functionaliteiten of pagina's waar een lid zonder die rol geen toegang toe heeft. Op de rollen-pagina kan je de 
-verschillende rollen en hun permissies voor jouw club definiëren. Daarna kan je in de detail pagina van een lid hem een van die rollen toekennen (zie [Lid gegevens](#lid-gegevens)).
+verschillende rollen en hun permissies voor jouw club definiëren. Daarna kan je in de detail pagina van een lid hem een of meerdere van die rollen toekennen 
+(zie [Lid gegevens](#lid-gegevens)).
 
 ![roles](/assets/images/roles.png)	
 
@@ -150,27 +157,36 @@ Volgende permissies kunnen aan een rol gegeven worden:
 - Rollen beheren ()
 - Trainer ()
 - Trainingen wijzigen ()
+TIM invullen
 
-Standaard rollen die niet kunnen verwijderd of aangepast worden:
-- Eigenaar (Alle permissies, uitgezonder trainer. Enkel toegekend aan persoon die de club aangemaakt heeft, kan beheerders aanduiden of verwijderen.)
-- Beheerder (Alle permissies, uitgezonderd trainer)
+Een aantal standaard rollen zijn altijd aanwezig en kunnen niet verwijderd of aangepast worden:
+- Eigenaar (Alle permissies, uitgezonder trainer. Enkel toegekend aan de persoon die de club aangemaakt heeft, kan beheerders aanduiden of verwijderen.)
+- Beheerder (Alle permissies, uitgezonderd trainer, kan geen andere beheerders aanduiden of verwijderen TIM: klopt dit)
 - Trainer (Kan als trainer toegevoegd worden aan een training)
 		
 ## Detail
+Wijzigingen die doorgevoerd worden in de detailpagina van een lid hebben enkel betrekking op de details van het lid in de club zelf. Deze worden dus niet aangepast 
+of overschreven in het gebruikersprofiel van het lid. Beide profielen staan los van elkaar.
 
 In de bovenste sectie kan je het volgende terugvinden:
 - Foto: uploaden van een foto voor het lid, deze staat los van de eigen foto die het lid in zijn profiel heeft toegevoegd en zal deze dus niet overschrijven
-- Gekoppeld aan gebruikersprofiel: dit label wordt getoond indien een fysieke gebruiker aan dit lid gekoppeld is (na een ledenverzoek, zie [Ledenverzoeken](#ledenverzoeken)
+- Gekoppeld aan gebruikersprofiel: dit label wordt getoond indien een fysieke gebruiker aan dit lid gekoppeld is (na een ledenverzoek, zie [Ledenverzoeken](#ledenverzoeken))
 - Kindprofiel: dit label wordt getoond indien een kindprofiel aan dit lid gekoppeld is 
-- Inactief maken: door een lid inactief te maken is hij niet meer aanpasbaar maar telt hij ook niet meer mee in het aantal leden (voor berekening van het clubabonnement). Opgelet, volgende gevolgen zijn onomkeerbaar:
+- Inactief maken: door een lid inactief te maken is hij niet meer aanpasbaar maar telt hij ook niet meer mee in het aantal leden (voor berekening van het clubabonnement).
+Zijn profiel kan wel nog bekeken worden door te zoeken op inactieve leden in het overzicht (zie ([Overzicht](#toevoegen))).
+ 
+Opgelet, volgende gevolgen zijn onomkeerbaar:
 	- Het lid wordt verwijderd uit alle toekomstige trainingen waarvoor het ingeschreven is
-	- Indien hij als trainer gekoppeld is aan een trainingscategorie wordt hij verwijderd
+	- Indien hij als trainer gekoppeld is aan een trainingscategorie wordt deze koppeling verwijderd
 	- Indien een fysieke gebruiker gekoppeld is aan dit lid wordt de connectie verwijderd en heeft deze gebruiker geen toegang meer tot de club
-- Lid verwijderen: een lid verwijderen heeft dezelfde gevolgen als een lid inactief maken maar hij wordt ook verwijderd uit de lijst met leden, dit is onomkeerbaar. 
+- Lid verwijderen: een lid verwijderen heeft dezelfde gevolgen als een lid inactief maken maar hij wordt ook verwijderd uit de lijst met leden en zijn ledenprofiel
+kan op geen enkele manier meer bekeken worden. Deze actie is onomkeerbaar. 
 
 ### Abonnement
 
-Er wordt een overzicht getoond van alle actieve en inactieve (vorige) abonnementen. In het bovenste deel van het scherm worden alle actieve abonnementen getoond en de mogelijke acties op deze abonnementen. In het onderste deel van het scherm wordt een overzicht van de vorige abonnementen getoond, deze zijn niet meer aanpasbaar.
+Er wordt een overzicht getoond van alle actieve en inactieve (vorige) abonnementen.  
+In het bovenste deel van het scherm worden alle actieve abonnementen getoond en de mogelijke acties op deze abonnementen.  
+In het onderste deel van het scherm wordt een overzicht van de vorige abonnementen getoond, deze zijn niet meer aanpasbaar.
 
 ![member details subscriptions](/assets/images/member_detail_subscriptions.png)
 
@@ -184,14 +200,16 @@ Het werken met abonnementen is optioneel. Een lid kan echter ook meerdere actiev
 Om een nieuw actief abonnement toe te voegen, klik op het +-teken. Het scherm om een nieuw abonnement aan te maken opent zich. Volgende velden kunnen ingevuld worden:
 - Type (verplicht, abonnement of beurten)
 - Categorie (optioneel, zie [Abonnementscategorieën](settings.md#abonnementscategorieën))
-- Categorieën automatisch inschrijven (optioneel, enkel indien abonnementscategorie geselecteerd met gelinkte trainingscategorieën, 
+- Categorieën automatisch inschrijven (optioneel, enkel indien de geselecteerde abonnementscategorie gelinkte trainingscategorieën heeft, 
 zie [Abonnementscategorieën](settings.md#abonnementscategorieën) en [Automatisch inschrijven](#automatisch-inschrijven))
 - Geldig tot (verplicht)
-- Beurten over (verplicht indien type beurten geselecteerd)
+- Beurten over (verplicht indien type "Beurten" geselecteerd is)
 
-Om een actief abonnement aan te passen klik op het potloodje. Vorige aanpassingen aan het abonnement kunnen bekeken worden in het scherm dat opent. Om een nieuwe aanpassing door te voeren, klik nogmaals op het potloodje.  
+Om een actief abonnement aan te passen klik op het potloodje. Vorige aanpassingen aan het abonnement kunnen bekeken worden in het scherm dat opent. Om een nieuwe aanpassing 
+door te voeren, klik nogmaals op het potloodje.  
 
-Om een abonnement inactief te maken, klik op "inactief maken" op het bewuste abonnement. Het abonnement verdwijnt naar de sectie "Vorige abonnementen" en is niet meer aanpasbaar.
+Om een abonnement inactief te maken, klik op "inactief maken" op het bewuste abonnement. Het abonnement verdwijnt naar de sectie "Vorige abonnementen" en is niet meer 
+aanpasbaar. Dit kan niet ongedaan gemaakt worden.
 
 **Vorige abonnementen**
 
@@ -199,8 +217,11 @@ Dit toont een overzicht van inactieve abonnementen. Indien er aanpassingen gewee
 
 
 ### Lid gegevens
+TIM foto
 
 **Extra info**
+
+Volgende informatie kan je hier bekijken:
 
 - Lid sinds welke datum
 - Indien kindprofiel: wie zijn de gekoppelde ouders
@@ -213,14 +234,33 @@ Verander de autorisaties van het lid in Squatix door hem een of meerdere rollen 
 
 Vrij tekstveld om algemene opmerkingen over het lid te bewaren
 
+**Lid verzoek vragen**
+
+Indien het lid bij zijn ledenverzoek vragen diende te beantwoorden kan je hier de antwoorden nalezen (zie [Lid verzoek vragen](settings.md#lid-verzoek-vragen)).
 
 ![member details subscriptions](/assets/images/member_detail_memberdetails.png)
 
 ### Persoonlijk
 
+Op deze pagina kan je alle persoonlijke details over het lid bekijken en aanpassen.
+
+Volgende info is beschikbaar:
+- Naam
+- Geslacht
+- Geboortedatum
+- Nationaliteit
+- Adres
+- E-mail (je kan meerdere emailadressen opslaan en ze voorzien van een label)
+- Telefoon (je kan meerdere telefoonnummers opslaan en ze voorzien van een label)
+
 ![member details subscriptions](/assets/images/member_detail_personal.png)
 
 ### Trainingen
-Hier kan je een overzicht krijgen van alle trainingen waarop het lid ingeschreven is (verleden en toekomst)
+Hier kan je een overzicht krijgen van alle trainingen waarop het lid ingeschreven is (verleden en toekomst). 
+
+Om gerichter te zoeken kan je de trainingen filteren op:
+- Naam
+- Categorie
+- Startdatum
 
 ![member details subscriptions](/assets/images/member_detail_trainings.png)
