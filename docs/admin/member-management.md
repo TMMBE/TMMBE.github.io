@@ -150,18 +150,17 @@ verschillende rollen en hun permissies voor jouw club definiëren. Daarna kan je
 ![roles](/assets/images/roles.png)	
 
 Volgende permissies kunnen aan een rol gegeven worden:
-- Club info wijzigen ()
-- Club chat ()
-- Leden lezen ()
-- Leden wijzigen ()
-- Rollen beheren ()
-- Trainer ()
-- Trainingen wijzigen ()
-TIM invullen
+- Club info wijzigen (Wijzig de club info, upload een logo)
+- Club chat (Ontvang en beantwoord chatberichten die leden naar de club sturen)
+- Leden lezen (Bekijk de ledenlijst)
+- Leden wijzigen (Bekijk en wijzig de leden)
+- Rollen beheren (Rollen bekijken, toevoegen en aanpassen)
+- Trainer (Kan geselecteerd worden als trainer)
+- Trainingen wijzigen (Aanpassen en aanmaken van trainingen)
 
 Een aantal standaard rollen zijn altijd aanwezig en kunnen niet verwijderd of aangepast worden:
 - Eigenaar (Alle permissies, uitgezonder trainer. Enkel toegekend aan de persoon die de club aangemaakt heeft, kan beheerders aanduiden of verwijderen.)
-- Beheerder (Alle permissies, uitgezonderd trainer, kan geen andere beheerders aanduiden of verwijderen TIM: klopt dit)
+- Beheerder (Alle permissies, uitgezonderd trainer, kan geen andere beheerders aanduiden of verwijderen)
 - Trainer (Kan als trainer toegevoegd worden aan een training)
 		
 ## Detail
@@ -174,7 +173,9 @@ In de bovenste sectie kan je het volgende terugvinden:
 - Kindprofiel: dit label wordt getoond indien een kindprofiel aan dit lid gekoppeld is 
 - Inactief maken: door een lid inactief te maken is hij niet meer aanpasbaar maar telt hij ook niet meer mee in het aantal leden (voor berekening van het clubabonnement).
 Zijn profiel kan wel nog bekeken worden door te zoeken op inactieve leden in het overzicht (zie ([Overzicht](#toevoegen))).
- 
+
+![member details heading](/assets/images/member_detail_heading.png)
+
 Opgelet, volgende gevolgen zijn onomkeerbaar:
 	- Het lid wordt verwijderd uit alle toekomstige trainingen waarvoor het ingeschreven is
 	- Indien hij als trainer gekoppeld is aan een trainingscategorie wordt deze koppeling verwijderd
@@ -217,7 +218,6 @@ Dit toont een overzicht van inactieve abonnementen. Indien er aanpassingen gewee
 
 
 ### Lid gegevens
-TIM foto
 
 **Extra info**
 
@@ -226,19 +226,25 @@ Volgende informatie kan je hier bekijken:
 - Lid sinds welke datum
 - Indien kindprofiel: wie zijn de gekoppelde ouders
 
+![member details extra info](/assets/images/member_detail_extrainfo.png)
+
 **Rollen**
 
 Verander de autorisaties van het lid in Squatix door hem een of meerdere rollen toe te kennen (zie [Rollen](#rollen))
+
+![member details roles](/assets/images/member_detail_roles.png)
 
 **Opmerkingen**
 
 Vrij tekstveld om algemene opmerkingen over het lid te bewaren
 
+![member details remarks](/assets/images/member_detail_remarks.png)
+
 **Lid verzoek vragen**
 
 Indien het lid bij zijn ledenverzoek vragen diende te beantwoorden kan je hier de antwoorden nalezen (zie [Lid verzoek vragen](settings.md#lid-verzoek-vragen)).
 
-![member details subscriptions](/assets/images/member_detail_memberdetails.png)
+![member details questions](/assets/images/member_detail_questions.png)
 
 ### Persoonlijk
 
