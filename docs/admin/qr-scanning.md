@@ -54,6 +54,7 @@ Nadat het lid geselecteerd of bevestigd is wordt de lijst van mogelijke training
 juiste training op
 - Inschrijven en bevestigen: het lid is nog niet ingeschreven voor de training, de actie zal hem zowel inschrijven als bevestigen
 - Bevestigen: het lid is ingeschreven voor de training, de actie zal hem bevestigen
+
 Zodra het lid bevestigd is vernieuwt het scherm zich. Het is mogelijk het lid weer te verwijderen indien een fout gemaakt is. Na de bevestiging zal naast het lid in de detail pagina van de training
 een vinkje staan in de "Bevestig" kolom (zie [Training deelnemers](trainings.md#deelnemers))
 

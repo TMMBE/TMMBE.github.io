@@ -15,3 +15,5 @@ Gebruik Squatix om op de hoogte te blijven van alles wat zich afspeelt in de clu
 - De status van jouw abonnement bekijken
 - Communiceren met de beheerders van de club
 - ...
+
+Squatix is beschikbaar zowel als mobiele app (Android/iOS) en als webversie (http://app.squatix.com)
