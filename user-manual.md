@@ -7,4 +7,11 @@ description: "Squatix helps you organize your club"
 permalink: /user-manual
 ---
 
-# Focus on writing good documentation
+# Squatix gebruikershandleiding
+
+Gebruik Squatix om op de hoogte te blijven van alles wat zich afspeelt in de club waar je lid van bent:
+- Inschrijven voor trainingen
+- Clubnieuwtjes lezen
+- De status van jouw abonnement bekijken
+- Communiceren met de beheerders van de club
+- ...
