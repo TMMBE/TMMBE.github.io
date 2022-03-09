@@ -33,6 +33,18 @@ lid van is of waar een ledenverzoek voor in behandeling is.
 
 ![Overview clubs](/assets/images/overview_clubs.png)
 
+**Zoek club**
+
+Om op zoek te gaan naar jouw club kan je in de webversie onmiddelijk de naam van de club beginnen typen in het zoekvak. In de versie van de mobiele app klik je eerst nog op "Zoek een club"
+waarna je hetzelfde zoekvak te zien krijgt.  
+Zodra je de naam van jouw club begint te typen zal je suggesties krijgen, klik op de naam in de pop-up en jouw club wordt geselecteerd. Er verschijnt wat informatie over de club en een knop
+"Lid worden". Om een lidverzoek te versturen naar deze club klik op de knop.
+
+![Find a club overview](/assets/images/find_a_club_overview.png)
+
+
+
+
 ## Abonnement bekijken
 
 Het is mogelijk om het abonnement dat je bij een club hebt in de gaten te houden en zo op de hoogte te blijven van de status. Jouw abonnement vind je op de volgende locatie:
