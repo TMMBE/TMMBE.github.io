@@ -98,7 +98,7 @@ Aanklikken van een training opent de training detail pagina.
 
 ### Detail
 
-#### Algemene velden
+**Algemene velden**
 
 De training detail pagina toont volgende training info:
 - Titel
@@ -110,9 +110,24 @@ De training detail pagina toont volgende training info:
 
 ![trainingdetails](/assets/images/training_details.png)
 
-#### Trainingsdeelname
+**Trainingsdeelname**
 
-#### Berichten
+De training geeft de status van jouw deelname aan de training weer.
+
+Indien je wenst in te schrijven op de training, klik op "Inschrijven"
+
+![Subscribe to training](/assets/images/subscribe_training.png)
+
+Indien je weer wenst uit te schrijven, klik op "Uitschrijven"
+
+![Unsubscribe from training](/assets/images/unsubscribe_training.png)
+
+De beheerder van de club kan ook aangeven dat je voor bepaalde trainingen een specifiek abonnement moet hebben. Indien je niet over dit abonnement beschikt wordt dit aangegeven en is inschrijven 
+niet mogelijk 
+
+![Unsubscribe from training](/assets/images/training_subscribe_error.png)
+
+**Berichten**
 
 Net als bij clubberichten (zie [Clubberichten](#clubberichten)) is het ook hier mogelijk te communiceren binnen de club. Berichten 
 kunnen tekst en een afbeelding bevatten.
@@ -120,7 +135,7 @@ kunnen tekst en een afbeelding bevatten.
 In tegenstelling tot bij clubberichten kunnen de leden hier zelf ook een nieuw bericht plaatsen. Alle leden die ingeschreven zijn op de training krijgen een melding
 indien een nieuw bericht geplaatst is.
 
-### Training geschiedenis
+**Training geschiedenis**
 
 Hier worden alle gebeurtenissen die plaatsvonden op de training getoond:
 - Aanpassing details training 
@@ -128,5 +143,7 @@ Hier worden alle gebeurtenissen die plaatsvonden op de training getoond:
 - Training geannuleerd
 			
 ![training actions](/assets/images/training_history.png)
+
+**Trainers**
 
 ## Chats
