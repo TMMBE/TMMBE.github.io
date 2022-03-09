@@ -48,3 +48,5 @@ Het profiel is gedeeld maar wacht nog op de goedkeuring van de andere ouder. Zol
 De andere ouder kan nu op zijn of haar beurt zelf naar de “profiel” pagina gaan en bevestigen. Vanaf nu hebben beide ouders dezelfde functionaliteiten op het kindprofiel.
 
 ![Share child profile](/assets/images/share_profile_approve.png)
+
+## Notificaties

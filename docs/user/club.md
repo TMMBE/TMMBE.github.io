@@ -67,6 +67,8 @@ niet meer mondeling gedeeld te worden.
 
 Zodra je op "Bevestig" geklikt hebt wordt jouw ledenverzoek verstuurd. Je ontvangt een notificatie zodra een beheerder van de club het verzoek heeft goedgekeurd.
 
+### Club aanmaken
+
 ## Abonnement bekijken
 
 Het is mogelijk om het abonnement dat je bij een club hebt in de gaten te houden en zo op de hoogte te blijven van de status. Jouw abonnement vind je op de volgende locatie:
@@ -76,6 +78,55 @@ Het is mogelijk om het abonnement dat je bij een club hebt in de gaten te houden
 
 ![Subscription](/assets/images/subscription.png)
 
-## Trainingsdeelname
+## Clubberichten
+
+## Trainings
+
+### Overzicht 
+
+In het trainingsoverzicht zie je alle trainingen voor de geselecteerde maand. 
+
+![traininglist](/assets/images/training_list_member.png)
+		
+Bovenaan kan je kiezen voor kalenderzicht (1) of lijstzicht (2). 
+De knop mijn trainingen (3) toont de trainingen waarop je bent ingeschreven (verleden of toekomst). Op deze pagina zien trainers ook een overzicht van de 
+trainingen waarop ze al bevestigd hebben of dewelke ze nog moeten bevestigen (indien degene die de training aangemaakt heeft daarom gevraagd heeft)
+
+![training_overview](/assets/images/training_buttons.png)
+
+Aanklikken van een training opent de training detail pagina.
+
+### Detail
+
+#### Algemene velden
+
+De training detail pagina toont volgende training info:
+- Titel
+- Start- en eind datum 
+- Categorie 
+- Locatie (Optioneel)
+- Beschrijving (Optioneel)
+- Aantal bezette plaatsen indien deelnemersbeperking (Optioneel)
+
+![trainingdetails](/assets/images/training_details.png)
+
+#### Trainingsdeelname
+
+#### Berichten
+
+Net als bij clubberichten (zie [Clubberichten](#clubberichten)) is het ook hier mogelijk te communiceren binnen de club. Berichten 
+kunnen tekst en een afbeelding bevatten.
+
+In tegenstelling tot bij clubberichten kunnen de leden hier zelf ook een nieuw bericht plaatsen. Alle leden die ingeschreven zijn op de training krijgen een melding
+indien een nieuw bericht geplaatst is.
+
+### Training geschiedenis
+
+Hier worden alle gebeurtenissen die plaatsvonden op de training getoond:
+- Aanpassing details training 
+- Training aangemaakt
+- Training geannuleerd
+			
+![training actions](/assets/images/training_history.png)
 
 ## Chats
