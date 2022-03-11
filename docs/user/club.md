@@ -161,6 +161,20 @@ Hier worden alle gebeurtenissen die plaatsvonden op de training getoond:
 
 **Trainers**
 
+Indien je een trainer van de club bent kan je een overzicht bekijken van alle trainingen waarvoor je aangeduid bent als trainer door naar de "Mijn trainingen"-pagina te gaan. De link hier naartoe
+vind je bovenaan het overzicht van de trainingen.
+
+![confirm trainer button](/assets/images/mytrainings_button.png)
+
+In de "Mijn trainingen"-pagina zie je kolom "Trainer" die aangeeft of je al bevestigd bent voor die trainingen (een groen vinkje) of je nog moet bevestigen/weigeren (een groene en rode knop).
+Of je al dan niet jouw deelname moet bevestigen hangt af van de persoon die de training heeft aangemaakt.
+
+![confirm trainer](/assets/images/mytrainings_trainer_confirm.png)
+
+Je kan ook naar de detailpagina van de training gaan om daar de status van jouw trainerschap voor die training te bekijken.
+
+![training detail trainer](/assets/images/training_detail_trainer.png)
+
 ## Chats
 
 Het is mogelijk een privé-bericht te sturen naar de beheerders van jouw club. De chatknop vind je op de club-info pagina:
@@ -169,3 +183,7 @@ Het is mogelijk een privé-bericht te sturen naar de beheerders van jouw club. D
 - Webversie: Klik op "Info" onder de clubnaam in de linker navigatiebalk en scroll naar onderen
 
 ![messages](/assets/images/member_chat.png)
+
+## Club verlaten
+
+Wens je de club te verlaten? Ga dan naar de club-info pagina, klik op de drie puntjes en in het pop-up menu klik op "Club verlaten" **Opgelet:** dit kan niet ongedaan gemaakt worden.
