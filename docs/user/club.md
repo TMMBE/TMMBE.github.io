@@ -69,6 +69,11 @@ Zodra je op "Bevestig" geklikt hebt wordt jouw ledenverzoek verstuurd. Je ontvan
 
 ### Club aanmaken
 
+Indien je dit wenst kan je **volledig gratis** zelf jouw club aanmaken. Je beschikt dan over alle functionaliteiten in Squatix zonder enige kost of verplichting en kan tot maximaal
+tien leden beheren in jouw club. Ben je tevreden met de werking en wil je graag meer leden kunnen toevoegen? Contacteer ons dan om dit verder te bespreken!
+
+Om een club aan te maken klik op "Club aanmaken". Vul alle nodige data in en klik nogmaals op "Club aanmaken". Je wordt automatisch naar de detailpagina van jouw nieuwe club gestuurd.
+
 ## Abonnement bekijken
 
 Het is mogelijk om het abonnement dat je bij een club hebt in de gaten te houden en zo op de hoogte te blijven van de status. Jouw abonnement vind je op de volgende locatie:
@@ -79,6 +84,16 @@ Het is mogelijk om het abonnement dat je bij een club hebt in de gaten te houden
 ![Subscription](/assets/images/subscription.png)
 
 ## Clubberichten
+
+Beheerders kunnen berichten delen die zichtbaar zijn voor alle leden. Alle leden ontvangen een melding wanneer er een nieuw bericht geplaatst is. Leden kunnen niet zelf berichten plaatsen
+maar kunnen wel reageren op bestaande berichten.
+
+![Club messages](/assets/images/club_messages_member.png)
+
+Om de clubberichten te bekijken, ga naar:
+
+- Mobiele app: Ga onderaan naar "Club" en klik op "Berichten"
+- Webversie: Klik op "Clubs" in de linker navigatiebalk
 
 ## Trainings
 
@@ -147,3 +162,10 @@ Hier worden alle gebeurtenissen die plaatsvonden op de training getoond:
 **Trainers**
 
 ## Chats
+
+Het is mogelijk een privé-bericht te sturen naar de beheerders van jouw club. De chatknop vind je op de club-info pagina:
+
+- Mobiele app: Ga onderaan naar "Club" en klik op "Club info"
+- Webversie: Klik op "Info" onder de clubnaam in de linker navigatiebalk en scroll naar onderen
+
+![messages](/assets/images/member_chat.png)
