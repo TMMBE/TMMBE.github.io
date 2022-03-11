@@ -49,4 +49,27 @@ De andere ouder kan nu op zijn of haar beurt zelf naar de “profiel” pagina g
 
 ![Share child profile](/assets/images/share_profile_approve.png)
 
-## Notificaties
+## Meldingen
+
+Bij gebeurtenissen in Squatix kan je een melding ontvangen. Om jouw ontvangen meldingen te bekijken klik bovenaan op het belletje. Indien er nieuwe meldingen zijn wordt een rood cijfer getoond.
+
+![notifications](/assets/images/notifications_symbol.png)
+
+Met de meldingen geopend kan je op de drie puntjes klikken om twee acties uit te voeren:
+
+**Alles markeren als gelezen**
+Klik hierop om alle meldingen status gelezen te geven
+
+**Meldingsinstellingen**
+
+Op deze pagina kan je kiezen per type melding hoe jij ze het liefst wilt ontvangen:
+
+- E-mail: je ontvangt een e-mail elke keer zich een melding van dit type voordoet
+- Push: je ontvangt een pushmelding (indien je de app geinstalleerd hebt)
+
+Klik op bewaar om jouw voorkeuren vast te leggen.
+
+![notification settings](/assets/images/notification_settings.png)
+
+
+
