@@ -15,17 +15,17 @@ nav_order: 7
 
 ---
 
-## Trainingscategorieën
-Om een trainingscategorie toe te voegen, klik op "Voeg toe". 
+## Meetingscategorieën
+Om een meetingscategorie toe te voegen, klik op "Voeg toe". 
 Volgende data kan ingegeven worden:
 - Naam
-- Kleur: wordt weergegeven in de trainingskalender om trainingen met een verschillende categorie van elkaar te kunnen onderscheiden
-- Inschrijven: enkel leden met een geldig abonnement kunnen inschrijven op de training of alle leden kunnen inschrijven
-- Trainers: selecteer trainers die automatisch zullen ingevuld worden bij het aanmaken van een training van deze categorie
+- Kleur: wordt weergegeven in de meetingskalender om meetings met een verschillende categorie van elkaar te kunnen onderscheiden
+- Inschrijven: enkel leden met een geldig abonnement kunnen inschrijven op de meeting of alle leden kunnen inschrijven
+- Trainers: selecteer trainers die automatisch zullen ingevuld worden bij het aanmaken van een meeting van deze categorie
 
-![Training category](/assets/images/training_categorie.png)
+![Meeting category](/assets/images/training_categorie.png)
 
-Voor het aanpassen van een trainingscategorie: klik op het potloodje
+Voor het aanpassen van een meetingscategorie: klik op het potloodje
 
 ## Abonnementscategorieën
 Abonnementscategorieën zijn optioneel. Het is ook mogelijk een abonnement aan te maken zonder categorie.
@@ -33,7 +33,7 @@ Abonnementscategorieën zijn optioneel. Het is ook mogelijk een abonnement aan t
 Om een abonnementscategorie toe te voegen, klik op "Voeg toe". 
 Volgende data kan ingegeven worden:
 - Naam
-- Gelinkte trainingscategorieën: link een van de aangemaakte trainingscategorieën aan de abonnementscategorie. Op deze manier kan je bepalen voor welke trainingen een lid kan inschrijven (indien de trainingscategorie enkel voor een geldig abonnement inschrijfbaar is) of voor welke trainingen een lid automatisch kan ingeschreven worden (zie [Automatisch inschrijven](#automatischinschrijven))
+- Gelinkte meetingscategorieën: link een van de aangemaakte meetingscategorieën aan de abonnementscategorie. Op deze manier kan je bepalen voor welke meetings een lid kan inschrijven (indien de meetingscategorie enkel voor een geldig abonnement inschrijfbaar is) of voor welke meetings een lid automatisch kan ingeschreven worden (zie [Automatisch inschrijven](#automatischinschrijven))
 
 ![Subscription category](/assets/images/subscription_categorie.png)
 			
@@ -57,7 +57,7 @@ Om een eerder aangemaakte vraag aan te passen, klik op het potloodje. Hetzelfde 
 ## Club
 Onder club kan je volgende dingen bekijken:
 - Bekijk het abonnement waarover de club beschikt bij squatix en de geldigheidsdatum. Zodra de geldigheidsdatum is overschreden is het niet meer mogelijk nieuwe leden toe te voegen.
-- Agenda delen: het is mogelijk de trainingskalender te gebruiken in een externe kalender applicatie die ICS ondersteunt. Kopieër daartoe de ics-url naar de benodigde 
+- Agenda delen: het is mogelijk de meetingskalender te gebruiken in een externe kalender applicatie die ICS ondersteunt. Kopieër daartoe de ics-url naar de benodigde 
 plaats. Voor ondersteuning neem contact op met het team dat de applicatie aanbiedt.
 - Handleiding: klik op de link om de beheerdershandleiding te bekijken.
 

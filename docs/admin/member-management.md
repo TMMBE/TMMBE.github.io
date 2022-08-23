@@ -28,9 +28,9 @@ Het is mogelijk verschillende filters toe te passen:
 - Status abonnement (geldig of niet meer geldig)
 - Type abonnement (met beurten of enkel met een geldigheidsdatum)
 - Abonnementscategorie (zie [Abonnement](#abonnement))
-- Trainingscategorie (filter wordt enkel getoond indien een abonnementscategorie is geselecteerd, filter bevat de trainingscategorieën gelinkt aan dit abonnement, 
+- Meetingscategorie (filter wordt enkel getoond indien een abonnementscategorie is geselecteerd, filter bevat de meetingscategorieën gelinkt aan dit abonnement, 
 zie [AbonnementsCategorieën](settings.md#abonnementscategorieën). Resultaat toont de leden die een abonnement hebben met de geselecteerde abonnementscategorie en 
-waarvoor de aangeduide trainingscategoriën aangevinkt staan als "automatisch inschrijven".
+waarvoor de aangeduide meetingscategoriën aangevinkt staan als "automatisch inschrijven".
 
 ![member list](/assets/images/member_list.png)
 		
@@ -67,7 +67,7 @@ abonnementen. Selecteer de gewenste opties van dit nieuwe abonnement en klik op 
 		
 		
 ### QR genereren
-QR-codes van leden kunnen ook afgedrukt worden. Met deze codes kunnen leden gescand worden om hun aanwezigheid op de training te bevestigen (zie [QR scanning](qr-scanning.md)). Vink in het overzicht de leden aan, selecteer "Genereer QR" in het drop-down menu en klik op uitvoeren. Een PDF bestand met de gewenste QR codes wordt geopend.
+QR-codes van leden kunnen ook afgedrukt worden. Met deze codes kunnen leden gescand worden om hun aanwezigheid op de meeting te bevestigen (zie [QR scanning](qr-scanning.md)). Vink in het overzicht de leden aan, selecteer "Genereer QR" in het drop-down menu en klik op uitvoeren. Een PDF bestand met de gewenste QR codes wordt geopend.
 
 ![QR codes](/assets/images/generate_qr.png)	
 		
@@ -78,7 +78,7 @@ Bovenaan vind je een overzicht met de geselecteerde leden, met X kan je eventuee
 
 ![attendance list](/assets/images/attendance_list1.png)	
 		
-In het onderste deel kan je de trainingen filteren waarvoor je de aanwezigheidslijst wilt genereren, eens de juiste parameters zijn ingevuld, klik op "ok" en de resultaten worden zichtbaar. Wens je de lijst gemakkelijk te kunnen afdrukken, klik dan op (1) en er wordt een PDF gegenereerd met hetzelfde overzicht.
+In het onderste deel kan je de meetings filteren waarvoor je de aanwezigheidslijst wilt genereren, eens de juiste parameters zijn ingevuld, klik op "ok" en de resultaten worden zichtbaar. Wens je de lijst gemakkelijk te kunnen afdrukken, klik dan op (1) en er wordt een PDF gegenereerd met hetzelfde overzicht.
 
 ![attendance list](/assets/images/attendance_list2.png)	
 		
@@ -156,12 +156,12 @@ Volgende permissies kunnen aan een rol gegeven worden:
 - Leden wijzigen (Bekijk en wijzig de leden)
 - Rollen beheren (Rollen bekijken, toevoegen en aanpassen)
 - Trainer (Kan geselecteerd worden als trainer)
-- Trainingen wijzigen (Aanpassen en aanmaken van trainingen)
+- Meetings wijzigen (Aanpassen en aanmaken van meetings)
 
 Een aantal standaard rollen zijn altijd aanwezig en kunnen niet verwijderd of aangepast worden:
 - Eigenaar (Alle permissies, uitgezonder trainer. Enkel toegekend aan de persoon die de club aangemaakt heeft, kan beheerders aanduiden of verwijderen.)
 - Beheerder (Alle permissies, uitgezonderd trainer, kan geen andere beheerders aanduiden of verwijderen)
-- Trainer (Kan als trainer toegevoegd worden aan een training)
+- Trainer (Kan als trainer toegevoegd worden aan een meeting)
 		
 ## Detail
 Wijzigingen die doorgevoerd worden in de detailpagina van een lid hebben enkel betrekking op de details van het lid in de club zelf. Deze worden dus niet aangepast 
@@ -177,8 +177,8 @@ Zijn profiel kan wel nog bekeken worden door te zoeken op inactieve leden in het
 ![member details heading](/assets/images/member_detail_heading.png)
 
 Opgelet, volgende gevolgen zijn onomkeerbaar:
-	- Het lid wordt verwijderd uit alle toekomstige trainingen waarvoor het ingeschreven is
-	- Indien hij als trainer gekoppeld is aan een trainingscategorie wordt deze koppeling verwijderd
+	- Het lid wordt verwijderd uit alle toekomstige meetings waarvoor het ingeschreven is
+	- Indien hij als trainer gekoppeld is aan een meetingscategorie wordt deze koppeling verwijderd
 	- Indien een fysieke gebruiker gekoppeld is aan dit lid wordt de connectie verwijderd en heeft deze gebruiker geen toegang meer tot de club
 - Lid verwijderen: een lid verwijderen heeft dezelfde gevolgen als een lid inactief maken maar hij wordt ook verwijderd uit de lijst met leden en zijn ledenprofiel
 kan op geen enkele manier meer bekeken worden. Deze actie is onomkeerbaar. 
@@ -196,12 +196,12 @@ In het onderste deel van het scherm wordt een overzicht van de vorige abonnement
 Het werken met abonnementen is optioneel. Een lid kan echter ook meerdere actieve abonnementen hebben. De beheerder kan dus zelf kiezen welke aanpak hij verkiest. Volgende beperkingen gelden:
 - Er kan maar één abonnement zijn van elke abonnementscategorie
 - Er kan maar één abonnement zijn zonder abonnementscategorie
-- Twee abonnementen kunnen geen overlappende gelinkte trainingscategorieën hebben.
+- Twee abonnementen kunnen geen overlappende gelinkte meetingscategorieën hebben.
 
 Om een nieuw actief abonnement toe te voegen, klik op het +-teken. Het scherm om een nieuw abonnement aan te maken opent zich. Volgende velden kunnen ingevuld worden:
 - Type (verplicht, abonnement of beurten)
 - Categorie (optioneel, zie [Abonnementscategorieën](settings.md#abonnementscategorieën))
-- Categorieën automatisch inschrijven (optioneel, enkel indien de geselecteerde abonnementscategorie gelinkte trainingscategorieën heeft, 
+- Categorieën automatisch inschrijven (optioneel, enkel indien de geselecteerde abonnementscategorie gelinkte meetingscategorieën heeft, 
 zie [Abonnementscategorieën](settings.md#abonnementscategorieën) en [Automatisch inschrijven](#automatisch-inschrijven))
 - Geldig tot (verplicht)
 - Beurten over (verplicht indien type "Beurten" geselecteerd is)
@@ -261,10 +261,10 @@ Volgende info is beschikbaar:
 
 ![member details subscriptions](/assets/images/member_detail_personal.png)
 
-### Trainingen
-Hier kan je een overzicht krijgen van alle trainingen waarop het lid ingeschreven is (verleden en toekomst). 
+### Meetings
+Hier kan je een overzicht krijgen van alle meetings waarop het lid ingeschreven is (verleden en toekomst). 
 
-Om gerichter te zoeken kan je de trainingen filteren op:
+Om gerichter te zoeken kan je de meetings filteren op:
 - Naam
 - Categorie
 - Startdatum
