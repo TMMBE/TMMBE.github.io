@@ -16,16 +16,20 @@ nav_order: 4
 ---
 
 ## Overzicht 
-In het meetingsoverzicht zie je alle meetingen voor de geselecteerde maand. 
+In het meetingsoverzicht zie je alle meetings voor de geselecteerde maand. 
 
 ![meetinglist](/assets/images/training_list.png)
 		
 Bovenaan kan je kiezen voor kalenderzicht (1) of lijstzicht (2). 
-De knop mijn kalender (3) toont de trainingen waarop het ingelogde lid is ingeschreven (verleden of toekomst). Op deze pagina zien trainers ook een overzicht van de 
+De knop mijn kalender (3) toont de meetings waarop het ingelogde lid is ingeschreven (verleden of toekomst). Op deze pagina zien trainers ook een overzicht van de 
 trainingen waarop ze al bevestigd hebben of dewelke ze nog moeten bevestigen (indien degene die de training aangemaakt heeft daarom gevraagd heeft, 
 zie [Editeer/creeër meeting](#editeercreeër-meeting)
 
 ![meeting_overview](/assets/images/training_buttons.png)
+
+Resultaten kunnen gefilterd worden door het type meeting aan of af te vinken of door meetingscategorieën te selecteren of te deselecteren.
+
+![meeting_filter](/assets/images/meetings_filter.png)
 
 Via de knop "Meeting aanmaken" kan je een nieuwe meeting creëren (zie [Editeer/creeër meeting](#editeercreeër-training))
 
@@ -44,6 +48,8 @@ De meeting detail pagina toont volgende meeting info:
 - Aantal bezette plaatsen indien deelnemersbeperking (Optioneel)
 
 ![meetingdetails](/assets/images/training_details.png)
+
+### Trainers (enkel meeting-type "Training")
 
 
 ### Deelnemers
