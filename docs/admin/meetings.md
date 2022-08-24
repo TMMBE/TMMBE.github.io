@@ -15,7 +15,7 @@ nav_order: 4
 
 ---
 ## Inleiding
-Meetings zijn alle afspraken binnen jouw club. Er zijn drie mogelijke soorten meeting:
+Meetings zijn alle afspraken binnen jouw club. Er zijn drie mogelijke soorten meetings:
 - Training
 - Wedstrijd
 - Evenement 
@@ -148,14 +148,22 @@ Hier kan je een of meerdere trainers toevoegen. Dit kan op twee manieren:
 - Manueel: klik op "voeg trainer toe" en selecteer de trainer. Enkel leden met een trainer-rol worden getoond. Voor het toekennen van de trainer-rol aan een lid 
 zie [Lid gegevens](member-management.md#lid-gegevens)
 - Automatisch: indien een trainer gelinkt is aan de gekozen meetingscategorie wordt hij automatisch ingevuld. Voor het linken van trainers aan een 
-categorie zie [AbonnementsCategorieën](settings.md#abonnementscategorieën). Wens je de trainer toch niet toe te voegen aan de meeting of wil je hem later weer verwijderen, 
+categorie zie [Meetingscategorieën](settings.md#meetingscategorieën). Wens je de trainer toch niet toe te voegen aan de meeting of wil je hem later weer verwijderen, 
 klik op X
 
 ![meeting categorie](/assets/images/new_training_trainers.png)
 
-Het is ook mogelijk deze trainers te vragen om hun aanwezigheid te bevestigen. Dit doe je door "Vraag bevestiging" aan te vinken. De trainer ontvangt een notificatie 
+Het is ook mogelijk deze trainers te vragen om hun aanwezigheid te bevestigen. Dit doe je door "Vraag trainer om te bevestigen" aan te vinken. De trainer ontvangt een notificatie 
 dat hij zijn aanwezigheid moet bevestigen. Bevestigen kan hij op de detail pagina van de meeting of in zijn "mijn kalender"-pagina waar hij een overzicht heeft op 
-alle meetings die hij nog moet bevestigen. Indien de trainer aangeeft dat hij niet aanwezig kan zijn dient hij een vervanger te kiezen uit de andere beschikbare trainers.
+alle meetings die hij nog moet bevestigen.
+
+Als beheerder kan je heel precies aangeven wat er dient te gebeuren indien de trainer aangeeft dat hij niet kan aanwezig zijn op de training:
+- Dient hij een vervanger te kiezen of niet?
+- Dient hij altijd een vervangen te kiezen of gebaseerd op regels? Regels kunnen zijn:
+	- Er moeten minstens X aantal trainers aanwezig zijn
+	- Er moeten minstens X aantal trainers van een bepaalde groep aanwezig zijn
+	- Vervangers kunnen enkel van dezelfde groep komen (zie [Trainer groepen](settings.md#trainergroepen))
+Indien een trainer niet kan aanwezig zijn en er door de configuratie geen beschikbare trainers meer zijn dient hij contact op te nemen met een beheerder.
 
 **Automatisch alle leden inschrijven die aan de categorie zijn gekoppeld**
 
@@ -172,7 +180,7 @@ als deelnemer zullen toegevoegd worden aan de meeting indien ze aan volgende cri
 - Lid heeft zich niet eerder manueel uitgeschreven van de meeting (enkel toepasbaar indien meeting eerder aangemaakt werd als "gewone" meeting en pas later 
 aangepast werd naar "automatisch inschrijven" - meeting)
 
-![meeting categorie](/assets/images/new_training_autosubscribe.png)
+![automatisch inschrijven](/assets/images/new_training_autosubscribe.png)
 
 Indien een meeting aangeduid is als "automatisch inschrijven" wordt bij verschillende acties gekeken of de deelnemerslijst automatisch moet aangepast worden:
 - Aanvinken "automatisch inschrijven" bij aanpassen/aanmaken meeting
@@ -181,7 +189,20 @@ Indien een meeting aangeduid is als "automatisch inschrijven" wordt bij verschil
 - Aanvaarden/toevoegen van een nieuw lid in de club (zie [Ledenbeheer](member-management.md))
 - Aanpassen van een abonnement van een lid (zie [Abonnement](member-management.md#abonnement))
 - Toewijzen/verwijderen van een meetingcategorie bij een abonnementscategorie
-		
+
+**Automatisch teams inschrijven**
+
+Indien je dit aanvinkt wordt de meeting aangeduid als "automatisch teams inschrijven". Dit houdt in dat na creatie van de meeting alle leden die in een van de toegevoegde teams zitten automatisch 
+als deelnemer zullen toegevoegd worden aan de meeting (zie [Teams](settings.md#teams))
+
+![automatisch teams inschrijven](/assets/images/new_training_subscribeteams.png)
+
+Indien een meeting aangeduid is als "automatisch teams inschrijven" wordt bij verschillende acties gekeken of de deelnemerslijst automatisch moet aangepast worden:
+- Aanvinken "automatisch teams inschrijven" bij aanpassen/aanmaken meeting
+- Verwijderen/toevoegen van trainers
+- Aanpassen van een team
+- Aanpassen van de teams op de training
+	
 **Beperk deelnemers**
 
 Geef een maximum aantal deelnemers voor de meeting in. Leden zullen niet zelf kunnen inschrijven voor een meeting die volgeboekt is.
