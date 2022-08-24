@@ -14,6 +14,11 @@ nav_order: 4
 {:toc}
 
 ---
+## Inleiding
+Meetings zijn alle afspraken binnen jouw club. Er zijn drie mogelijke soorten meeting:
+- Training
+- Wedstrijd
+- Evenement 
 
 ## Overzicht 
 In het meetingsoverzicht zie je alle meetings voor de geselecteerde maand. 
@@ -46,11 +51,15 @@ De meeting detail pagina toont volgende meeting info:
 - Locatie (Optioneel)
 - Beschrijving (Optioneel)
 - Aantal bezette plaatsen indien deelnemersbeperking (Optioneel)
+- Trainers (enkel meeting-type "Training"): alle aangestelde en bevestigde (optioneel) trainers
 
 ![meetingdetails](/assets/images/training_details.png)
 
 ### Trainers (enkel meeting-type "Training")
 
+Een overzicht van alle trainers die aangesteld zijn voor de training en hun status (indien bevestiging gevraagd is). Een beheerder kan de status voor elke trainer aanpassen.
+
+![trainers](/assets/images/meeting_trainers.png)
 
 ### Deelnemers
 In de deelnemers tabel zie je de ingeschreven deelnemers. 
