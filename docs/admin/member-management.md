@@ -16,9 +16,21 @@ nav_order: 6
 ---
 
 ## Overzicht
+
+### Weergave
 	
 Standaard worden alle actieve leden getoond, alfabetisch gerangschikt op voornaam. Met de pijltjes naast voornaam en achternaam is het mogelijk de resultaten op een 
 andere manier te rangschikken. 
+
+Het is echter mogelijk andere weergaven te tonen, dit kan door op het draaiwieltje naast "weergave" te klikken. Mogelijke opties zijn:
+- Leden (alle leden)
+- Vrijwilligers (alle vrijwilligers)
+- Abonnementen (alle leden met hun abonnement informatie, indien een lid twee abonnementen heeft wordt hij tweemaal getoond)
+- E-mails (alle leden met hun e-mail en status op de nieuwsbrief, indien een lid twee e-mailadressesn heeft wordt hij tweemaal getoond)
+
+Afhankelijk van de gekozen weergave zijn er ook andere ledenacties mogelijk (zie [Ledenacties](#ledenacties))
+
+### Filters
 
 Het is mogelijk verschillende filters toe te passen:
 - Naam (er wordt gezocht in zowel voor- en achternaam)
@@ -31,12 +43,14 @@ Het is mogelijk verschillende filters toe te passen:
 - Meetingscategorie (filter wordt enkel getoond indien een abonnementscategorie is geselecteerd, filter bevat de meetingscategorieën gelinkt aan dit abonnement, 
 zie [AbonnementsCategorieën](settings.md#abonnementscategorieën). Resultaat toont de leden die een abonnement hebben met de geselecteerde abonnementscategorie en 
 waarvoor de aangeduide meetingscategoriën aangevinkt staan als "automatisch inschrijven".
+- Nieuwsbrief geabboneerd
+- Nieuwsbrief ingeschakeld
 
 ![member list](/assets/images/member_list.png)
 		
 Een van de extra filters weer verwijderen kan door op "meer filters" te klikken en deze weer leeg te maken of door te klikken op het kruisje naast de desbetreffende filter.
 
-**Acties** 
+### Acties
 - Nieuwe leden toevoegen kan via "Voeg toe" (zie [Toevoegen](#toevoegen)).
 - Rollen bewerken kan via "Rollen" (zie [Rollen](#rollen)).
 - Indien er ledenverzoeken zijn wordt dit hier getoond (zie [Ledenverzoeken](#ledenverzoeken)).
@@ -48,7 +62,26 @@ Een van de extra filters weer verwijderen kan door op "meer filters" te klikken 
 ![member actions](/assets/images/member_actions2.png)		
 		
 ## Ledenacties
-### Abonnementen bewerken
+
+### Genereer QR (weergave leden/vrijwilligers)
+QR-codes van leden kunnen ook afgedrukt worden. Met deze codes kunnen leden gescand worden om hun aanwezigheid op de meeting te bevestigen (zie [QR scanning](qr-scanning.md)). Vink in het overzicht de leden aan, selecteer "Genereer QR" in het drop-down menu en klik op uitvoeren. Een PDF bestand met de gewenste QR codes wordt geopend.
+
+![QR codes](/assets/images/generate_qr.png)
+
+### Aanwezigheidslijst (weergave leden/vrijwilligers)
+Genereer een rapport met de aanwezigheden per lid. Vink eerst een aantal leden aan in het overzichtsscherm, selecteer "aanwezigheidslijst" in het drop-down menu en klik op "uitvoeren", het aanwezigheidslijstscherm wordt geopend.
+		
+Bovenaan vind je een overzicht met de geselecteerde leden, met X kan je eventueel nog leden terug verwijderen.
+
+![attendance list](/assets/images/attendance_list1.png)	
+		
+In het onderste deel kan je de meetings filteren waarvoor je de aanwezigheidslijst wilt genereren, eens de juiste parameters zijn ingevuld, klik op "ok" en de resultaten worden zichtbaar. Wens je de lijst gemakkelijk te kunnen afdrukken, klik dan op (1) en er wordt een PDF gegenereerd met hetzelfde overzicht.
+
+![attendance list](/assets/images/attendance_list2.png)
+
+### Team aanmaken (weergave leden/vrijwilligers)
+
+### Bewerk abonnementen (weergave abonnementen)
 Deze functie kan gebruikt worden indien je bij verschillende leden tegelijk een abonnementsaanpassing wilt doen. Vink in het overzicht de leden aan, selecteer "Bewerk abonnementen" in het drop-down menu en klik op uitvoeren. Het abonnementenscherm wordt geopend.
 		
 Bovenaan vind je een overzicht met de geselecteerde leden, met X kan je eventueel nog leden terug verwijderen.
@@ -64,24 +97,10 @@ abonnementen. Selecteer de gewenste opties van dit nieuwe abonnement en klik op 
 - Abonnement verlengen: alle geselecteerde abonnementen van de geselecteerde leden worden verlengd. Selecteer de termijn en klik op "Bewaar"
 
 ![mass subscriptions](/assets/images/mass_subscriptions3.png)		
-		
-		
-### QR genereren
-QR-codes van leden kunnen ook afgedrukt worden. Met deze codes kunnen leden gescand worden om hun aanwezigheid op de meeting te bevestigen (zie [QR scanning](qr-scanning.md)). Vink in het overzicht de leden aan, selecteer "Genereer QR" in het drop-down menu en klik op uitvoeren. Een PDF bestand met de gewenste QR codes wordt geopend.
 
-![QR codes](/assets/images/generate_qr.png)	
+### Inschakelen/uitschakelen nieuwsbrief (weergave e-mails)
 		
-### Aanwezigheidslijst
-Genereer een rapport met de aanwezigheden per lid. Vink eerst een aantal leden aan in het overzichtsscherm, selecteer "aanwezigheidslijst" in het drop-down menu en klik op "uitvoeren", het aanwezigheidslijstscherm wordt geopend.
-		
-Bovenaan vind je een overzicht met de geselecteerde leden, met X kan je eventueel nog leden terug verwijderen.
-
-![attendance list](/assets/images/attendance_list1.png)	
-		
-In het onderste deel kan je de meetings filteren waarvoor je de aanwezigheidslijst wilt genereren, eens de juiste parameters zijn ingevuld, klik op "ok" en de resultaten worden zichtbaar. Wens je de lijst gemakkelijk te kunnen afdrukken, klik dan op (1) en er wordt een PDF gegenereerd met hetzelfde overzicht.
-
-![attendance list](/assets/images/attendance_list2.png)	
-		
+### Abonneer op nieuwsbrief (weergave e-mails)			
 		
 ## Toevoegen
 Deze functie laat jou toe om leden toe te voegen en hun details te bewaren, ook al gebruiken ze Squatix niet. Indien ze toch later Squatix beginnen gebruiken en een lidverzoek voor jouw club indienen kan je het door jou aangemaakte profiel met de echte gebruiker linken. (zie [Ledenverzoeken](#ledenverzoeken))
