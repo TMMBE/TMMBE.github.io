@@ -36,7 +36,7 @@ Resultaten kunnen gefilterd worden door het type meeting aan of af te vinken of 
 
 ![meeting_filter](/assets/images/meetings_filter.png)
 
-Via de knop "Meeting aanmaken" kan je een nieuwe meeting creëren (zie [Editeer/creeër meeting](#editeercreeër-training))
+Via de knop "Meeting aanmaken" kan je een nieuwe meeting creëren (zie [Editeer/creeër meeting](#editeercreeër-meeting))
 
 Aanklikken van een meeting opent de meeting detail pagina.
 
@@ -162,7 +162,8 @@ Als beheerder kan je heel precies aangeven wat er dient te gebeuren indien de tr
 - Dient hij altijd een vervangen te kiezen of gebaseerd op regels? Regels kunnen zijn:
 	- Er moeten minstens X aantal trainers aanwezig zijn
 	- Er moeten minstens X aantal trainers van een bepaalde groep aanwezig zijn
-	- Vervangers kunnen enkel van dezelfde groep komen (zie [Trainer groepen](settings.md#trainergroepen))
+	- Vervangers kunnen enkel van dezelfde groep komen (zie [Trainer groepen](settings.md#trainer-groepen))
+	
 Indien een trainer niet kan aanwezig zijn en er door de configuratie geen beschikbare trainers meer zijn dient hij contact op te nemen met een beheerder.
 
 **Automatisch alle leden inschrijven die aan de categorie zijn gekoppeld**

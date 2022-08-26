@@ -67,7 +67,7 @@ Volgende data kan ingegeven worden:
 
 Aanpassen van een Team: klik op het potloodje
 
-Aanmaken van een team kan ook door in de leden pagina eerst de leden te selecteren en daarna de actie "Team aanmaken" te selecteren (zie [Team aanmaken](member-management.md#teamaanmaken))
+Aanmaken van een team kan ook door in de leden pagina eerst de leden te selecteren en daarna de actie "Team aanmaken" te selecteren (zie [Team aanmaken](member-management.md#team-aanmaken))
 	
 ## Lid verzoek vragen
 Wanneer leden een verzoek verzenden om lid te worden van jouw club kan je hen vragen een aantal vragen te beantwoorden. Zo kan je bijvoorbeeld vragen of ze ook een 
