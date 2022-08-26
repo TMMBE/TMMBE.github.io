@@ -81,6 +81,9 @@ In het onderste deel kan je de meetings filteren waarvoor je de aanwezigheidslij
 
 ### Team aanmaken (weergave leden/vrijwilligers)
 
+Met deze functie kan je op een snelle manier een nieuw team aanmaken. Vink in het overzicht de leden aan die in het team moeten toegevoegd worden, selecteer "Team aanmaken". Op de volgende pagina
+vul je de naam van het team in, klik je op bewaar en het team is aangemaakt. (zie [Teams](settings.md#teams))
+
 ### Bewerk abonnementen (weergave abonnementen)
 Deze functie kan gebruikt worden indien je bij verschillende leden tegelijk een abonnementsaanpassing wilt doen. Vink in het overzicht de leden aan, selecteer "Bewerk abonnementen" in het drop-down menu en klik op uitvoeren. Het abonnementenscherm wordt geopend.
 		
@@ -99,8 +102,17 @@ abonnementen. Selecteer de gewenste opties van dit nieuwe abonnement en klik op 
 ![mass subscriptions](/assets/images/mass_subscriptions3.png)		
 
 ### Inschakelen/uitschakelen nieuwsbrief (weergave e-mails)
+
+Deze functie kan gebruikt worden indien je bij verschillende leden tegelijk de nieuwsbrief functie wilt in-of uitschakelen. Vink in het overzicht de leden aan, selecteer "Inschakelen/uitschakelen nieuwsbrief" in het drop-down menu en klik op uitvoeren.
 		
-### Abonneer op nieuwsbrief (weergave e-mails)			
+Bovenaan vind je een overzicht met de geselecteerde leden, met X kan je eventueel nog leden terug verwijderen. Selecteer de gewenste actie en klik op bewaar.
+		
+### Abonneer op nieuwsbrief (weergave e-mails)	
+
+Deze functie kan gebruikt worden indien je naar verschillende leden tegelijk een mail wilt verzenden waarmee ze zich op de nieuwsbrief kunnen abonneren. Vink in het overzicht de leden aan, selecteer "Abonneer op nieuwsbrief" in het drop-down menu en klik op uitvoeren.
+		
+Bovenaan vind je een overzicht met de geselecteerde leden en hun huidige status ivm de nieuwsbrief, met X kan je eventueel nog leden terug verwijderen. Klik op "Inschrijvingsmail verzenden.
+		
 		
 ## Toevoegen
 Deze functie laat jou toe om leden toe te voegen en hun details te bewaren, ook al gebruiken ze Squatix niet. Indien ze toch later Squatix beginnen gebruiken en een lidverzoek voor jouw club indienen kan je het door jou aangemaakte profiel met de echte gebruiker linken. (zie [Ledenverzoeken](#ledenverzoeken))
