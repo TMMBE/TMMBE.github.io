@@ -30,17 +30,17 @@ kan herbekijken.
 
 ### Inhoud
 
-- onderwerp
-- tekst van de nieuwsbrief
-- header (optioneel)
-- footer (optioneel)
+- Onderwerp
+- Tekst van de nieuwsbrief
+- Header (optioneel)
+- Footer (optioneel)
 
 ### Configuratie
 
-- initiële aanmaakdatum
-- verzenddatum
-- verzendmethode (iedereen/teams)
-- geselecteerde teams (indien als verzendmethode 'teams' gekozen is)
+- Initiële aanmaakdatum
+- Verzenddatum
+- Verzendmethode (iedereen/teams)
+- Geselecteerde teams (indien als verzendmethode 'teams' gekozen is)
 
 ### Levering
 Bekijk welke leden geselecteerd waren voor aflevering van de nieuwsbrief en wat de status van aflevering voor elk lid is.
@@ -54,8 +54,8 @@ Onder concepten vind je bewaarde, nog niet verstuurde nieuwsbrieven. Klikken op 
 Sjablonen kunnen gebruikt worden om vaste hoofdingen of voetteksten aan jouw nieuwsbrieven te geven.
 In te vullen velden:
 
-- titel: geef jouw sjabloon een uniek titel 
-- sjabloon: de inhoud van jouw sjabloon.
+- Titel: geef jouw sjabloon een unieke titel 
+- Sjabloon: de inhoud van jouw sjabloon.
 
 Klik op "bewaar" om jouw sjabloon op te slaan. Klik op "verwijder" om jouw sjabloon te verwijderen.
 
@@ -69,10 +69,10 @@ Doorloop volgende stappen om een nieuwsbrief aan te maken:
 
 ### Inhoud
 
-- Onderwerp: Vul het onderwerp in zoals het zal te zien zijn in het onderwerp veld van jouw nieuwsbrief
-- Nieuwsbrief: Inhoud van de nieuwsbrief
-- Header (optioneel): Kies een header voor jouw nieuwsbrief. Deze zal bovenaan de nieuwsbrief getoond worden
-- Footer (optioneel): Kies een footer voor jouw nieuwsbrief. Deze zal onderaan de nieuwsbrief getoond worden.
+- Onderwerp: vul het onderwerp in zoals het zal te zien zijn in het onderwerp veld van jouw nieuwsbrief
+- Nieuwsbrief: inhoud van de nieuwsbrief
+- Header (optioneel): kies een header voor jouw nieuwsbrief. Deze zal bovenaan de nieuwsbrief getoond worden
+- Footer (optioneel): kies een footer voor jouw nieuwsbrief. Deze zal onderaan de nieuwsbrief getoond worden.
 
 ### Levering
 
@@ -102,11 +102,11 @@ Om zich aan te melden voor ontvangst van nieuwsbrieven van de club dient het lid
 
 De beheerder kan deze mail naar het lid versturen op verschillende manieren:
 
-Individueel via de lid detail pagina:
+- Individueel via de lid detail pagina:
 Navigeer naar de detail pagina van het lid, open de tab "Persoonlijk", open het editeren voor e-mails via het potloodje, voeg een e-mailadres toe (indien dit nog niet gebeurd is) 
 en klik op de knop "Inschrijvingsmail verzenden"
 
-In groep via het ledenoverzicht:
+- In groep via het ledenoverzicht:
 Navigeer naar de leden pagina, open de "E-mails"-weergave, selecteer minstens één lid met bijhorend e-mailadres en voer de actie "Abonneer op nieuwsbrief" uit. Een nieuwe pagina opent waarop
 je het ledenoverzicht kan herbekijken/aanpassen en op "Inschrijvingsmail verzenden" kan klikken om de actie uit te voeren
 
@@ -115,10 +115,10 @@ Het lid kan zich ten allen tijde weer uitschrijven van de nieuwsbrief door midde
 ### In -en uitschakelen van ontvangst door de beheerder
 De beheerder kan op elk moment de ontvangst van nieuwsbrieven voor een lid in -of uitschakelen (ook indien deze zich zelf aangemeld heeft). De beheerder kan dit op twee manieren doen:
 
-Individueel via de lid detail pagina:
+- Individueel via de lid detail pagina:
 Navigeer naar de detail pagina van het lid, open de tab "Persoonlijk", open het editeren voor e-mails via het potloodje en vink "ingeschakeld" aan of uit, klik op bewaar om de 
 wijziging door te voeren.
 
-In groep via het ledenoverzicht:
+- In groep via het ledenoverzicht:
 Navigeer naar de leden pagina, open de "E-mails"-weergave, selecteer minstens één lid met bijhorend e-mailadres en voer de actie "Inschakelen/uitschakelen nieuwsbrief" uit. 
 Een nieuwe pagina opent waarop je het ledenoverzicht kan herbekijken/aanpassen. Selecteer "Alles inschakelen" of "Alles uitschakelen". Klik op "Bewaar" om de actie uit te voeren.
