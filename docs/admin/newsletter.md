@@ -92,3 +92,33 @@ Bekijk vooraleer te versturen een overzicht van de door jou aangemaakte nieuwsbr
 de nieuwsbrief wordt opgeslagen als concept.
 
 ## Inschrijven
+
+Om ingeschreven te zijn voor ontvangst van nieuwsbrieven dient een lid aan twee voorwaarden te voldoen:
+- Het lid moet zichzelf aangemeld hebben voor ontvangst van nieuwsbrieven
+- De beheerder mag de ontvangst van nieuwsbrieven door het lid niet uitgeschakeld hebben
+
+### Aanmelden voor nieuwsbrieven
+Om zich aan te melden voor ontvangst van nieuwsbrieven van de club dient het lid te bevestigen via een aanmeldingsemail. 
+
+De beheerder kan deze mail naar het lid versturen op verschillende manieren:
+
+Individueel via de lid detail pagina:
+Navigeer naar de detail pagina van het lid, open de tab "Persoonlijk", open het editeren voor e-mails via het potloodje, voeg een e-mailadres toe (indien dit nog niet gebeurd is) 
+en klik op de knop "Inschrijvingsmail verzenden"
+
+In groep via het ledenoverzicht:
+Navigeer naar de leden pagina, open de "E-mails"-weergave, selecteer minstens één lid met bijhorend e-mailadres en voer de actie "Abonneer op nieuwsbrief" uit. Een nieuwe pagina opent waarop
+je het ledenoverzicht kan herbekijken/aanpassen en op "Inschrijvingsmail verzenden" kan klikken om de actie uit te voeren
+
+Het lid kan zich ten allen tijde weer uitschrijven van de nieuwsbrief door middel van de uitschrijven-link onderaan elke nieuwsbrief.
+
+### In -en uitschakelen van ontvangst door de beheerder
+De beheerder kan op elk moment de ontvangst van nieuwsbrieven voor een lid in -of uitschakelen (ook indien deze zich zelf aangemeld heeft). De beheerder kan dit op twee manieren doen:
+
+Individueel via de lid detail pagina:
+Navigeer naar de detail pagina van het lid, open de tab "Persoonlijk", open het editeren voor e-mails via het potloodje en vink "ingeschakeld" aan of uit, klik op bewaar om de 
+wijziging door te voeren.
+
+In groep via het ledenoverzicht:
+Navigeer naar de leden pagina, open de "E-mails"-weergave, selecteer minstens één lid met bijhorend e-mailadres en voer de actie "Inschakelen/uitschakelen nieuwsbrief" uit. 
+Een nieuwe pagina opent waarop je het ledenoverzicht kan herbekijken/aanpassen. Selecteer "Alles inschakelen" of "Alles uitschakelen". Klik op "Bewaar" om de actie uit te voeren.
