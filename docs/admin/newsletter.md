@@ -47,7 +47,7 @@ Bekijk welke leden geselecteerd waren voor aflevering van de nieuwsbrief en wat 
 
 ## Concepten
 
-Onder concepten vind je bewaarde, nog niet verstuurde nieuwsbrieven. Klikken op een concept opent de nieuwsbriefbewerkingspagina (zie nieuwsbrief maken).
+Onder concepten vind je bewaarde, nog niet verstuurde nieuwsbrieven. Klikken op een concept opent de nieuwsbriefbewerkingspagina (zie [Nieuwsbrief maken](#nieuwsbrief-maken)).
 
 ## Sjablonen
 
@@ -57,7 +57,7 @@ In te vullen velden:
 - Titel: geef jouw sjabloon een unieke titel 
 - Sjabloon: de inhoud van jouw sjabloon.
 
-Klik op "bewaar" om jouw sjabloon op te slaan. Klik op "verwijder" om jouw sjabloon te verwijderen.
+Klik op "Bewaar" om jouw sjabloon op te slaan. Klik op "Verwijder" om jouw sjabloon te verwijderen.
 
 ## Nieuwsbrief maken
 
@@ -79,8 +79,9 @@ Doorloop volgende stappen om een nieuwsbrief aan te maken:
 Indien je in deze stap de nieuwsbriefpagina verlaat zal de nieuwsbrief als concept opgeslagen worden.
 
 Levering kan op twee manieren geconfigureerd worden:
-- Iedereen: alle leden van jouw club die ingeschreven zijn voor ontvangst (zie) zullen de nieuwsbrief ontvangen
-- Teams: selecteer welke teams (zie ) de nieuwsbrief zullen ontvangen. Let op: enkel de leden van die teams die ingeschreven zijn voor ontvangst (zie) zullen de nieuwsbrief ontvangen.
+- Iedereen: alle leden van jouw club die ingeschreven zijn voor ontvangst (zie [Inschrijven](#Inschrijven)) zullen de nieuwsbrief ontvangen
+- Teams: selecteer welke teams (zie [Teams](settings.md#teams)) de nieuwsbrief zullen ontvangen. Let op: enkel de leden van die teams die ingeschreven zijn voor ontvangst 
+(zie [Inschrijven](#Inschrijven)) zullen de nieuwsbrief ontvangen.
 
 Onder de selectie van de leveringsoptie zie je twee overzichten:
 - In selectie: toont alle leden die voldoen aan jouw selectiemethode en die ingeschreven zijn voor ontvangst van nieuwsbrieven
@@ -88,8 +89,8 @@ Onder de selectie van de leveringsoptie zie je twee overzichten:
 
 ### Overzicht
 
-Bekijk vooraleer te versturen een overzicht van de door jou aangemaakte nieuwsbrief en aflevermethode. Druk op "verzenden" om de nieuwsbrief te verzenden. Druk op "annuleer" om de verzending te annuleren, 
-de nieuwsbrief wordt opgeslagen als concept.
+Bekijk vooraleer te versturen een overzicht van de door jou aangemaakte nieuwsbrief en aflevermethode. Druk op "Verzenden" om de nieuwsbrief te verzenden. 
+Druk op "Annuleer" om de verzending te annuleren, de nieuwsbrief wordt opgeslagen als concept.
 
 ## Inschrijven
 
