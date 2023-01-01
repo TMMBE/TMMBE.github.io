@@ -31,6 +31,25 @@ hiermee klaar bent wordt je teruggestuurd naar Squatix en is jouw account klaar 
 Via "verbinding controleren" kan je op elk moment nakijken of de verbinding tussen Squatix en Mollie nog steeds ok is. Wens je te koppelen met een andere Mollie-account klik dan op "opnieuw verbinden".
 
 ## Betaling aanmaken
+
+Betalingen kunnen op twee manieren aangemaakt worden:
+
+- Individueel per lid: ga naar "Betalingen" en klik op "Voeg toe"
+- Voor meerdere leden tegelijkertijd: Ga naar "Leden" (weergave "Leden), selecteer een of meerdere leden en actie "Betaling aanmaken", klik op "Uitvoeren"
+
+Volgende velden kan je invullen:
+
+- Lid: Selecteer het lid waarvoor de betaling aangemaakt moet worden. Indien je een betaling voor meerdere leden tegelijkertijd aanmaakt is dit veld afwezig.
+- Waarde: Het bedrag van de betaling in euro.
+- Beschrijving: Geef een beschrijving aan de betaling, deze beschrijving is ook zichtbaar voor het lid. Maak deze duidelijk genoeg zodat je later nog weet waarvoor de betaling diende.
+- Betalingsregels: Je kan één of meerdere betalingsregels toevoegen (zie [Betalingsregels](#betalingsregels)). Dit is niet verplicht.
+
+![payment example](/assets/images/payment.png)
+
+### Betalingsregels
+
 ## Status controleren
+
 ## Kost
+
 ## Mollie
