@@ -19,11 +19,11 @@ Via Squatix kan je betalingen innen bij jouw leden. Je krijgt een handig overzic
 lijstjes om alles bij te houden of betalingen die je via verschillende kanalen ontvangt. Om de betalingen zelf uit te voeren werkt Squatix samen met Mollie (zie [Mollie](#mollie))
 
 ## Instellen
-Om te kunnen beginnen met betalingen aan te maken dien je eerst een Mollie account aan te maken en deze te linken met Squatix. Ga hiervoor naar instellingen > Mollie en klik op "verbinden"
+Om te starten met betalingen dien je eerst een Mollie account aan te maken en deze te linken met Squatix. Ga hiervoor naar instellingen > Mollie en klik op "verbinden"
 
 ![mollie connect](/assets/images/mollie_connect.png)
 
-Volg de instructies in scherm om Squatix toe te geven tot jouw Mollie account. Maak een nieuwe Mollie-account aan of log in op jouw bestaande Mollie-account indien je daarover beschikt. Zodra je
+Volg de instructies op het scherm om Squatix toegang te geven tot jouw Mollie account. Maak een nieuwe Mollie-account aan of log in op jouw bestaande Mollie-account indien je daarover beschikt. Zodra je
 hiermee klaar bent wordt je teruggestuurd naar Squatix en is jouw account klaar om betalingen aan te maken.
 
 ![mollie connect success](/assets/images/mollie_connect_done.png)
@@ -35,7 +35,7 @@ Via "verbinding controleren" kan je op elk moment nakijken of de verbinding tuss
 Betalingen kunnen op twee manieren aangemaakt worden:
 
 - Individueel per lid: ga naar "Betalingen" en klik op "Voeg toe"
-- Voor meerdere leden tegelijkertijd: Ga naar "Leden" (weergave "Leden), selecteer een of meerdere leden en actie "Betaling aanmaken", klik op "Uitvoeren"
+- Voor meerdere leden tegelijkertijd: Ga naar "Leden" (weergave "Leden"), selecteer een of meerdere leden en actie "Betaling aanmaken", klik op "Uitvoeren"
 
 Volgende velden kan je invullen:
 
@@ -58,7 +58,7 @@ Om een betalingsregel toe te voegen klik op "Voeg betalingsregel toe". Volgende 
 - Soort: Vast (bedrag in euro)/Percentage (een percentage van het betalingsbedrag)
 - Waarde: De korting/boete die het lid krijgt in euro of een percentage
 
-Om een betalingsregels weer te verwijderen klik rechts in de betalingsregel op het prullenbakje.
+Om een betalingsregel weer te verwijderen klik rechts in de betalingsregel op het prullenbakje.
 
 ![payment rules](/assets/images/paymentrules.png)
 
@@ -111,6 +111,6 @@ je Squatix instelt voor betalingen (zie [Instellen](#instellen)).
 Eens jouw leden hun betaling hebben overgemaakt kan je het geld vanop jouw Mollie account overmaken naar een rekeningnummer. Hiervoor dien je naar jouw aangemaakte account op www.mollie.com te
 surfen en daar de instructies te volgen.
 
-Voor meer informatie over Mollie ga naar https://www.mollie.com
-Voor informatie over de gehanteerde tarieven kijk op https://www.mollie.com/be/pricing
+Voor meer informatie over Mollie ga naar [https://www.mollie.com](https://www.mollie.com).
+Voor informatie over de gehanteerde tarieven kijk op [https://www.mollie.com/be/pricing](https://www.mollie.com/be/pricing).
 
