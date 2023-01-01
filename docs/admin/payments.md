@@ -70,6 +70,47 @@ In het voorbeeld hierboven zal het lid:
 
 ## Status controleren
 
+Krijg een overzicht van alle aangemaakte betalingen in jouw club door te navigeren naar "Betalingen". Zoeken kan op lid en op status van de betaling.
+
+De belangrijkste statussen zijn:
+
+- Open: De betaling is aangemaakt maar het lid heeft nog niet betaald.
+- Betaald: Het lid heeft betaald.
+- Geannuleerd: De betaling is door een beheerder geannuleerd.
+- Mislukt: Het lid heeft proberen betalen maar de betaling is mislukt. Hij heeft de mogelijkheid opnieuw te proberen.
+
+### Detail
+
+Door in het overzicht op een betaling te klikken opent zich de detailpagina.
+
+De getoonde details zijn:
+- Lid
+- Status
+- Waarde
+- Aanmaakdatum
+- Beschrijving
+- Eventuele betalingsregels.
+
+Voor een betaling in status open is het mogelijk om de betaling te annuleren.
+
+![payment detail open](/assets/images/payment_detail_open.png)
+
+In het detail van een betaalde betaling waar betalingsregels bij van toepassing zijn wordt het originele bedrag vermeld, het betaalde bedrag en de reden van de aanpassing.
+
+![payment detail closed](/assets/images/payment_detail_closed.png)
+
 ## Kost
 
+Squatix rekent een transactiekost aan van 0,9% per transactie (min 0,25 €), excl kosten Mollie.
+
 ## Mollie
+
+Om de betalingsfunctionaliteit van Squatix te kunnen gebruiken dien je over een account te beschikken bij Mollie. Indien je hier nog niet over beschikt kan je deze automatisch aanmaken wanneer
+je Squatix instelt voor betalingen (zie [Instellen](#instellen)).
+
+Eens jouw leden hun betaling hebben overgemaakt kan je het geld vanop jouw Mollie account overmaken naar een rekeningnummer. Hiervoor dien je naar jouw aangemaakte account op www.mollie.com te
+surfen en daar de instructies te volgen.
+
+Voor meer informatie over Mollie ga naar https://www.mollie.com
+Voor informatie over de gehanteerde tarieven kijk op https://www.mollie.com/be/pricing
+
