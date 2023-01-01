@@ -48,6 +48,26 @@ Volgende velden kan je invullen:
 
 ### Betalingsregels
 
+Met betalingsregels kan je leden een korting geven indien ze voor een bepaalde datum betalen of een boete indien ze na een bepaalde datum betalen. Je kan één of meerdere betalingsregels aan een 
+betaling koppelen.
+
+Om een betalingsregel toe te voegen klik op "Voeg betalingsregel toe". Volgende velden dien je in te vullen:
+
+- Type betalingsregel: Korting/Boete
+- Datum: Indien betaald voor (bij korting)/Indien betaald na (bij boete)
+- Soort: Vast (bedrag in euro)/Percentage (een percentage van het betalingsbedrag)
+- Waarde: De korting/boete die het lid krijgt in euro of een percentage
+
+Om een betalingsregels weer te verwijderen klik rechts in de betalingsregel op het prullenbakje.
+
+![payment rules](/assets/images/paymentrules.png)
+
+In het voorbeeld hierboven zal het lid:
+
+- €110 moeten betalen voor 8 januari.
+- €120 moeten betalen vanaf 8 januari tot en met 15 januari.
+- €126 moeten betalen na 15 januari.
+
 ## Status controleren
 
 ## Kost
