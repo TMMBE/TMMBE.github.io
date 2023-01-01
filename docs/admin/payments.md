@@ -111,6 +111,6 @@ je Squatix instelt voor betalingen (zie [Instellen](#instellen)).
 Eens jouw leden hun betaling hebben overgemaakt kan je het geld vanop jouw Mollie account overmaken naar een rekeningnummer. Hiervoor dien je naar jouw aangemaakte account op www.mollie.com te
 surfen en daar de instructies te volgen.
 
-Voor meer informatie over Mollie ga naar [https://www.mollie.com](https://www.mollie.com).
-Voor informatie over de gehanteerde tarieven kijk op [https://www.mollie.com/be/pricing](https://www.mollie.com/be/pricing).
+Voor meer informatie over Mollie ga naar [https://www.mollie.com](https://www.mollie.com){:target="_blank" rel="noopener"}.
+Voor informatie over de gehanteerde tarieven kijk op [https://www.mollie.com/be/pricing](https://www.mollie.com/be/pricing){:target="_blank" rel="noopener"}.
 
