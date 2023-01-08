@@ -81,7 +81,7 @@ Een deelnemer kan bevestigd worden voor de meeting indien zijn QR-code gescand w
 in de deelnemers tabel.
 
 ### Vrijwilligers
-Gelijkaardig als de deelnemers tabel, kan je in de vrijwilligers tabel de ingeschreven vrijwilligers bekijken. Indien er aparte vrijwilligerstaken zijn ingesteld, wordt er per vrijwilliger vermeld voor welke taak het lid is ingeschreven. Je kan de inschrijving ongedaan maken door op de afvalemmer te klikken. Je kan zelf een vrijwilliger toevoegen door bovenaan de tabel op de '+' te klikken.
+Gelijkaardig aan de deelnemers tabel, kan je in de vrijwilligers tabel de ingeschreven vrijwilligers bekijken. Indien er aparte vrijwilligerstaken zijn ingesteld, wordt er per vrijwilliger vermeld voor welke taak het lid is ingeschreven. Je kan de inschrijving ongedaan maken door op de afvalemmer te klikken. Je kan zelf een vrijwilliger toevoegen door bovenaan de tabel op de '+' te klikken.
 
 ![meeting volunteer participants](/assets/images/meeting_volunteer_participants.png)
 
@@ -184,6 +184,8 @@ Hierdoor zullen leden met de vrijwilligersrol zich kunnen inschrijven als vrijwi
 Je kan er ook voor kiezen om verschillende taken op te geven, zo kunnen vrijwilligers zich inschrijven op een specifieke taak. Je kan het maximum aantal per taak beperken.
 
 ![meeting volunteers](/assets/images/meeting_volunteers_tasks.png)
+
+Om leden van je club vrijwilliger te maken, zie [Ledenbeheer](member-management.md#vrijwilligers).
 
 **Automatisch alle leden inschrijven die aan de categorie zijn gekoppeld**
 
