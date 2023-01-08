@@ -80,6 +80,11 @@ De deelnemers tabel toont:
 Een deelnemer kan bevestigd worden voor de meeting indien zijn QR-code gescand wordt (zie QR scanning(qr-scanning.md)) of indien op "Bevestig" geklikt wordt 
 in de deelnemers tabel.
 
+### Vrijwilligers
+Gelijkaardig als de deelnemers tabel, kan je in de vrijwilligers tabel de ingeschreven vrijwilligers bekijken. Indien er aparte vrijwilligerstaken zijn ingesteld, wordt er per vrijwilliger vermeld voor welke taak het lid is ingeschreven. Je kan de inschrijving ongedaan maken door op de afvalemmer te klikken. Je kan zelf een vrijwilliger toevoegen door bovenaan de tabel op de '+' te klikken.
+
+![meeting volunteer participants](/assets/images/meeting_volunteer_participants.png)
+
 ### Berichten
 
 Net als bij clubberichten (zie [Berichten](communication.md#berichten)) is het ook hier mogelijk een algemeen publiek bericht over de meeting te plaatsen. Berichten 
@@ -165,6 +170,20 @@ Als beheerder kan je heel precies aangeven wat er dient te gebeuren indien de tr
 	- Vervangers kunnen enkel van dezelfde groep komen (zie [Trainer groepen](settings.md#trainer-groepen))
 	
 Indien een trainer niet kan aanwezig zijn en er door de configuratie geen beschikbare trainers meer zijn dient hij contact op te nemen met een beheerder.
+
+**Vrijwilligers**
+
+Wanneer je vrijwilligers wil toelaten op een meeting vink je dit vakje aan.
+
+![meeting volunteers](/assets/images/meeting_volunteers.png)
+
+Hierdoor zullen leden met de vrijwilligersrol zich kunnen inschrijven als vrijwilliger. Wil je het aantal vrijwilligers beperken voor deze meeting, dan vink je 'Beperk vrijwilligers' aan. Zo geef je het maximum aantal toegelaten vrijwilligers op.
+
+![meeting volunteers](/assets/images/meeting_volunteers_max.png)
+
+Je kan er ook voor kiezen om verschillende taken op te geven, zo kunnen vrijwilligers zich inschrijven op een specifieke taak. Je kan het maximum aantal per taak beperken.
+
+![meeting volunteers](/assets/images/meeting_volunteers_tasks.png)
 
 **Automatisch alle leden inschrijven die aan de categorie zijn gekoppeld**
 
