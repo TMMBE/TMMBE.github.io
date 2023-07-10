@@ -42,7 +42,7 @@ Het aanmaken van een extra profiel kan in de profiel pagina.
 
 Indien je meerdere profielen hebt dient één profiel steeds het hoofdprofiel te zijn. Dit is het profiel waarmee je communiceert: antwoorden op berichten, in chats etc.
 
-Jouw hoofdprofiel wordt al eerste getoond wanneer je de profielpagina opent, je kan het ook herkennen aan de volle gele ster. Indien je een ander profiel als hoofdprofiel wenst in te stellen,
+Jouw hoofdprofiel wordt als eerste getoond wanneer je de profielpagina opent, je kan het ook herkennen aan de volle gele ster. Indien je een ander profiel als hoofdprofiel wenst in te stellen,
 klik dan op de ster onder de naam die bij het profiel hoort.
 
 ![Change main profile](/assets/images/change_main_profile.png)
