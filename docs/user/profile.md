@@ -18,6 +18,7 @@ nav_order: 3
 
 ## Profiel opzetten
 
+Alvorens je jezelf bij een club kan aansluiten of vooraleer je een club kan aanmaken die je jouw profiel te vervolledigen.
 Om jouw profiel aan te passen klik op "Profiel". Volgende data zijn aanpasbaar:
 - Profielfoto
 - Adres
@@ -25,6 +26,7 @@ Om jouw profiel aan te passen klik op "Profiel". Volgende data zijn aanpasbaar:
 - Nationaliteit
 - Geslacht
 - Taal (Nederlands, Frans, Engels)
+- E-mail (deze dient geverifieerd te worden net na registratie of na aanpassing van het emailadres)
 
 ## Kindprofiel aanmaken
 

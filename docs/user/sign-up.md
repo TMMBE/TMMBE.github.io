@@ -38,14 +38,4 @@ In te vullen info:
 - E-mail
 - Taal 
 
-**Opgelet:** Indien de applicatie zal gebruikt worden voor een kind dat lid is van een club en waarbij de ouder het profiel wenst op te volgen, vul dan bij het registreren de informatie van de
-ouder in. Voor het kind kan laten een kindprofiel opgezet worden (zie [Kindprofiel aanmaken](profile.md#kindprofiel-aanmaken))
-
 ![sign in](/assets/images/register.png)
-
-### E-mail verificatie
-
-De laatste stap in het opzetten van een profiel is het verifiëren van het opgegeven e-mailadres. Via mail ontvang je een code, vul deze in en jouw profiel is klaar. Indien je in de vorige stap
-een verkeerd e-mailadres ingevuld hebt kan je het hier nog aanpassen door op "aanpassen" te klikken.
-
-![verify mail](/assets/images/email_verification.png)
