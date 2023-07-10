@@ -39,3 +39,7 @@ In te vullen info:
 - Taal 
 
 ![sign in](/assets/images/register.png)
+
+### Profile
+
+Alvorens je lid kan worden van een club of een kan aanmaken dien je na registratie jouw profiel te vervolledigen en jouw emailadres te verifiëren, zie (zie [Profiel opzetten](profile.md#profiel-opzetten))
