@@ -18,7 +18,8 @@ nav_order: 3
 
 ## Profiel opzetten
 
-Alvorens je jezelf bij een club kan aansluiten of vooraleer je een club kan aanmaken die je jouw profiel te vervolledigen.
+Alvorens je jezelf bij een club kan aansluiten of vooraleer je een club kan aanmaken dien je jouw profiel te vervolledigen en jouw emailadres te verifiëren.
+
 Om jouw profiel aan te passen klik op "Profiel". Volgende data zijn aanpasbaar:
 - Profielfoto
 - Adres
@@ -26,30 +27,44 @@ Om jouw profiel aan te passen klik op "Profiel". Volgende data zijn aanpasbaar:
 - Nationaliteit
 - Geslacht
 - Taal (Nederlands, Frans, Engels)
-- E-mail (deze dient geverifieerd te worden net na registratie of na aanpassing van het emailadres)
+- E-mail (deze dient geverifieerd te worden na elke aanpassing)
 
-## Kindprofiel aanmaken
+## Extra profielen aanmaken
 
-Eén van beide ouders dient het kindprofiel aan te maken (indien beiden dit doen zijn dit twee verschillende profielen).
+Het is mogelijk om verschillende profielen aan te maken, bijvoorbeeld omdat de Squatix account gedeeld wordt door meerdere personen. De verschillende profielen kunnen lid worden van andere clubs,
+het is ook mogelijk om met meerdere profielen lid te worden van dezelfde club.
 
-Het aanmaken van een kindprofiel kan in de profiel pagina.
+Het aanmaken van een extra profiel kan in de profiel pagina.
 
-![Create child profile](/assets/images/create_childprofile.png)
+![Create extra profile](/assets/images/create_extra_profile.png)
 
-## Kindprofiel delen
+## Hoofdprofiel instellen.
 
-Zodra het kindprofiel is aangemaakt verschijnt op dezelfde pagina de optie om het profiel te delen met de andere ouder. 
+Indien je meerdere profielen hebt dient één profiel steeds het hoofdprofiel te zijn. Dit is het profiel waarmee je communiceert: antwoorden op berichten, in chats etc.
 
-![Share child profile](/assets/images/share_profile.png)
+Jouw hoofdprofiel wordt al eerste getoond wanneer je de profielpagina opent, je kan het ook herkennen aan de volle gele ster. Indien je een ander profiel als hoofdprofiel wenst in te stellen,
+klik dan op de ster onder de naam die bij het profiel hoort.
+
+![Change main profile](/assets/images/change_main_profile.png)
+
+
+## Profielen delen
+
+Zodra je een extra profiel hebt aangemaakt verschijnt op dezelfde pagina de optie om het profiel te delen met een andere gebruiker. Hij zal dan dezelfde rechten op dit profiel en de clubs
+waarvan het lid is krijgen als jijzelf
+
+![Share profile](/assets/images/share_profile.png)
  
-Hier dient men het gsmnummer van de andere ouder (waarmee die persoon geregistreerd is bij Squatix) in te vullen en op “Bewaren” te klikken. 
-Het profiel is gedeeld maar wacht nog op de goedkeuring van de andere ouder. Zolang er op goedkeuring gewacht wordt kan het delen nog geannuleerd worden.
+Hier dient men het gsmnummer van de andere gebruiker (waarmee die persoon geregistreerd is bij Squatix) in te vullen en op “Bewaren” te klikken. 
+Het profiel is gedeeld maar wacht nog op de goedkeuring van de andere gebruiker.
 
-![Share child profile](/assets/images/share_profile_wait_approval.png)
+![Share profile](/assets/images/share_profile_wait_approval.png)
  
-De andere ouder kan nu op zijn of haar beurt zelf naar de “profiel” pagina gaan en bevestigen. Vanaf nu hebben beide ouders dezelfde functionaliteiten op het kindprofiel.
+De andere gebruiker kan nu op zijn of haar beurt zelf naar de “profiel” pagina gaan en bevestigen. Vanaf nu hebben beide gebruikers dezelfde functionaliteiten op het profiel.
 
-![Share child profile](/assets/images/share_profile_approve.png)
+![Share profile](/assets/images/share_profile_approve.png)
+
+De gebruiker die het profiel initieel aangemaakt heeft kan op elk moment het delen stopzetten of het profiel verwijderen. Enkel profielen die geen lid zijn van een club kunnen verwijderd worden.
 
 ## Meldingen
 
