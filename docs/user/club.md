@@ -28,8 +28,8 @@ Je komt nu op de pagina terecht waar je zowel de status van jouw clubs/ledenverz
 ### Status clubs
 
 Je krijgt een overzicht van de door jou verstuurde ledenverzoeken die nog wachten op goedkeuring of de clubs waar je al lid van bent. Ook de rollen die je eventueel gekregen hebt bij
-jouw club worden hier vermeld. Indien je over een kinderprofiel beschikt (zie [Kindprofiel aanmaken](profile.md#kindprofiel-aanmaken)) worden hier ook de clubs vermeld waar het kind
-lid van is of waar een ledenverzoek voor in behandeling is.
+jouw club worden hier vermeld. Indien je over extra profielen beschikt (zie [Extra profielen aanmaken](profile.md#extra-profielen-aanmaken)) worden hier ook de clubs vermeld waar de
+andere profielen lid van zijn of waar een ledenverzoek voor in behandeling is.
 
 ![Overview clubs](/assets/images/overview_clubs.png)
 
@@ -46,9 +46,9 @@ Zodra je op de knop "Lid worden" geklikt hebt verschijnt er een pop-up (web) of 
 
 **Wie wil lid worden**
 
-Indien jouw account ook een kindprofiel bevat moet je selecteren wie lid wilt worden van de club: het kind of de ouder. Maak enkel dat profiel lid van de club dat ook daadwerkelijk in
-het echte leven lid is van de club en er trainingen volgt, een abonnement heeft etc... Het is **niet** nodig dat ook de ouder lid wordt van de club om acties voor het kind te kunnen
-uitvoeren in de club. Zodra een van beide een ledenverzoek verstuurt en dit wordt aanvaardt is alles in de club beschikbaar voor iedereen op het Squatix-account.
+Indien jouw account over meerdere profielen beschikt dien je te selecteren met welk profiel je lid wenst te worden van de club. Maak enkel dat profiel lid van de club dat ook daadwerkelijk in
+het echte leven lid is van de club en er trainingen volgt, een abonnement heeft etc... Het is **niet** nodig dat ook jouw hoofdprofiel lid wordt van de club om acties te kunnen
+uitvoeren in de club. Zodra je met een van jouw profielen een ledenverzoek verstuurt en dit wordt aanvaardt is alles in de club beschikbaar voor iedereen op het Squatix-account.
 
 ![Who wants to become member](/assets/images/who_becomes_member.png)
 
@@ -70,7 +70,7 @@ Zodra je op "Bevestig" geklikt hebt wordt jouw ledenverzoek verstuurd. Je ontvan
 ### Club aanmaken
 
 Indien je dit wenst kan je **volledig gratis** zelf jouw club aanmaken. Je beschikt dan over alle functionaliteiten in Squatix zonder enige kost of verplichting en kan tot maximaal
-tien leden beheren in jouw club. Ben je tevreden met de werking en wil je graag meer leden kunnen toevoegen? Contacteer ons dan om dit verder te bespreken!
+honderd leden beheren in jouw club. Ben je tevreden met de werking en wil je graag meer leden kunnen toevoegen? Contacteer ons dan om dit verder te bespreken!
 
 Om een club aan te maken klik op "Club aanmaken". Vul alle nodige data in en klik nogmaals op "Club aanmaken". Je wordt automatisch naar de detailpagina van jouw nieuwe club gestuurd.
 
@@ -95,27 +95,27 @@ Om de clubberichten te bekijken, ga naar:
 - Mobiele app: Ga onderaan naar "Club" en klik op "Berichten"
 - Webversie: Klik op "Clubs" in de linker navigatiebalk
 
-## Trainings
+## Evenementen
 
 ### Overzicht 
 
-In het trainingsoverzicht zie je alle trainingen voor de geselecteerde maand. 
+In de kalender zie je alle evenementen voor de geselecteerde maand. 
 
-![traininglist](/assets/images/training_list_member.png)
+![eventslist](/assets/images/event_list_member.png)
 		
 Bovenaan kan je kiezen voor kalenderzicht (1) of lijstzicht (2). 
-De knop mijn trainingen (3) toont de trainingen waarop je bent ingeschreven (verleden of toekomst). Op deze pagina zien trainers ook een overzicht van de 
+De knop mijn kalender (3) toont de evenementen waarop je bent ingeschreven (verleden of toekomst). Op deze pagina zien trainers ook een overzicht van de 
 trainingen waarop ze al bevestigd hebben of dewelke ze nog moeten bevestigen (indien degene die de training aangemaakt heeft daarom gevraagd heeft)
 
-![training_overview](/assets/images/training_buttons.png)
+![event_overview](/assets/images/event_buttons.png)
 
-Aanklikken van een training opent de training detail pagina.
+Aanklikken van een evenement opent de detail pagina.
 
 ### Detail
 
 **Algemene velden**
 
-De training detail pagina toont volgende training info:
+De evenement detail pagina toont volgende evenement info:
 - Titel
 - Start- en eind datum 
 - Categorie 
@@ -123,50 +123,50 @@ De training detail pagina toont volgende training info:
 - Beschrijving (Optioneel)
 - Aantal bezette plaatsen indien deelnemersbeperking (Optioneel)
 
-![trainingdetails](/assets/images/training_details.png)
+![eventdetails](/assets/images/event_details.png)
 
-**Trainingsdeelname**
+**Evenementsdeelname**
 
-De training geeft de status van jouw deelname aan de training weer.
+Het evenement geeft de status van jouw deelname aan het evenement weer.
 
-Indien je wenst in te schrijven op de training, klik op "Inschrijven"
+Indien je wenst in te schrijven op het evenement, klik op "Inschrijven"
 
-![Subscribe to training](/assets/images/subscribe_training.png)
+![Subscribe to event](/assets/images/subscribe_event.png)
 
 Indien je weer wenst uit te schrijven, klik op "Uitschrijven"
 
-![Unsubscribe from training](/assets/images/unsubscribe_training.png)
+![Unsubscribe from event](/assets/images/unsubscribe_event.png)
 
-De beheerder van de club kan ook aangeven dat je voor bepaalde trainingen een specifiek abonnement moet hebben. Indien je niet over dit abonnement beschikt wordt dit aangegeven en is inschrijven 
+De beheerder van de club kan ook aangeven dat je voor bepaalde evenementen een specifiek abonnement moet hebben. Indien je niet over dit abonnement beschikt wordt dit aangegeven en is inschrijven 
 niet mogelijk 
 
-![Unsubscribe from training](/assets/images/training_subscribe_error.png)
+![Unsubscribe from event](/assets/images/event_subscribe_error.png)
 
 **Berichten**
 
 Net als bij clubberichten (zie [Clubberichten](#clubberichten)) is het ook hier mogelijk te communiceren binnen de club. Berichten 
 kunnen tekst en een afbeelding bevatten.
 
-In tegenstelling tot bij clubberichten kunnen de leden hier zelf ook een nieuw bericht plaatsen. Alle leden die ingeschreven zijn op de training krijgen een melding
+In tegenstelling tot bij clubberichten kunnen de leden hier zelf ook een nieuw bericht plaatsen. Alle leden die ingeschreven zijn op het evenement krijgen een melding
 indien een nieuw bericht geplaatst is.
 
-**Training geschiedenis**
+**Evenement geschiedenis**
 
-Hier worden alle gebeurtenissen die plaatsvonden op de training getoond:
-- Aanpassing details training 
-- Training aangemaakt
-- Training geannuleerd
+Hier worden alle gebeurtenissen die plaatsvonden op het evenement getoond:
+- Aanpassing details evenement 
+- Evenement aangemaakt
+- Evenement geannuleerd
 			
-![training actions](/assets/images/training_history.png)
+![event actions](/assets/images/event_history.png)
 
 **Trainers**
 
-Indien je een trainer van de club bent kan je een overzicht bekijken van alle trainingen waarvoor je aangeduid bent als trainer door naar de "Mijn trainingen"-pagina te gaan. De link hier naartoe
-vind je bovenaan het overzicht van de trainingen.
+Indien je een trainer van de club bent kan je een overzicht bekijken van alle trainingen waarvoor je aangeduid bent als trainer door naar de "Mijn kalender"-pagina te gaan. De link hier naartoe
+vind je bovenaan het overzicht van de evenementen.
 
 ![confirm trainer button](/assets/images/mytrainings_button.png)
 
-In de "Mijn trainingen"-pagina zie je kolom "Trainer" die aangeeft of je al bevestigd bent voor die trainingen (een groen vinkje) of je nog moet bevestigen/weigeren (een groene en rode knop).
+In de "Mijn kalender"-pagina zie je kolom "Trainer" die aangeeft of je al bevestigd bent voor die trainingen (een groen vinkje) of je nog moet bevestigen/weigeren (een groene en rode knop).
 Of je al dan niet jouw deelname moet bevestigen hangt af van de persoon die de training heeft aangemaakt.
 
 ![confirm trainer](/assets/images/mytrainings_trainer_confirm.png)
