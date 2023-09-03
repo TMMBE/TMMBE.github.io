@@ -184,6 +184,17 @@ Het is mogelijk een privé-bericht te sturen naar de beheerders van jouw club. D
 
 ![messages](/assets/images/member_chat.png)
 
+## Shop
+
+Indien geactiveerd door de clubbeheerder kan je in de shop zelf jouw abonnement aankopen. 
+
+![shop](/assets/images/shop_overview.png)
+
+Ga daarvoor naar de shops pagina en klik op het boodschappenkar-icoontje bij het abonnement van jouw keuze.
+Het detail scherm opent, klik op "verder naar betalen" om de aankoop af te ronden. Na betaling wordt het abonnement automatisch aan jouw toegekend.
+
+![shop](/assets/images/shop_detail.png)
+
 ## Club verlaten
 
 Wens je de club te verlaten? Ga dan naar de club-info pagina, klik op de drie puntjes en in het pop-up menu klik op "Club verlaten" **Opgelet:** dit kan niet ongedaan gemaakt worden.
