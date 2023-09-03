@@ -95,27 +95,27 @@ Om de clubberichten te bekijken, ga naar:
 - Mobiele app: Ga onderaan naar "Club" en klik op "Berichten"
 - Webversie: Klik op "Clubs" in de linker navigatiebalk
 
-## Evenementen
+## Meetings
 
 ### Overzicht 
 
-In de kalender zie je alle evenementen voor de geselecteerde maand. 
+In de kalender zie je alle meetings voor de geselecteerde maand. 
 
 ![eventslist](/assets/images/event_list_member.png)
 		
 Bovenaan kan je kiezen voor kalenderzicht (1) of lijstzicht (2). 
-De knop mijn kalender (3) toont de evenementen waarop je bent ingeschreven (verleden of toekomst). Op deze pagina zien trainers ook een overzicht van de 
+De knop mijn kalender (3) toont de meetings waarop je bent ingeschreven (verleden of toekomst). Op deze pagina zien trainers ook een overzicht van de 
 trainingen waarop ze al bevestigd hebben of dewelke ze nog moeten bevestigen (indien degene die de training aangemaakt heeft daarom gevraagd heeft)
 
 ![event_overview](/assets/images/event_buttons.png)
 
-Aanklikken van een evenement opent de detail pagina.
+Aanklikken van een meeting opent de detail pagina.
 
 ### Detail
 
 **Algemene velden**
 
-De evenement detail pagina toont volgende evenement info:
+De meeting detail pagina toont volgende meeting info:
 - Titel
 - Start- en eind datum 
 - Categorie 
@@ -125,44 +125,44 @@ De evenement detail pagina toont volgende evenement info:
 
 ![eventdetails](/assets/images/event_details.png)
 
-**Evenementsdeelname**
+**Meetingsdeelname**
 
-Het evenement geeft de status van jouw deelname aan het evenement weer.
+De meeting geeft de status van jouw deelname aan de meeting weer.
 
-Indien je wenst in te schrijven op het evenement, klik op "Inschrijven"
+Indien je wenst in te schrijven op de meeting, klik op "Inschrijven"
 
-![Subscribe to event](/assets/images/subscribe_event.png)
+![Subscribe to meeting](/assets/images/subscribe_meeting.png)
 
 Indien je weer wenst uit te schrijven, klik je nogmaals op de (ondertussen groene) balk.
 
-![Unsubscribe from event](/assets/images/unsubscribe_event.png)
+![Unsubscribe from meeting](/assets/images/unsubscribe_meeting.png)
 
-De beheerder van de club kan ook aangeven dat je voor bepaalde evenementen een specifiek abonnement moet hebben. Indien je niet over dit abonnement beschikt wordt dit aangegeven en is inschrijven 
+De beheerder van de club kan ook aangeven dat je voor bepaalde meetings een specifiek abonnement moet hebben. Indien je niet over dit abonnement beschikt wordt dit aangegeven en is inschrijven 
 niet mogelijk 
 
-![Unsubscribe from event](/assets/images/event_subscribe_error.png)
+![Unsubscribe from meeting](/assets/images/meeting_subscribe_error.png)
 
 **Berichten**
 
 Net als bij clubberichten (zie [Clubberichten](#clubberichten)) is het ook hier mogelijk te communiceren binnen de club. Berichten 
 kunnen tekst en een afbeelding bevatten.
 
-In tegenstelling tot bij clubberichten kunnen de leden hier zelf ook een nieuw bericht plaatsen. Alle leden die ingeschreven zijn op het evenement krijgen een melding
+In tegenstelling tot bij clubberichten kunnen de leden hier zelf ook een nieuw bericht plaatsen. Alle leden die ingeschreven zijn op de meeting krijgen een melding
 indien een nieuw bericht geplaatst is.
 
-**Evenement geschiedenis**
+**Meeting geschiedenis**
 
-Hier worden alle gebeurtenissen die plaatsvonden op het evenement getoond:
-- Aanpassing details evenement 
-- Evenement aangemaakt
-- Evenement geannuleerd
+Hier worden alle gebeurtenissen die plaatsvonden op de meeting getoond:
+- Aanpassing details meeting 
+- Meeting aangemaakt
+- Meeting geannuleerd
 			
 ![event actions](/assets/images/event_history.png)
 
 **Trainers**
 
 Indien je een trainer van de club bent kan je een overzicht bekijken van alle trainingen waarvoor je aangeduid bent als trainer door naar de "Mijn kalender"-pagina te gaan. De link hier naartoe
-vind je bovenaan het overzicht van de evenementen.
+vind je bovenaan het overzicht van de meetings.
 
 ![confirm trainer button](/assets/images/mytrainings_button.png)
 

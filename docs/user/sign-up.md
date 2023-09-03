@@ -28,18 +28,35 @@ Deze actie hoef je op elk apparaat slechts éénmaal uit te voeren zolang je nie
 	
 ## Registreren
 
-De allereerste keer dat je je met een bepaald gsmnummer aanmeldt bij Squatix dien je je te registreren
+De allereerste keer dat je je met een bepaald gsmnummer aanmeldt bij Squatix dien je je te registreren. Squatix helpt je jouw profiel op te zetten.
 
-### Gebruikersinfo
+### Persoonlijke gegevens
 
-In te vullen info:
+Deze info wordt gedeeld met de clubs waar je lid van wordt. In te vullen info:
 - Voornaam
 - Achternaam
-- E-mail
-- Taal 
+- Geslacht
+- Geboortedatum
+- Nationaliteit
+- Adres 
 
-![sign in](/assets/images/register.png)
+![userinfo](/assets/images/register.png)
 
-### Profiel
+### E-Mail
 
-Alvorens je lid kan worden van een club of een kan aanmaken dien je na registratie jouw profiel te vervolledigen en jouw emailadres te verifiëren (zie [Profiel opzetten](profile.md#profiel-opzetten))
+Om emails van jouw club te kunnen ontvangen dien je jouw emailadres te registreren. Je kan later nog aangeven welke mails je al dan niet wenst te ontvangen. 
+
+![email](/assets/images/register_email.png)
+
+### Selecteer club
+
+Ga op zoek naar de club waar je lid van wilt worden. Je kan dit ook overslaan en later in de applicatie jouw club zoeken of zelf een club aanmaken.
+
+![select club](/assets/images/register_searchclub.png)
+
+### Lid worden
+
+Bevestig dat je lid wenst te worden van de gekozen club. Mogelijks heeft de clubbeheerder ook nog wat vragen voor jou.
+Na bevestiging dien je te wachten tot de clubbeheerder jouw lidmaatschap heeft goedgekeurd.
+
+![confirm club](/assets/images/register_confirm.png)
