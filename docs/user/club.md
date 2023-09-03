@@ -133,7 +133,7 @@ Indien je wenst in te schrijven op het evenement, klik op "Inschrijven"
 
 ![Subscribe to event](/assets/images/subscribe_event.png)
 
-Indien je weer wenst uit te schrijven, klik op "Uitschrijven"
+Indien je weer wenst uit te schrijven, klik je nogmaals op de (ondertussen groene) balk.
 
 ![Unsubscribe from event](/assets/images/unsubscribe_event.png)
 
