@@ -101,13 +101,13 @@ Om de clubberichten te bekijken, ga naar:
 
 In de kalender zie je alle meetings voor de geselecteerde maand. 
 
-![eventslist](/assets/images/event_list_member.png)
+![meetingslist](/assets/images/meeting_list_member.png)
 		
 Bovenaan kan je kiezen voor kalenderzicht (1) of lijstzicht (2). 
 De knop mijn kalender (3) toont de meetings waarop je bent ingeschreven (verleden of toekomst). Op deze pagina zien trainers ook een overzicht van de 
 trainingen waarop ze al bevestigd hebben of dewelke ze nog moeten bevestigen (indien degene die de training aangemaakt heeft daarom gevraagd heeft)
 
-![event_overview](/assets/images/event_buttons.png)
+![meeting buttons](/assets/images/meeting_buttons.png)
 
 Aanklikken van een meeting opent de detail pagina.
 
@@ -123,7 +123,7 @@ De meeting detail pagina toont volgende meeting info:
 - Beschrijving (Optioneel)
 - Aantal bezette plaatsen indien deelnemersbeperking (Optioneel)
 
-![eventdetails](/assets/images/event_details.png)
+![meetingdetails](/assets/images/meeting_details.png)
 
 **Meetingsdeelname**
 
@@ -157,19 +157,19 @@ Hier worden alle gebeurtenissen die plaatsvonden op de meeting getoond:
 - Meeting aangemaakt
 - Meeting geannuleerd
 			
-![event actions](/assets/images/event_history.png)
+![meeting history](/assets/images/meeting_history.png)
 
 **Trainers**
 
 Indien je een trainer van de club bent kan je een overzicht bekijken van alle trainingen waarvoor je aangeduid bent als trainer door naar de "Mijn kalender"-pagina te gaan. De link hier naartoe
 vind je bovenaan het overzicht van de meetings.
 
-![confirm trainer button](/assets/images/mytrainings_button.png)
+![confirm trainer button](/assets/images/mymeetings_button.png)
 
 In de "Mijn kalender"-pagina zie je kolom "Trainer" die aangeeft of je al bevestigd bent voor die trainingen (een groen vinkje) of je nog moet bevestigen/weigeren (een groene en rode knop).
 Of je al dan niet jouw deelname moet bevestigen hangt af van de persoon die de training heeft aangemaakt.
 
-![confirm trainer](/assets/images/mytrainings_trainer_confirm.png)
+![confirm trainer](/assets/images/mymeetings_trainer_confirm.png)
 
 Je kan ook naar de detailpagina van de training gaan om daar de status van jouw trainerschap voor die training te bekijken.
 

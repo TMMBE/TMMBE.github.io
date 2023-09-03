@@ -1,0 +1,35 @@
+---
+layout: admin
+title: Betalingen
+nav_order: 9
+---
+
+# Betalingen
+{: .no_toc }
+
+## Inhoudsopgave
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+## Inleiding
+Via de shop kan je toelaten dat jouw leden zelf abonnementen aan kopen. De shop activeren kan in de instellingen pagina van de club. (zie instellingen, shop) 
+Hiervoor moet je ook Mollie configureren. (zie [Mollie](#mollie))
+
+## Abonnement aankopen
+
+Na activering kunnen jouw leden zelf hun abonnement aankopen:
+
+![shop](/assets/images/shop_overview.png)
+
+Hiervoor gaan ze naar de shops pagina en klikken op het boodschappenkar-icoontje bij het abonnement van hun keuze.
+Het detail scherm opent, klik op "verder naar betalen" om de aankoop af te ronden. Na betaling wordt het abonnement automatisch aan hen toegekend.
+
+![shop](/assets/images/shop_detail.png)
+
+Gekoppelde betalingen kan je bekijken in het betalingsoverzicht (zie overzicht).
+
+
+

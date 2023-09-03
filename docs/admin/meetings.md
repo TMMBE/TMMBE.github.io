@@ -23,14 +23,14 @@ Meetings zijn alle afspraken binnen jouw club. Er zijn drie mogelijke soorten me
 ## Overzicht 
 In het meetingsoverzicht zie je alle meetings voor de geselecteerde maand. 
 
-![meetinglist](/assets/images/training_list.png)
+![meetinglist](/assets/images/meeting_list.png)
 		
 Bovenaan kan je kiezen voor kalenderzicht (1) of lijstzicht (2). 
 De knop mijn kalender (3) toont de meetings waarop het ingelogde lid is ingeschreven (verleden of toekomst). Op deze pagina zien trainers ook een overzicht van de 
 trainingen waarop ze al bevestigd hebben of dewelke ze nog moeten bevestigen (indien degene die de training aangemaakt heeft daarom gevraagd heeft, 
 zie [Editeer/creeër meeting](#editeercreeër-meeting)
 
-![meeting_overview](/assets/images/training_buttons.png)
+![meeting_overview](/assets/images/meeting_buttons.png)
 
 Resultaten kunnen gefilterd worden door het type meeting aan of af te vinken of door meetingscategorieën te selecteren of te deselecteren.
 
@@ -53,7 +53,7 @@ De meeting detail pagina toont volgende meeting info:
 - Aantal bezette plaatsen indien deelnemersbeperking (Optioneel)
 - Trainers (enkel meeting-type "Training"): alle aangestelde en bevestigde (optioneel) trainers
 
-![meetingdetails](/assets/images/training_details.png)
+![meetingdetails](/assets/images/meeting_details.png)
 
 ### Trainers (enkel meeting-type "Training")
 
@@ -69,7 +69,7 @@ ook deelnemers met een ongeldig abonnement in te schrijven, zelfs indien ingeste
 geldig abonnement toegankelijk is (zie [Meetingscategorieën](settings.md#meetingscategorieën)). 
 Wanneer een lid zichzelf wilt inschrijven moet hij wel aan deze regel voldoen.
 
-![meeting participants](/assets/images/training-participants.png)
+![meeting participants](/assets/images/meeting_participants.png)
 
 De deelnemers tabel toont: 
 - Voornaam/achternaam van het lid
@@ -95,7 +95,7 @@ indien een nieuw bericht geplaatst is.
 
 ### Meetingsacties
 
-![meeting actions](/assets/images/training_actions1.png)
+![meeting actions](/assets/images/meeting_actions1.png)
 
 **Meeting geschiedenis (1)** 
 
@@ -114,7 +114,7 @@ zie [Editeer/creeër meeting](#editeercreeër-meeting)
 
 **Extra acties via (3):**
 
-![meeting actions](/assets/images/training_actions2.png)
+![meeting actions](/assets/images/meeting_actions2.png)
 
 - **Maak kopie (1)**  
 Toon de bewerk meeting pagina met alle velden ingevuld gelijk aan de waardes van de meeting waarvan een kopie gemaakt is.
@@ -145,7 +145,7 @@ Volgende velden kan je invullen:
 
 Meetingscategorieën kunnen aangemaakt worden in instellingen, zie [Meetingscategorieën](settings.md#meetingscategorieën)
 
-![meeting categorie](/assets/images/new_training_category.png)
+![meeting categorie](/assets/images/new_meeting_category.png)
 
 **Trainers**
 
@@ -156,7 +156,7 @@ zie [Lid gegevens](member-management.md#lid-gegevens)
 categorie zie [Meetingscategorieën](settings.md#meetingscategorieën). Wens je de trainer toch niet toe te voegen aan de meeting of wil je hem later weer verwijderen, 
 klik op X
 
-![meeting categorie](/assets/images/new_training_trainers.png)
+![meeting categorie](/assets/images/new_meeting_trainers.png)
 
 Het is ook mogelijk deze trainers te vragen om hun aanwezigheid te bevestigen. Dit doe je door "Vraag trainer om te bevestigen" aan te vinken. De trainer ontvangt een notificatie 
 dat hij zijn aanwezigheid moet bevestigen. Bevestigen kan hij op de detail pagina van de meeting of in zijn "mijn kalender"-pagina waar hij een overzicht heeft op 
@@ -202,7 +202,7 @@ als deelnemer zullen toegevoegd worden aan de meeting indien ze aan volgende cri
 - Lid heeft zich niet eerder manueel uitgeschreven van de meeting (enkel toepasbaar indien meeting eerder aangemaakt werd als "gewone" meeting en pas later 
 aangepast werd naar "automatisch inschrijven" - meeting)
 
-![automatisch inschrijven](/assets/images/new_training_autosubscribe.png)
+![automatisch inschrijven](/assets/images/new_meeting_autosubscribe.png)
 
 Indien een meeting aangeduid is als "automatisch inschrijven" wordt bij verschillende acties gekeken of de deelnemerslijst automatisch moet aangepast worden:
 - Aanvinken "automatisch inschrijven" bij aanpassen/aanmaken meeting
@@ -217,13 +217,13 @@ Indien een meeting aangeduid is als "automatisch inschrijven" wordt bij verschil
 Indien je dit aanvinkt wordt de meeting aangeduid als "automatisch teams inschrijven". Dit houdt in dat na creatie van de meeting alle leden die in een van de toegevoegde teams zitten automatisch 
 als deelnemer zullen toegevoegd worden aan de meeting (zie [Teams](settings.md#teams))
 
-![automatisch teams inschrijven](/assets/images/new_training_subscribeteams.png)
+![automatisch teams inschrijven](/assets/images/new_meeting_subscribeteams.png)
 
 Indien een meeting aangeduid is als "automatisch teams inschrijven" wordt bij verschillende acties gekeken of de deelnemerslijst automatisch moet aangepast worden:
 - Aanvinken "automatisch teams inschrijven" bij aanpassen/aanmaken meeting
 - Verwijderen/toevoegen van trainers
 - Aanpassen van een team
-- Aanpassen van de teams op de training
+- Aanpassen van de teams op de meeting
 	
 **Beperk deelnemers**
 
@@ -232,7 +232,7 @@ Met deze instelling wordt geen rekening gehouden in volgende gevallen:
 - Wanneer een beheerder zelf manueel een deelnemer toevoegt aan de meeting
 - Wanneer de meeting aangeduid is als "automatisch inschrijven" en er hierdoor leden automatisch moeten toevoegd worden
 
-![meeting categorie](/assets/images/new_training_limit_members.png)
+![meeting categorie](/assets/images/new_meeting_limit_members.png)
 		
 **Herhaal meeting**
 
@@ -240,7 +240,7 @@ Deze optie is enkel beschikbaar bij het aanmaken van een nieuwe meeting.
 Kies de dagen in de week waarop deze meeting zich moet herhalen (de dag van de intieële meeting dient steeds geselecteerd te worden). Kies ook de datum waarop de 
 herhaling dient te stoppen (maximum 1 jaar in de toekomst). Zodra de meeting wordt aangemaakt worden op de opgegeven dagen identieke kopieën gecreerd.
 
-![meeting categorie](/assets/images/new_training_recurrence.png)
+![meeting categorie](/assets/images/new_meeting_recurrence.png)
 		
 **Bewaren** 
 
