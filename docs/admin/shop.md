@@ -4,7 +4,7 @@ title: Shop
 nav_order: 10
 ---
 
-# Betalingen
+# Shop
 {: .no_toc }
 
 ## Inhoudsopgave
