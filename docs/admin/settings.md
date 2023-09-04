@@ -68,6 +68,27 @@ Volgende data kan ingegeven worden:
 Aanpassen van een Team: klik op het potloodje
 
 Aanmaken van een team kan ook door in de leden pagina eerst de leden te selecteren en daarna de actie "Team aanmaken" te selecteren (zie [Team aanmaken](member-management.md#team-aanmaken))
+
+## Rollen
+Met rollen kan je jouw leden toegang geven tot bepaalde functionaliteiten of pagina's waar een lid zonder die rol geen toegang toe heeft. Op de rollen-pagina kan je de 
+verschillende rollen en hun permissies voor jouw club definiëren. Daarna kan je in de detail pagina van een lid hem een of meerdere van die rollen toekennen 
+(zie [Lid gegevens](member-management.md#lid-gegevens)).
+
+![roles](/assets/images/roles.png)	
+
+Volgende permissies kunnen aan een rol gegeven worden:
+- Club info wijzigen (Wijzig de club info, upload een logo)
+- Club chat (Ontvang en beantwoord chatberichten die leden naar de club sturen)
+- Leden lezen (Bekijk de ledenlijst)
+- Leden wijzigen (Bekijk en wijzig de leden)
+- Rollen beheren (Rollen bekijken, toevoegen en aanpassen)
+- Trainer (Kan geselecteerd worden als trainer)
+- Meetings wijzigen (Aanpassen en aanmaken van meetings)
+
+Een aantal standaard rollen zijn altijd aanwezig en kunnen niet verwijderd of aangepast worden:
+- Eigenaar (Alle permissies, uitgezonder trainer. Enkel toegekend aan de persoon die de club aangemaakt heeft, kan beheerders aanduiden of verwijderen.)
+- Beheerder (Alle permissies, uitgezonderd trainer, kan geen andere beheerders aanduiden of verwijderen)
+- Trainer (Kan als trainer toegevoegd worden aan een meeting)
 	
 ## Lid verzoek vragen
 Wanneer leden een verzoek verzenden om lid te worden van jouw club kan je hen vragen een aantal vragen te beantwoorden. Zo kan je bijvoorbeeld vragen of ze ook een 
