@@ -137,8 +137,9 @@ Volgende velden kan je invullen:
 - Beschrijving (optioneel)
 - Categorie (verplicht)
 - Trainers (optioneel)
-- Automatisch alle leden inschrijven die aan de categorie zijn gekoppeld (optioneel)
+- Automatisch teams inschrijven (optioneel)
 - Beperk deelnemers (optioneel)
+- Wachtlijst toestaan (optioneel)
 - Herhaal meeting (optioneel)
 
 **Categorie**
@@ -187,31 +188,6 @@ Je kan er ook voor kiezen om verschillende taken op te geven, zo kunnen vrijwill
 
 Om leden van je club vrijwilliger te maken, zie [Ledenbeheer](member-management.md#vrijwilligers).
 
-**Automatisch alle leden inschrijven die aan de categorie zijn gekoppeld**
-
-Indien je dit aanvinkt wordt de meeting aangeduid als "automatisch inschrijven". Dit houdt in dat na creatie van de meeting alle leden van jouw club automatisch 
-als deelnemer zullen toegevoegd worden aan de meeting indien ze aan volgende criteria voldoen:
-- Geldig abonnement op datum van de meeting:
-	- Geldigheidsdatum later dan de begintijd
-	- Abonnementscategorie is gelinkt aan de meetingscategorie (zie [AbonnementsCategorieën](settings.md#abonnementscategorieën))
-	- Met aantal resterende beurten wordt geen rekening gehouden.
-- Niet aangeduid als trainer voor de meeting
-- De meetingscategorie is geselecteerd onder "Categorieën automatisch inschrijven" op het overeenkomende actieve abonnement van het lid 
-(zie [Abonnement](member-management.md#abonnement))
-- Lid is niet inactief
-- Lid heeft zich niet eerder manueel uitgeschreven van de meeting (enkel toepasbaar indien meeting eerder aangemaakt werd als "gewone" meeting en pas later 
-aangepast werd naar "automatisch inschrijven" - meeting)
-
-![automatisch inschrijven](/assets/images/new_meeting_autosubscribe.png)
-
-Indien een meeting aangeduid is als "automatisch inschrijven" wordt bij verschillende acties gekeken of de deelnemerslijst automatisch moet aangepast worden:
-- Aanvinken "automatisch inschrijven" bij aanpassen/aanmaken meeting
-- Verwijderen/toevoegen van trainers
-- Veranderen categorie van de meeting
-- Aanvaarden/toevoegen van een nieuw lid in de club (zie [Ledenbeheer](member-management.md))
-- Aanpassen van een abonnement van een lid (zie [Abonnement](member-management.md#abonnement))
-- Toewijzen/verwijderen van een meetingcategorie bij een abonnementscategorie
-
 **Automatisch teams inschrijven**
 
 Indien je dit aanvinkt wordt de meeting aangeduid als "automatisch teams inschrijven". Dit houdt in dat na creatie van de meeting alle leden die in een van de toegevoegde teams zitten automatisch 
@@ -233,6 +209,13 @@ Met deze instelling wordt geen rekening gehouden in volgende gevallen:
 - Wanneer de meeting aangeduid is als "automatisch inschrijven" en er hierdoor leden automatisch moeten toevoegd worden
 
 ![meeting categorie](/assets/images/new_meeting_limit_members.png)
+
+**Wachtlijst toestaan**
+
+Indien in de vorige stap een maximum aantal deelnemers ingesteld is kan optioneel een wachtlijst gestart worden wanneer het maximum aantal deelnemers bereikt is. Leden die hierop inschrijven
+zullen, in volgorde van inschrijving, automatisch toegelaten worden tot de meeting wanneer er een plaats vrijkomt.
+
+![wachtlijst](/assets/images/new_meeting_waiting_list.png)
 		
 **Herhaal meeting**
 
@@ -244,7 +227,5 @@ herhaling dient te stoppen (maximum 1 jaar in de toekomst). Zodra de meeting wor
 		
 **Bewaren** 
 
-Indien een meeting wordt aangepast en deze onderdeel is van een serie wordt bij het bewaren van de meeting gevraagd of enkel de geopende meeting moet aangepast worden 
-of de aanpassing moet doorgevoerd worden in (een deel van) de serie. 
-Indien serie aangeduid wordt: selecteer de meetings waarop de aanpassing moet doorgevoerd worden (standaard staat elke meeting van de serie geselecteerd) en klik op 
-bewaren. Alle geselecteerde meetings zullen nu aangepast worden met de ingegeven veranderingen.
+Indien een meeting wordt aangepast en deze onderdeel is van een serie wordt bij het starten van het editeren van de meeting gevraagd of enkel de geopende meeting moet aangepast worden 
+of de aanpassing moet doorgevoerd worden in de serie. 

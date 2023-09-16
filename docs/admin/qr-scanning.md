@@ -32,18 +32,18 @@ Het scan scherm opent zich, richt de scanner naar een QR-code om verder te gaan.
 ## Code scannen
 
 Een QR-code scannen kan op twee manieren:
-- De afgeprinte code scannen die kan gegenereerd worden via [QR genereren](member-management.md#qr-genereren). 
+- De afgeprinte code scannen die kan gegenereerd worden via [QR genereren](member-management.md#genereer-qr-(weergave-leden)). 
 - De code scannen die het lid toont op zijn smartphone
 
 Na het scannen van de code kunnen twee gevallen zich voordoen:
 
 **Lid bevestigen**  
-Het lid heeft geen gewoon profiel en het "lid bevestigen" scherm opent zich. Indien het getoonde lid correct is,  duw op "Bevestig"
+Het lid heeft één profiel dat lid is van de club en het "lid bevestigen" scherm opent zich. Indien het getoonde lid correct is,  duw op "Bevestig"
 
 ![Confirm member](/assets/images/qr_confirmmember.png)
 
 **Selecteer lid**  
-Het lid is gekoppeld aan een kindprofiel en de ouder is ook lid van de club OF het lid is de ouder maar het kind is ook lid van de club: in dit geval weet Squatix niet welk van deze leden
+Het lid is gekoppeld aan meerdere profielen die lid zijn van de club: in dit geval weet Squatix niet welk van deze leden
 zich momenteel wil laten bevestigen voor de meeting. Selecteer in de dropdown het juiste lid en klik op "Bevestig"
 
 ![Select member](/assets/images/qr_selectmember.png)

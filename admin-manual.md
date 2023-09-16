@@ -13,6 +13,6 @@ QR scanning waarvoor de mobiele app versie gebruikt is.
   
 Alle functionaliteiten zijn zowel beschikbaar in de web, android -en iOS versie op uitzondering van:
 - QR-scanning (zie [QR-scanning](docs/admin/qr-scanning.md)): enkel mogelijk in de mobiele app versie
-- Ledenacties (zie [Ledenacties](docs/admin/member-management.md#Ledenacties)): enkel mogelijk in de webversie
+- Ledenacties (zie [Ledenacties](docs/admin/member-management.md#ledenacties)): enkel mogelijk in de webversie
 - Nieuwsbrieven (zie [Nieuwsbrieven](docs/admin/newsletter.md)): enkel mogelijk in de webversie
 

@@ -34,14 +34,14 @@ Afhankelijk van de gekozen weergave zijn er ook andere ledenacties mogelijk (zie
 Het is mogelijk verschillende filters toe te passen:
 - Naam (er wordt gezocht in zowel voor- en achternaam)
 - Toon inactieve leden (deze verschijnen in het grijs tussen de actieve leden)
-- Type lid (gekoppelde leden gebruiken Squatix, niet-gekoppelde leden zijn niet gekoppeld met een echte gebruiker (zie ([Toevoegen leden](#toevoegen))))
+- Type lid (gekoppelde leden gebruiken Squatix, niet-gekoppelde leden zijn niet gekoppeld met een echte gebruiker (zie [Toevoegen leden](#toevoegen)))
 - Rol (zie [Rollen](#rollen))
 - Status abonnement (geldig of niet meer geldig)
 - Type abonnement (met beurten of enkel met een geldigheidsdatum)
 - Abonnementscategorie (zie [Abonnement](#abonnement))
 - Meetingscategorie (filter wordt enkel getoond indien een abonnementscategorie is geselecteerd, filter bevat de meetingscategorieën gelinkt aan dit abonnement, 
 zie [AbonnementsCategorieën](settings.md#abonnementscategorieën). Resultaat toont de leden die een abonnement hebben met de geselecteerde abonnementscategorie en 
-waarvoor de aangeduide meetingscategoriën aangevinkt staan als "automatisch inschrijven".
+waarvoor de aangeduide meetingscategoriën aangevinkt staan als "automatisch inschrijven".)
 - Nieuwsbrief geabboneerd
 - Nieuwsbrief ingeschakeld
 
@@ -62,6 +62,12 @@ Een van de extra filters weer verwijderen kan door op "meer filters" te klikken 
 ## Ledenacties
 
 ### Exporteer (weergave leden)
+
+Data van de leden kan geexporteerd worden naar een excel file. Vink eerst de leden aan, selecteer "exporteer" in het drop-down menu en klik op "uitvoeren".
+
+In het geopende scherm kan je de layout van de excel file definiëren: selecteer of deselecteer data die je wel of niet wilt zien. Ook de volgorde van de kolommen kan aangepast worden door ze hoger of lager te plaatsen.
+
+![Export excel](/assets/images/export_excel.png)
 
 ### Genereer QR (weergave leden)
 QR-codes van leden kunnen ook afgedrukt worden. Met deze codes kunnen leden gescand worden om hun aanwezigheid op de meeting te bevestigen (zie [QR scanning](qr-scanning.md)). Vink in het overzicht de leden aan, selecteer "Genereer QR" in het drop-down menu en klik op uitvoeren. Een PDF bestand met de gewenste QR codes wordt geopend.
@@ -86,6 +92,12 @@ vul je de naam van het team in, klik je op bewaar en het team is aangemaakt. (zi
 
 ### Betaling aanmaken (weergave leden)
 
+Deze actie kan gebruikt worden om voor meerdere leden tegelijk een losse betaling aan te maken. Vink in het overzicht de gewenste leden aan en selecteer "Betaling aanmaken". Op de volgende pagina
+kan je een bedrag en een beschrijving invullen en eventueel betalingsregels toevoegen. Klik op bewaar en de geselecteerde leden krijgen een melding dat hen een betaling wacht. Voor meer uitleg
+over betalingen zie [Betalingen](payments.md))
+
+![create payment](/assets/images/memberactions_payment.png)
+
 ### Maak een groepschat (weergave leden)
 
 ### Bewerk abonnementen (weergave abonnementen)
@@ -96,8 +108,8 @@ Bovenaan vind je een overzicht met de geselecteerde leden, met X kan je eventuee
 ![mass subscriptions](/assets/images/mass_subscriptions1.png)	
 		
 In het onderste deel kan je gewenste actie selecteren:
-- Nieuw abonnement toevoegen: alle geselecteerde leden krijgen een nieuwe abonnement toegevoegd. Dit nieuw abonnement moet compatibel zijn met hun bestaande actieve 
-abonnementen. Selecteer de gewenste opties van dit nieuwe abonnement en klik op "Bewaar"
+- Nieuw abonnement toevoegen: alle geselecteerde leden krijgen een nieuwe abonnement toegevoegd. Selecteer het gewenste abonnement en pas eventueel de standaardprijs nog aan. Klik op "Bewaar".
+Om abonnementen te definiëren zie (TODO)
 
 ![mass subscriptions](/assets/images/mass_subscriptions2.png)
 
@@ -171,7 +183,6 @@ of overschreven in het gebruikersprofiel van het lid. Beide profielen staan los 
 In de bovenste sectie kan je het volgende terugvinden:
 - Foto: uploaden van een foto voor het lid, deze staat los van de eigen foto die het lid in zijn profiel heeft toegevoegd en zal deze dus niet overschrijven
 - Gekoppeld aan gebruikersprofiel: dit label wordt getoond indien een fysieke gebruiker aan dit lid gekoppeld is (na een ledenverzoek, zie [Ledenverzoeken](#ledenverzoeken))
-- Kindprofiel: dit label wordt getoond indien een kindprofiel aan dit lid gekoppeld is 
 - Inactief maken: door een lid inactief te maken is hij niet meer aanpasbaar maar telt hij ook niet meer mee in het aantal leden (voor berekening van het clubabonnement).
 Zijn profiel kan wel nog bekeken worden door te zoeken op inactieve leden in het overzicht (zie ([Overzicht](#toevoegen))).
 
