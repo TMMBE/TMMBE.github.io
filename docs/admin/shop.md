@@ -16,7 +16,7 @@ nav_order: 10
 ---
 ## Inleiding
 Via de shop kan je toelaten dat jouw leden zelf abonnementen aan kopen. De shop activeren kan in de instellingen pagina van de club. (zie [Shop instellen](settings.md#club))
-Hiervoor moet je ook Mollie configureren. (zie [Mollie](#mollie))
+Hiervoor moet je ook Mollie configureren. (zie [Mollie](payments.md#mollie))
 
 ## Abonnement aankopen
 
