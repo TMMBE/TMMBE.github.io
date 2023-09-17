@@ -32,21 +32,24 @@ Via "verbinding controleren" kan je op elk moment nakijken of de verbinding tuss
 
 ## Betaling aanmaken
 
-Betalingen kunnen op twee manieren aangemaakt worden:
+### Manueel
+
+Manuele betalingen kunnen op twee manieren aangemaakt worden:
 
 - Individueel per lid: ga naar "Betalingen" en klik op "Voeg toe"
-- Voor meerdere leden tegelijkertijd: Ga naar "Leden" (weergave "Leden"), selecteer een of meerdere leden en actie "Betaling aanmaken", klik op "Uitvoeren"
+- Voor meerdere leden tegelijkertijd: Ga naar "Leden" (weergave "Leden"), selecteer een of meerdere leden en actie "Betaling aanmaken", klik op "Uitvoeren" 
+(zie [Betaling aanmaken](member-management.md#betaling-aanmaken))
 
 Volgende velden kan je invullen:
 
 - Lid: Selecteer het lid waarvoor de betaling aangemaakt moet worden. Indien je een betaling voor meerdere leden tegelijkertijd aanmaakt is dit veld afwezig.
 - Waarde: Het bedrag van de betaling in euro.
 - Beschrijving: Geef een beschrijving aan de betaling, deze beschrijving is ook zichtbaar voor het lid. Maak deze duidelijk genoeg zodat je later nog weet waarvoor de betaling diende.
-- Betalingsregels: Je kan één of meerdere betalingsregels toevoegen (zie [Betalingsregels](#betalingsregels)). Dit is niet verplicht.
+- Betalingsregels: Je kan één of meerdere betalingsregels toevoegen. Dit is niet verplicht.
 
 ![payment example](/assets/images/payment.png)
 
-### Betalingsregels
+**Betalingsregels**
 
 Met betalingsregels kan je leden een korting geven indien ze voor een bepaalde datum betalen of een boete indien ze na een bepaalde datum betalen. Je kan één of meerdere betalingsregels aan een 
 betaling koppelen.
@@ -67,6 +70,15 @@ In het voorbeeld hierboven zal het lid:
 - €110 moeten betalen voor 8 januari.
 - €120 moeten betalen vanaf 8 januari tot en met 15 januari.
 - €126 moeten betalen na 15 januari.
+
+### Abonnement
+
+Wanneer je een abonnement toekent aan een lid waarvoor een prijs ingevuld is zal het lid automatisch een betaling ontvangen (zie [Abonnementen](settings.md#abonnementen) 
+en [Abonnement toekennen](member-management.md#abonnement))
+
+### Shop
+
+Indien een lid een abonnement aankoopt via de shop zal zich automatisch een betalingsscherm openenen. Hij dient eerst te betalen voor het abonnement toegekend wordt. (zie [Shop](shop.md))
 
 ## Status controleren
 

@@ -98,7 +98,7 @@ Aanpassen van een Trainer groep: klik op het potloodje
 ## Teams
 Met teams kan je jouw leden onderverdelen in verschillende teams. Bij het zenden van nieuwsbrieven kan je bijvoorbeeld een team gebruiken als ontvanger van de nieuwsbrief. 
 (zie [Nieuwsbrieven](newsletter.md)) Je kan ook een of meerdere teams aan een training linken zodat alle leden van deze teams automatisch ingeschreven worden voor die 
-training (zie [Editeer/creeër meeting](meetings.md#editeercreeër-meeting)
+training (zie [Editeer/creeër meeting](meetings.md#editeercreeër-meeting))
 
 ![Teams](/assets/images/teams.png)
 
