@@ -43,14 +43,14 @@ Aanpassen van een abonnementscategorie: klik op het potloodje
 
 ## Abonnementen
 
-Definieer hier de abonnementen die je daarna kan toekennen aan jouw leden (zie [Abonnement](member_management.md#abonnement)) of die ze zelf kunnen aankopen in de shop 
+Definieer hier de abonnementen die je daarna kan toekennen aan jouw leden (zie [Abonnement](member-management.md#abonnement)) of die ze zelf kunnen aankopen in de shop 
 wanneer deze geactiveerd is (zie [Shop](shop.md))
 
 Om een nieuw abonnement toe te voegen, klik op het +-teken. Het scherm om een nieuw abonnement aan te maken opent zich. Volgende velden dienen ingevuld te worden:
 - Naam: Een naam voor het abonnement, ook zichtbaar voor jouw leden
 - Type: Abonnement of beurten
-- Categorie: Zie [Abonnementscategorieën](#abonnementscategorieën))
-- Geldig tot: Keuze uit een datum of een periode: de periode gaat in van zodra het abonnement aan een lid wordt toegekend
+- Categorie: Zie [Abonnementscategorieën](#abonnementscategorieën)
+- Geldig tot: Keuze uit een datum of een periode: de periode gaat in zodra het abonnement aan een lid wordt toegekend
 - Beurten over: Enkel indien type "Beurten" geselecteerd is
 - Prijs: Het bedrag waarvoor het lid een betaling ontvangt op moment dat het abonnement toegekend wordt. Indien leeg gelaten of gelijk aan 0 volgt er geen betaling. 
 Enkel van toepassing indien er een mollie-account gekoppeld is (zie [Mollie](payments.md#mollie))
@@ -131,10 +131,13 @@ Om een eerder aangemaakte vraag aan te passen, klik op het potloodje. Hetzelfde 
 Er zijn ook een aantal standaard vragen beschikbaar. Deze dien je enkel actief of inactief te zetten om ze te laten verschijnen.
 
 - Ik wil me inschrijven voor de nieuwsbrief van club X
-- Welk abonnement wens je? (hiervoor dienen abonnementen aangemaakt te zijn (zie [Abonnementen](#abonnementen))
-- Aan welk team moet je toegevoegd worden? (hiervoor dienen teams aangemaakt te zijn (zie [Teams](#teams))
+- Welk abonnement wens je? (hiervoor dienen abonnementen aangemaakt te zijn (zie [Abonnementen](#abonnementen)))
+- Aan welk team moet je toegevoegd worden? (hiervoor dienen teams aangemaakt te zijn (zie [Teams](#teams)))
+
+![standard questions](/assets/images/standard_questions.png)
 	
 ## Club
+
 Onder club kan je volgende dingen bekijken:
 - Bekijk het abonnement waarover de club beschikt bij squatix en de geldigheidsdatum. Zodra de geldigheidsdatum is overschreden is het niet meer mogelijk nieuwe leden toe te voegen.
 - Agenda delen: het is mogelijk de meetingskalender te gebruiken in een externe kalender applicatie die ICS ondersteunt. Kopieër daartoe de ics-url naar de benodigde 
