@@ -185,7 +185,7 @@ Het is wel mogelijk extra telefoonnummers of e-mailadressen toe te voegen.
 
 **Rollen**
 
-Verander de autorisaties van het lid in Squatix door hem een of meerdere rollen toe te kennen (zie [Rollen](#rollen))
+Verander de autorisaties van het lid in Squatix door hem een of meerdere rollen toe te kennen (zie [Rollen](settings.md#rollen))
 
 **Teams**
 
@@ -279,7 +279,7 @@ Ken het lid toe aan een of meerdere teams (zie [Teams](settings.md#teams))
 
 **Rollen**
 
-Verander de autorisaties van het lid in Squatix door hem een of meerdere rollen toe te kennen (zie [Rollen](#rollen))
+Verander de autorisaties van het lid in Squatix door hem een of meerdere rollen toe te kennen (zie [Rollen](settings.md#rollen))
 
 ![member details roles](/assets/images/member_detail_roles.png)
 
