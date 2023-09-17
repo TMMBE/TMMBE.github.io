@@ -249,7 +249,7 @@ Het abonnement zal ook verschijnen op de detailpagina van deze leden. Indien het
 
 ![member details subscriptions](/assets/images/member_detail_subscriptions_new_detail.png)
 
-Om een actief abonnement aan te passen klik op het potloodje. Het aantal beurten kan gewijzigd worden de groepsabonnement-optie.
+Om een actief abonnement aan te passen klik op het potloodje. Het aantal beurten kan gewijzigd worden en de groepsabonnement-optie.
 
 Vorige aanpassingen aan het abonnement kunnen bekeken worden door op het oogje te klikken.
 
@@ -258,7 +258,7 @@ aanpasbaar. Dit kan niet ongedaan gemaakt worden.
 
 **Vorige abonnementen**
 
-Dit toont een overzicht van inactieve abonnementen. Indien er aanpassingen geweest zijn aan dit abonnement (geldig-tot datum, aantal beurten, ...) kunnen deze bekeken worden door op het pijltje aan de rechterkant 
+Dit toont een overzicht van inactieve abonnementen. Indien er aanpassingen geweest zijn aan dit abonnement kunnen deze bekeken worden door op het pijltje aan de rechterkant 
 te klikken (enkel getoond indien er aanpassingen waren).
 
 ### Lid gegevens
@@ -323,6 +323,9 @@ Om gerichter te zoeken kan je de meetings filteren op:
 ![member details subscriptions](/assets/images/member_detail_trainings.png)
 
 ## Vrijwilligers
-Je kan leden van je club de vrijwilligersrol toekennen. Vrijwilligers kunnen zich inschrijven op vrijwillgerstaken bij meetings. Om een lid vrijwilliger te maken, ga je naar de detailpagina van het lid. Onder de tab 'Lid gegevens' zet je het 'Vrijwilliger'-knopje aan onder de sectie 'Rollen'. Leden kunnen ofwel lid ofwel vrijwilliger zijn of beide. Een lid die de lid-rol niet heeft maar wel de vrijwilligers-rol, kan zich niet inschrijven om deel te nemen aan meetings. Een lid die beide heeft kan zich zowel inschrijven om deel te nemen als zich inschrijven voor een vrijwilligerstaak. Om vrijwilligerstaken toe te voegen aan een meeting, zie [Meetings](meetings.md#vrijwilligers).
+Je kan leden van je club de vrijwilligersrol toekennen. Vrijwilligers kunnen zich inschrijven op vrijwillgerstaken bij meetings. Om een lid vrijwilliger te maken, ga je naar de detailpagina van het lid. 
+Onder de tab 'Lid gegevens' zet je het 'Vrijwilliger'-knopje aan onder de sectie 'Rollen' (zie [Lid gegevens](#lid-gegevens)). Leden kunnen ofwel lid ofwel vrijwilliger zijn of beide. Een lid die de lid-rol niet heeft 
+maar wel de vrijwilligers-rol, kan zich niet inschrijven om deel te nemen aan meetings. Een lid die beide heeft kan zich zowel inschrijven om deel te nemen als zich inschrijven voor een vrijwilligerstaak. 
+Om vrijwilligerstaken toe te voegen aan een meeting, zie [Meetings](meetings.md#vrijwilligers).
 
 ![member volunteer roles](/assets/images/volunteer_roles.png)
