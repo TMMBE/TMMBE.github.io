@@ -77,11 +77,12 @@ De deelnemers tabel toont:
 - Of de deelnemer aanwezig was (bevestigd)
 - Verwijderknop.
 
-Een deelnemer kan bevestigd worden voor de meeting indien zijn QR-code gescand wordt (zie QR scanning(qr-scanning.md)) of indien op "Bevestig" geklikt wordt 
+Een deelnemer kan bevestigd worden voor de meeting indien zijn QR-code gescand wordt (zie [QR scanning](qr-scanning.md)) of indien op "Bevestig" geklikt wordt 
 in de deelnemers tabel.
 
 ### Vrijwilligers
-Gelijkaardig aan de deelnemers tabel, kan je in de vrijwilligers tabel de ingeschreven vrijwilligers bekijken. Indien er aparte vrijwilligerstaken zijn ingesteld, wordt er per vrijwilliger vermeld voor welke taak het lid is ingeschreven. Je kan de inschrijving ongedaan maken door op de afvalemmer te klikken. Je kan zelf een vrijwilliger toevoegen door bovenaan de tabel op de '+' te klikken.
+Gelijkaardig aan de deelnemers tabel, kan je in de vrijwilligers tabel de ingeschreven vrijwilligers bekijken. Indien er aparte vrijwilligerstaken zijn ingesteld, wordt er per vrijwilliger vermeld 
+voor welke taak het lid is ingeschreven. Je kan de inschrijving ongedaan maken door op de afvalemmer te klikken. Je kan zelf een vrijwilliger toevoegen door bovenaan de tabel op '+' te klikken.
 
 ![meeting volunteer participants](/assets/images/meeting_volunteer_participants.png)
 
