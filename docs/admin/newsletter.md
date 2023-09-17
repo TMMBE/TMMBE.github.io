@@ -80,6 +80,11 @@ Doorloop volgende stappen om een nieuwsbrief aan te maken:
 
 ![newsletter create content](/assets/images/newsletter_create_content.png)
 
+Door op (1) te klikken is het mogelijk variabelen in te voegen. Deze zullen dan bij het versturen vervangen worden door echte gegevens. Het is belangrijk om, na het invoegen van de variabele, het formaat
+niet aan te passen. Beschikbare variabelen zijn voornaam en achternaam.
+
+![newsletter create](/assets/images/newsletter_create_variable.png)
+
 - Header (optioneel): kies een header voor jouw nieuwsbrief. Deze zal bovenaan de nieuwsbrief getoond worden
 - Footer (optioneel): kies een footer voor jouw nieuwsbrief. Deze zal onderaan de nieuwsbrief getoond worden.
 
@@ -107,42 +112,15 @@ Druk op "Annuleer" om de verzending te annuleren, de nieuwsbrief wordt opgeslage
 
 ## Inschrijven
 
-Om ingeschreven te zijn voor ontvangst van nieuwsbrieven dient een lid aan twee voorwaarden te voldoen:
-- Het lid moet zichzelf aangemeld hebben voor ontvangst van nieuwsbrieven
-- De beheerder mag de ontvangst van nieuwsbrieven door het lid niet uitgeschakeld hebben
+Een lid kan zich zelf inschrijven of uitschrijven voor ontvangst van nieuwsbrieven. Dit kan op twee manieren:
 
-### Aanmelden voor nieuwsbrieven
-Om zich aan te melden voor ontvangst van nieuwsbrieven van de club dient het lid te bevestigen via een aanmeldingsemail. 
+- Het lid kan zich zelf inschrijven of uitschrijven in de applicatie.
+- Wanneer, bij lid worden van de club, de standaardvraag "Ik wil me inschrijven voor de nieuwsbrief van de club" actief gezet is kan hij 
+hier positief of negatief op reageren. (zie [Lid verzoek vragen](settings.md#lid-verzoek-vragen))
 
-![newsletter registration](/assets/images/newsletter_registration.png)
+## Overzicht leden
 
-De beheerder kan deze mail naar het lid versturen op verschillende manieren:
+Om een overzicht te krijgen van de leden en of ze ingeschreven zijn voor de nieuwsbrief kan je naar het ledenoverzicht gaan en weergave "E-mails" selecteren (zie [Overzicht](member-management.md#overzicht))
 
-- Individueel via de lid detail pagina:
-Navigeer naar de detail pagina van het lid, open de tab "Persoonlijk", voeg een e-mailadres toe (indien dit nog niet gebeurd is) en klik op de knop "Inschrijvingsmail verzenden".
-
-![newsletter send registrationmail](/assets/images/newsletter_sendregistration.png)
-
-- In groep via het ledenoverzicht:
-Navigeer naar de leden pagina, open de "E-mails"-weergave, selecteer minstens één lid met bijhorend e-mailadres en voer de actie "Abonneer op nieuwsbrief" uit. Een nieuwe pagina opent waarop
-je het ledenoverzicht kan herbekijken/aanpassen en op "Inschrijvingsmail verzenden" kan klikken om de actie uit te voeren.
-
-![newsletter send registrationmail bulk](/assets/images/newsletter_sendregistration_mass.png)
-
-Het lid kan zich ten allen tijde weer uitschrijven van de nieuwsbrief door middel van de uitschrijven-link onderaan elke nieuwsbrief.
-
-### In -en uitschakelen van ontvangst door de beheerder
-De beheerder kan op elk moment de ontvangst van nieuwsbrieven voor een lid in -of uitschakelen (ook indien deze zich zelf aangemeld heeft). De beheerder kan dit op twee manieren doen:
-
-- Individueel via de lid detail pagina:
-Navigeer naar de detail pagina van het lid, open de tab "Persoonlijk", open het editeren voor e-mails via het potloodje en vink "ingeschakeld" aan of uit, klik op bewaar om de 
-wijziging door te voeren.
-
-![newsletter enable](/assets/images/newsletter_enable.png)
-
-- In groep via het ledenoverzicht:
-Navigeer naar de leden pagina, open de "E-mails"-weergave, selecteer minstens één lid met bijhorend e-mailadres en voer de actie "Inschakelen/uitschakelen nieuwsbrief" uit. 
-Een nieuwe pagina opent waarop je het ledenoverzicht kan herbekijken/aanpassen. Selecteer "Alles inschakelen" of "Alles uitschakelen". Klik op "Bewaar" om de actie uit te voeren.
-
-![newsletter enable bulk](/assets/images/newsletter_enable_mass.png)
+![member overview](/assets/images/newsletter_member_overview.png)
 
