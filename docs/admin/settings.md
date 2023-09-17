@@ -43,7 +43,8 @@ Aanpassen van een abonnementscategorie: klik op het potloodje
 
 ## Abonnementen
 
-Definieer hier de abonnementen die je daarna kan toekennen aan jouw leden (zie) of die ze zelf kunnen aankopen in de shop wanneer deze geactiveerd is (zie)
+Definieer hier de abonnementen die je daarna kan toekennen aan jouw leden (zie [Abonnement](member_management.md#abonnement)) of die ze zelf kunnen aankopen in de shop 
+wanneer deze geactiveerd is (zie [Shop](shop.md))
 
 Om een nieuw abonnement toe te voegen, klik op het +-teken. Het scherm om een nieuw abonnement aan te maken opent zich. Volgende velden dienen ingevuld te worden:
 - Naam: Een naam voor het abonnement, ook zichtbaar voor jouw leden
