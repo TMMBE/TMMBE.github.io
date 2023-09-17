@@ -35,15 +35,11 @@ Het is mogelijk verschillende filters toe te passen:
 - Naam (er wordt gezocht in zowel voor- en achternaam)
 - Toon inactieve leden (deze verschijnen in het grijs tussen de actieve leden)
 - Type lid (gekoppelde leden gebruiken Squatix, niet-gekoppelde leden zijn niet gekoppeld met een echte gebruiker (zie [Toevoegen leden](#toevoegen)))
-- Rol (zie [Rollen](#rollen))
+- Rol (zie [Lid gegevens](#lid-gegevens))
 - Status abonnement (geldig of niet meer geldig)
 - Type abonnement (met beurten of enkel met een geldigheidsdatum)
 - Abonnementscategorie (zie [Abonnement](#abonnement))
-- Meetingscategorie (filter wordt enkel getoond indien een abonnementscategorie is geselecteerd, filter bevat de meetingscategorieën gelinkt aan dit abonnement, 
-zie [AbonnementsCategorieën](settings.md#abonnementscategorieën). Resultaat toont de leden die een abonnement hebben met de geselecteerde abonnementscategorie en 
-waarvoor de aangeduide meetingscategoriën aangevinkt staan als "automatisch inschrijven".)
 - Nieuwsbrief geabboneerd
-- Nieuwsbrief ingeschakeld
 
 ![member list](/assets/images/member_list.png)
 		
@@ -109,7 +105,7 @@ Bovenaan vind je een overzicht met de geselecteerde leden, met X kan je eventuee
 		
 In het onderste deel kan je gewenste actie selecteren:
 - Nieuw abonnement toevoegen: alle geselecteerde leden krijgen een nieuwe abonnement toegevoegd. Selecteer het gewenste abonnement en pas eventueel de standaardprijs nog aan. Klik op "Bewaar".
-Om abonnementen te definiëren zie (TODO)
+Om abonnementen te definiëren zie [Abonnementen](settings.md#abonnementen)
 
 ![mass subscriptions](/assets/images/mass_subscriptions2.png)
 
@@ -141,52 +137,85 @@ of je ze wilt aanvaarden of afwijzen.
 
 ![member requests](/assets/images/member_requests.png)	
 
-Door te klikken op een ledenverzoek wordt er meer informatie getoond over de gebruiker die het verzoek verstuurt heeft.
+Om een ledenverzoek af te wijzen klik je op het verwijder symbool. Indien je ervoor opteert het ledenverzoek af te wijzen wordt het onherroepelijk verwijderd. 
 
-![member requests](/assets/images/member_request.png)	
+Door te klikken op een ledenverzoek opent zich een nieuw scherm waarin je het ledenverzoek kan aanpassen en aanvaarden.
 
-1) Info gebruiker
+Volgende stappen worden doorlopen:
 
-Meer info over wie het verzoek verstuurd heeft (indien ingevuld door gebruiker):
+### Verzoek
+
+![member request](/assets/images/member_request_request.png)	
+
+**Verzoek**
+
+Meer details over de persoon die lid wil worden van de club:
+- Foto
 - E-mail
 - Telefoon
-- Geboortedatum 
+- Geboortedatum
 - Geslacht
-- Profielfoto
 
-2) Lid verzoek vragen
+**Antwoorden**
 
-Indien je lid verzoek vragen ingesteld hebt (zie [Lid verzoek vragen](settings.md#lid-verzoek-vragen)) kan je hier de antwoorden van de gebruiker lezen.
+De antwoorden op de eventuele vragen die je opgesteld had voor nieuwe leden (zie [Lid verzoek vragen](settings.md#lid-verzoek-vragen))
 
-3) Koppelen
+**Koppel**
 
-Het is mogelijk de gebruiker te koppelen aan een bestaand ledenprofiel. Op die manier kan je jouw leden initieel zelf aanmaken zonder dat ze gekoppeld zijn met een gebruiker (en zo hun gegevens 
-bijhouden). Zodra ze echter de applicatie beginnen te gebruiken kan je met deze functie de gebruiker koppelen met dit eerder aangemaakte profiel. Alle gegevens die je al ingegeven had blijven 
-bewaard na koppeling.  
+Indien je voor dit lid reeds eerder een profiel had aangemaakt kan je het bestaande profiel met het echte lid koppelen (zie [Toevoegen leden](#toevoegen)). Op deze manier wordt de door jou reeds
+ingegeven informatie bewaard.
 
-Opteer je ervoor om geen koppeling uit te voeren, dan wordt er een nieuw lid voor de gebruiker aangemaakt en worden de gegevens die de gebruiker in zijn eigen 
-gebruikersprofiel al ingegeven had (geboortedatum, geslacht, naam, voornaam, ...) gekopieerd naar dit leden profiel in jouw club.
+### Persoonlijk
 
-4) Afwijzen/aanvaarden
+![member request](/assets/images/member_request_personal.png)	
 
-Indien je ervoor opteert het ledenverzoek af te wijzen wordt het onherroepelijk verwijderd. 
- 
-Zodra je het verzoek geaccepteerd hebt wordt er een extra actief lid toegevoegd aan jouw club.
+In deze stap zie je alle informatie over de gebruiker in detail. Eventueel kan je deze nog aanpassen of aanvullen.
 
-**Opgelet:** Om een kindprofiel lid te laten worden van jouw club en toegang te geven tot alle functionaliteit is het voldoende dat enkel dit kindprofiel een ledenverzoek verstuurt. Het is dus **niet**
-nodig dat ook een gekoppeld ouderprofiel lid wordt van de club indien deze in realiteit eigenlijk geen lid is.
+- Persoonlijke info
+- Adres
+- Telefoon
+- E-mail
+
+Telefoon en e-mail zijn reeds ingevuld met de gegevens die de gebruiker heeft opgegeven. Deze zijn niet aanpasbaar en worden steeds automatisch gesynchroniseerd gehouden elke keer de gebruiker deze aanpast.
+Het is wel mogelijk extra telefoonnummers of e-mailadressen toe te voegen.
+
+### Lid
+
+![member request](/assets/images/member_request_member.png)	
+
+**Rollen**
+
+Verander de autorisaties van het lid in Squatix door hem een of meerdere rollen toe te kennen (zie [Rollen](#rollen))
+
+**Teams**
+
+Ken het nieuwe lid toe aan een of meerdere teams (zie [Teams](settings.md#teams)). Indien je de standaardvraag "Aan welk team moet je toegevoegd worden" actief gezet hebt 
+(zie [Lid verzoek vragen](settings.md#lid-verzoek-vragen)) zie je hier het antwoord van het nieuwe lid en is hij al automatisch toegevoegd aan het team van zijn keuze. Dit kan nog aangepast worden.
+
+Indien je in stap1 gekoppeld hebt met een bestaand profiel en deze was al aan teams toegekend blijven deze ook hier behouden.
+
+**Abonnementen**
+
+Hier kan je onmiddelijk een of meerdere abonnementen toekennen. Indien je de standaardvraag "Welk abonnement wens je" actief gezet hebt 
+(zie [Lid verzoek vragen](settings.md#lid-verzoek-vragen)) zie je hier het antwoord van het nieuwe lid en is het gekozen abonnement al automatisch toegevoegd. Dit kan nog aangepast worden.
+
+Indien je in stap1 gekoppeld hebt met een bestaand profiel en deze had al een abonnement blijven deze ook hier behouden.
+
+### aanvaarden
+
+Zodra je op aanvaarden klikt wordt het lid aan jouw club toegevoegd met de gekozen opties.
 		
 ## Detail
 Wijzigingen die doorgevoerd worden in de detailpagina van een lid hebben enkel betrekking op de details van het lid in de club zelf. Deze worden dus niet aangepast 
 of overschreven in het gebruikersprofiel van het lid. Beide profielen staan los van elkaar.
+
+![member details heading](/assets/images/member_detail_heading.png)
 
 In de bovenste sectie kan je het volgende terugvinden:
 - Foto: uploaden van een foto voor het lid, deze staat los van de eigen foto die het lid in zijn profiel heeft toegevoegd en zal deze dus niet overschrijven
 - Gekoppeld aan gebruikersprofiel: dit label wordt getoond indien een fysieke gebruiker aan dit lid gekoppeld is (na een ledenverzoek, zie [Ledenverzoeken](#ledenverzoeken))
 - Inactief maken: door een lid inactief te maken is hij niet meer aanpasbaar maar telt hij ook niet meer mee in het aantal leden (voor berekening van het clubabonnement).
 Zijn profiel kan wel nog bekeken worden door te zoeken op inactieve leden in het overzicht (zie ([Overzicht](#toevoegen))).
-
-![member details heading](/assets/images/member_detail_heading.png)
 
 Opgelet, volgende gevolgen zijn onomkeerbaar:
 	- Het lid wordt verwijderd uit alle toekomstige meetings waarvoor het ingeschreven is
@@ -205,29 +234,33 @@ In het onderste deel van het scherm wordt een overzicht van de vorige abonnement
 
 **Actieve abonnementen**  
 
-Het werken met abonnementen is optioneel. Een lid kan echter ook meerdere actieve abonnementen hebben. De beheerder kan dus zelf kiezen welke aanpak hij verkiest. Volgende beperkingen gelden:
-- Er kan maar één abonnement zijn van elke abonnementscategorie
-- Er kan maar één abonnement zijn zonder abonnementscategorie
-- Twee abonnementen kunnen geen overlappende gelinkte meetingscategorieën hebben.
+Het werken met abonnementen is optioneel. Een lid kan echter ook meerdere actieve abonnementen hebben. De beheerder kan dus zelf kiezen welke aanpak hij verkiest.
 
-Om een nieuw actief abonnement toe te voegen, klik op het +-teken. Het scherm om een nieuw abonnement aan te maken opent zich. Volgende velden kunnen ingevuld worden:
-- Type (verplicht, abonnement of beurten)
-- Categorie (optioneel, zie [Abonnementscategorieën](settings.md#abonnementscategorieën))
-- Categorieën automatisch inschrijven (optioneel, enkel indien de geselecteerde abonnementscategorie gelinkte meetingscategorieën heeft, 
-zie [Abonnementscategorieën](settings.md#abonnementscategorieën) en [Automatisch inschrijven](#automatisch-inschrijven))
-- Geldig tot (verplicht)
-- Beurten over (verplicht indien type "Beurten" geselecteerd is)
+Om een nieuw actief abonnement toe te voegen, klik op het +-teken. Het scherm om een nieuw abonnement te selecteren opent zich. 
 
-Om een actief abonnement aan te passen klik op het potloodje. Vorige aanpassingen aan het abonnement kunnen bekeken worden in het scherm dat opent. Om een nieuwe aanpassing 
-door te voeren, klik nogmaals op het potloodje.  
+![member details subscriptions](/assets/images/member_detail_subscriptions_new.png)
+
+Het drop-down menu bevat de vooraf gedefinieerde abonnementen (zie [Abonnementen](settings.md#abonnementen))
+
+Na het selecteren van een abonnement worden de details geladen. Het is nog mogelijk twee parameters aan te passen:
+
+- Prijs: vul een ander bedrag in dan vooraf gedefinieerd
+- Groepsabonnement: door het vakje "Groepsabonnement" aan te vinken kan je een of meerdere leden toevoegen aan dit abonnement. Zij zullen dan samen met het huidige lid gebruik kunnen maken van dit abonnement.
+Het abonnement zal ook verschijnen op de detailpagina van deze leden. Indien het een beurtenkaart betreft en een van de leden verbruikt een beurt zal deze er bij allen afgetrokken worden.
+
+![member details subscriptions](/assets/images/member_detail_subscriptions_new_detail.png)
+
+Om een actief abonnement aan te passen klik op het potloodje. Het aantal beurten kan gewijzigd worden de groepsabonnement-optie.
+
+Vorige aanpassingen aan het abonnement kunnen bekeken worden door op het oogje te klikken.
 
 Om een abonnement inactief te maken, klik op "inactief maken" op het bewuste abonnement. Het abonnement verdwijnt naar de sectie "Vorige abonnementen" en is niet meer 
 aanpasbaar. Dit kan niet ongedaan gemaakt worden.
 
 **Vorige abonnementen**
 
-Dit toont een overzicht van inactieve abonnementen. Indien er aanpassingen geweest zijn aan dit abonnement (geldig-tot datum, aantal beurten, ...) kunnen deze bekeken worden door op het pijltje aan de rechterkant te klikken (enkel getoond indien er aanpassingen waren).
-
+Dit toont een overzicht van inactieve abonnementen. Indien er aanpassingen geweest zijn aan dit abonnement (geldig-tot datum, aantal beurten, ...) kunnen deze bekeken worden door op het pijltje aan de rechterkant 
+te klikken (enkel getoond indien er aanpassingen waren).
 
 ### Lid gegevens
 
@@ -236,9 +269,13 @@ Dit toont een overzicht van inactieve abonnementen. Indien er aanpassingen gewee
 Volgende informatie kan je hier bekijken:
 
 - Lid sinds welke datum
-- Indien kindprofiel: wie zijn de gekoppelde ouders
+- Gekoppelde gebruiker
 
 ![member details extra info](/assets/images/member_detail_extrainfo.png)
+
+**Teams**
+
+Ken het lid toe aan een of meerdere teams (zie [Teams](settings.md#teams))
 
 **Rollen**
 
@@ -272,6 +309,9 @@ Volgende info is beschikbaar:
 - Telefoon (je kan meerdere telefoonnummers opslaan en ze voorzien van een label)
 
 ![member details subscriptions](/assets/images/member_detail_personal.png)
+
+Het e-mailadres en telefoonnummer dat het lid gebruikt in Squatix worden automatisch gesynchroniseerd en kunnen niet door de beheerder van de club aangepast worden. Dit geldt natuurlijk enkel voor
+gekoppelde leden.
 
 ### Meetings
 Hier kan je een overzicht krijgen van alle meetings waarop het lid ingeschreven is (verleden en toekomst). 
