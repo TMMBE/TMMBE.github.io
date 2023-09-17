@@ -57,7 +57,9 @@ Een van de extra filters weer verwijderen kan door op "meer filters" te klikken 
 		
 ## Ledenacties
 
-### Exporteer (weergave leden)
+### Exporteer
+
+(weergave leden)
 
 Data van de leden kan geexporteerd worden naar een excel file. Vink eerst de leden aan, selecteer "exporteer" in het drop-down menu en klik op "uitvoeren".
 
@@ -65,12 +67,18 @@ In het geopende scherm kan je de layout van de excel file definiëren: selecteer
 
 ![Export excel](/assets/images/export_excel.png)
 
-### Genereer QR (weergave leden)
+### Genereer QR 
+
+(weergave leden)
+
 QR-codes van leden kunnen ook afgedrukt worden. Met deze codes kunnen leden gescand worden om hun aanwezigheid op de meeting te bevestigen (zie [QR scanning](qr-scanning.md)). Vink in het overzicht de leden aan, selecteer "Genereer QR" in het drop-down menu en klik op uitvoeren. Een PDF bestand met de gewenste QR codes wordt geopend.
 
 ![QR codes](/assets/images/generate_qr.png)
 
-### Aanwezigheidslijst (weergave leden)
+### Aanwezigheidslijst 
+
+(weergave leden)
+
 Genereer een rapport met de aanwezigheden per lid. Vink eerst een aantal leden aan in het overzichtsscherm, selecteer "aanwezigheidslijst" in het drop-down menu en klik op "uitvoeren", het aanwezigheidslijstscherm wordt geopend.
 		
 Bovenaan vind je een overzicht met de geselecteerde leden, met X kan je eventueel nog leden terug verwijderen.
@@ -81,12 +89,16 @@ In het onderste deel kan je de meetings filteren waarvoor je de aanwezigheidslij
 
 ![attendance list](/assets/images/attendance_list2.png)
 
-### Team aanmaken (weergave leden)
+### Team aanmaken 
+
+(weergave leden)
 
 Met deze functie kan je op een snelle manier een nieuw team aanmaken. Vink in het overzicht de leden aan die in het team moeten toegevoegd worden, selecteer "Team aanmaken". Op de volgende pagina
 vul je de naam van het team in, klik je op bewaar en het team is aangemaakt. (zie [Teams](settings.md#teams))
 
-### Betaling aanmaken (weergave leden)
+### Betaling aanmaken 
+
+(weergave leden)
 
 Deze actie kan gebruikt worden om voor meerdere leden tegelijk een losse betaling aan te maken. Vink in het overzicht de gewenste leden aan en selecteer "Betaling aanmaken". Op de volgende pagina
 kan je een bedrag en een beschrijving invullen en eventueel betalingsregels toevoegen. Klik op bewaar en de geselecteerde leden krijgen een melding dat hen een betaling wacht. Voor meer uitleg
@@ -94,9 +106,14 @@ over betalingen zie [Betalingen](payments.md))
 
 ![create payment](/assets/images/memberactions_payment.png)
 
-### Maak een groepschat (weergave leden)
+### Maak een groepschat 
 
-### Bewerk abonnementen (weergave abonnementen)
+(weergave leden)
+
+### Bewerk abonnementen 
+
+(weergave abonnementen)
+
 Deze functie kan gebruikt worden indien je bij verschillende leden tegelijk een abonnementsaanpassing wilt doen. Vink in het overzicht de leden aan, selecteer "Bewerk abonnementen" in het drop-down menu en klik op uitvoeren. Het abonnementenscherm wordt geopend.
 		
 Bovenaan vind je een overzicht met de geselecteerde leden, met X kan je eventueel nog leden terug verwijderen.
