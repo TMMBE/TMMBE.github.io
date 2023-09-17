@@ -32,7 +32,7 @@ Het scan scherm opent zich, richt de scanner naar een QR-code om verder te gaan.
 ## Code scannen
 
 Een QR-code scannen kan op twee manieren:
-- De afgeprinte code scannen die kan gegenereerd worden via [QR genereren](member-management.md#genereer-qr-(weergave-leden)). 
+- De afgeprinte code scannen die kan gegenereerd worden via [QR genereren](member-management.md#genereer-qr). 
 - De code scannen die het lid toont op zijn smartphone
 
 Na het scannen van de code kunnen twee gevallen zich voordoen:
