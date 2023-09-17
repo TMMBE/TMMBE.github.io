@@ -215,7 +215,7 @@ In de bovenste sectie kan je het volgende terugvinden:
 - Foto: uploaden van een foto voor het lid, deze staat los van de eigen foto die het lid in zijn profiel heeft toegevoegd en zal deze dus niet overschrijven
 - Gekoppeld aan gebruikersprofiel: dit label wordt getoond indien een fysieke gebruiker aan dit lid gekoppeld is (na een ledenverzoek, zie [Ledenverzoeken](#ledenverzoeken))
 - Inactief maken: door een lid inactief te maken is hij niet meer aanpasbaar maar telt hij ook niet meer mee in het aantal leden (voor berekening van het clubabonnement).
-Zijn profiel kan wel nog bekeken worden door te zoeken op inactieve leden in het overzicht (zie ([Overzicht](#overzicht))).
+Zijn profiel kan wel nog bekeken worden door te zoeken op inactieve leden in het overzicht (zie [Overzicht](#overzicht)).
 
 Opgelet, volgende gevolgen zijn onomkeerbaar: (1) Het lid wordt verwijderd uit alle toekomstige meetings waarvoor het ingeschreven is (2) Indien hij als trainer gekoppeld is aan een meetingscategorie wordt 
 deze koppeling verwijderd (3) Indien een fysieke gebruiker gekoppeld is aan dit lid wordt de connectie verwijderd en heeft deze gebruiker geen toegang meer tot de club
