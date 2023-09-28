@@ -31,3 +31,15 @@ De leden van jouw club kunnen een privé-bericht versturen naar de beheerders va
 en de antwoorden zullen ook zichbaar worden voor de andere beheerders. 
 
 ![messages](/assets/images/member_chat.png)
+
+### Een chat starten
+
+Als beheerder kan je ook een chat starten met een van je leden. Navigeer naar de leden pagina, selecteer het lid waarmee je een chat wil starten, klik op de "..." onder de naam en klik op "Chat".
+
+![messages](/assets/images/admin_start_member_chat.png)
+
+### Een groepschat starten
+
+Om met meerdere leden tegelijk te chatten kan als beheerder een groepschat starten. Alle leden kunnen hierin antwoorden en de berichten zijn voor iedereen zichtbaar. Om een groepschat te starten ga je naar de leden pagina. Selecteer met de vinkjes in het overzichtscherm welke leden je wil toevoegen aan de chat. Ga vervolgens naar het actiemenu rechts op het scherm en selecteer "Groepschat starten". Klik vervolgens op "uitvoeren".
+
+![messages](/assets/images/admin_start_member_group_chat.png)

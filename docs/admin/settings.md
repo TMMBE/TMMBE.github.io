@@ -23,6 +23,7 @@ Volgende data kan ingegeven worden:
 - Kleur: wordt weergegeven in de meetingskalender om meetings met een verschillende categorie van elkaar te kunnen onderscheiden
 - Inschrijven: enkel leden met een geldig abonnement kunnen inschrijven op de meeting of alle leden kunnen inschrijven
 - Zichtbaarheid: enkel leden met een overeenkomend abonnement kunnen deze categorie zien of alle leden kunnen deze categorie zien
+- Prijs voor een enkele meeting: je kan hierin optioneel een prijs instellen. Wanneer leden zich willen inschrijven voor een meeting van deze categorie en ze hebben geen geldig abonnement voor deze meeting zal de prijs getoond worden. Wanneer het lid zich dan inschrijft, wordt er doorverwezen naar de betaalpagina. Zodra de betaling voltooid is, is het lid automatisch ingeschreven. Indien dit veld leeg gelaten wordt, is inschrijven gratis tenzij "enkel leden met een geldig abonnement kunnen inschrijven" is ingeschakeld.
 - Trainers: selecteer trainers die automatisch zullen ingevuld worden bij het aanmaken van een meeting van deze categorie
 
 ![Meeting category](/assets/images/training_categorie.png)
