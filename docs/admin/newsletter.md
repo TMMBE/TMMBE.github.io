@@ -101,9 +101,8 @@ Levering kan op twee manieren geconfigureerd worden:
 
 ![newsletter delivery](/assets/images/newsletter_delivery.png)
 
-Onder de selectie van de leveringsoptie zie je twee overzichten:
-- In selectie: toont alle leden die voldoen aan jouw selectiemethode en die ingeschreven zijn voor ontvangst van nieuwsbrieven
-- In selectie maar niet ingeschreven/uitgeschakeld: toont alle leden die voldoen aan jouw selectiemethode maar die niet ingeschreven zijn voor ontvangst van nieuwsbrieven
+Onder de selectie van de leveringsoptie zie je het overzicht van de ontvangers en hun e-mailadres. Ontvangers in het lichtgrijs zullen de nieuwsbrief niet krijgen omdat ze zich uitgeschreven hebben
+voor het ontvangen van nieuwsbrieven van jouw club.
 
 ### Overzicht
 
