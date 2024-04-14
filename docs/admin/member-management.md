@@ -110,9 +110,18 @@ over betalingen zie [Betalingen](payments.md))
 
 (weergave leden)
 
+Vink in het overzicht de gewenste leden aan en selecteer "Maak een groepschat". Op de volgende pagina kan je een bericht aanmaken om te versturen en de chat te openen.
+
 ### Vragenlijst opsturen 
 
 (weergave leden)
+
+Met deze functionaliteit kan je naar alle of een deel van jouw leden vragen opsturen die dienen beantwoord worden. Hiervoor dien je eerst vragen en vragenlijsten te definiëren (zie [Vragenlijsten](settings.md#vragenlijsten)).
+
+Vink in het overzicht de leden aan die vragen moeten ontvangen en selecteer "Vragenlijst opsturen" en uitvoeren. Op de volgende pagina krijg je een overzicht van de geselecteerde leden en dien je
+een vragenlijst te selecteren. Duw op ok om te verzenden. Let op: enkel leden gekoppeld aan een gebruikersprofiel kunnen een vragenlijst ontvangen.
+
+![send questionnaire](/assets/images/send_questionnaire.png)
 
 ### Bewerk abonnementen 
 
