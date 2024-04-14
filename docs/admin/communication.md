@@ -43,3 +43,13 @@ Als beheerder kan je ook een chat starten met een van je leden. Navigeer naar de
 Om met meerdere leden tegelijk te chatten kan als beheerder een groepschat starten. Alle leden kunnen hierin antwoorden en de berichten zijn voor iedereen zichtbaar. Om een groepschat te starten ga je naar de leden pagina. Selecteer met de vinkjes in het overzichtscherm welke leden je wil toevoegen aan de chat. Ga vervolgens naar het actiemenu rechts op het scherm en selecteer "Groepschat starten". Klik vervolgens op "uitvoeren".
 
 ![messages](/assets/images/admin_start_member_group_chat.png)
+
+## Vragenlijsten
+
+Met deze functionaliteit kan je naar alle of een deel van jouw leden vragen opsturen die dienen beantwoord worden. Dit kan nuttig zijn om bijvoorbeeld hen elk jaar de keuze van abonnement te geven of welke lessen ze zouden willen volgen. Standaard is er ook een vragenlijst die kan voorgelegd worden wanneer een gebruiker lid wil worden.
+
+Alvorens te kunnen starten dien je vragen te definiëren en deze te linken aan vragenlijsten (zie [Vragenlijsten](settings.md#vragenlijsten)).
+
+![questionnaires](/assets/images/settings_questionnaires.png)
+
+De vragenlijst "Member request" wordt automatisch getoond wanneer een gebruiker lid wil worden en de lijst minstens één vraag bevat. Het opsturen van de andere vragenlijsten kan via de ledenacties in het ledenscherm (zie [Vragenlijst opsturen](member-management.md#vragenlijstopsturen)).

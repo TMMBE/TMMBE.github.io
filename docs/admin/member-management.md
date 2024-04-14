@@ -110,6 +110,10 @@ over betalingen zie [Betalingen](payments.md))
 
 (weergave leden)
 
+### Vragenlijst opsturen 
+
+(weergave leden)
+
 ### Bewerk abonnementen 
 
 (weergave abonnementen)
