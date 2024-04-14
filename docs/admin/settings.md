@@ -125,10 +125,11 @@ automatisch verschijnen in de taal die hij in zijn profiel ingevuld heeft.
 
 ![member question](/assets/images/member_question.png)
 		
-Om een nieuwe vraag aan te maken, klik op het plus symbool. Onder "Vraag" vul je de vraag in. Klik op "Vertaling toevoegen" om de vraag in meerdere talen beschikbaar te stellen.
-Onder "Antwoorden" vul je een mogelijk antwoord op de vraag in. Klik op "Vertaling toevoegen" om het antwoord in meerdere talen beschikbaar te stellen. Klik op + om een extra mogelijk antwoord op de vraag toe te voegen.
+Om een nieuwe vraag aan te maken, klik op het + symbool. Onder "Vraag" vul je de vraag in. Klik op "Vertaling toevoegen" om de vraag in meerdere talen beschikbaar te stellen.
+Onder "Antwoorden" vul je een mogelijk antwoord op de vraag in. Klik op "Vertaling toevoegen" om het antwoord in meerdere talen beschikbaar te stellen. Klik op + om een extra mogelijk 
+antwoord op de vraag toe te voegen. Selecteer desgewenst de checkbox "Meerdere antwoorden toestaan".
 
-Om de vraag te bewaren klik je op "Bewaar". Het volgende lid dat lid wil worden van de club zal de vraag dienen te beantwoorden.
+Om de vraag te bewaren klik je op "Bewaar".
 		
 Om een eerder aangemaakte vraag aan te passen, klik op het potloodje. Hetzelfde scherm als bij het aanmaken van een vraag opent zich met de reeds eerder ingevulde waarden.
 
@@ -143,6 +144,12 @@ Er zijn ook een aantal standaard vragen beschikbaar. Deze kan je niet aanpassen 
 ![standard questions](/assets/images/standard_questions.png)
 
 **Vragenlijsten**
+
+Om een nieuwe vragenlijst aan te maken klik op het + symbool. Geef de vragenlijst een naam en link de gewenste vragen aan de vragenlijst. Klik op "Bewaar".
+
+Om een eerder aangemaakte vragenlijst aan te passen, klik op het potloodje.
+
+![define questionnaire](/assets/images/define_questionnaire.png)
 
 **Standaard vragenlijst**
 
