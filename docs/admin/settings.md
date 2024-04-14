@@ -113,9 +113,12 @@ Aanpassen van een Team: klik op het potloodje
 Aanmaken van een team kan ook door in de leden pagina eerst de leden te selecteren en daarna de actie "Team aanmaken" te selecteren (zie [Team aanmaken](member-management.md#team-aanmaken))
 	
 ## Vragenlijsten
-Wanneer leden een verzoek verzenden om lid te worden van jouw club kan je hen vragen een aantal vragen te beantwoorden. Zo kan je bijvoorbeeld vragen of ze ook een 
-vrijwillige functie in de club willen uitvoeren, voor welke afdeling ze zich inschrijven in jouw club enzovoort. De antwoorden van het lid zie je bij hun lidverzoek 
-(zie [Ledenverzoeken](member-management.md#ledenverzoeken)). De vragen en antwoorden kunnen aangemaakt worden in verschillende talen. De vraag zal voor de gebruiker 
+Indien gewenst kan je jouw leden op elk moment een aantal vragen laten beantwoorden. Zo kan je bijvoorbeeld vragen of ze ook een 
+vrijwillige functie in de club willen uitvoeren, voor welke afdeling ze zich inschrijven in jouw club enzovoort. Standaard is er ook een vragenlijst die kan getoond worden wanneer een gebruiker
+lid wilt worden van jouw club. De antwoorden van het lid zie je bij hun lidverzoek (zie [Ledenverzoeken](member-management.md#ledenverzoeken)) wanneer het over een lid verzoek vragenlijst gaat
+of bij formulieren (zie [Formulieren](member-management.md#formulieren)).
+
+De vragen en antwoorden kunnen aangemaakt worden in verschillende talen. De vraag zal voor de gebruiker 
 automatisch verschijnen in de taal die hij in zijn profiel ingevuld heeft.
 
 ![member question](/assets/images/member_question.png)
