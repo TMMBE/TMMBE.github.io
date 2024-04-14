@@ -114,16 +114,18 @@ Aanmaken van een team kan ook door in de leden pagina eerst de leden te selecter
 	
 ## Vragenlijsten
 Indien gewenst kan je jouw leden op elk moment een aantal vragen laten beantwoorden. Zo kan je bijvoorbeeld vragen of ze ook een 
-vrijwillige functie in de club willen uitvoeren, voor welke afdeling ze zich inschrijven in jouw club enzovoort. Standaard is er ook een vragenlijst die kan getoond worden wanneer een gebruiker
-lid wilt worden van jouw club. De antwoorden van het lid zie je bij hun lidverzoek (zie [Ledenverzoeken](member-management.md#ledenverzoeken)) wanneer het over een lid verzoek vragenlijst gaat
-of bij formulieren (zie [Formulieren](member-management.md#formulieren)).
+vrijwilliger functie in de club willen uitvoeren, voor welke afdeling ze zich inschrijven in jouw club enzovoort. Standaard is er een vragenlijst die kan getoond worden wanneer een gebruiker
+lid wilt worden van jouw club maar je kan ook zelf extra vragenlijsten aanmaken. De antwoorden van het lid zie je bij hun lidverzoek (zie [Ledenverzoeken](member-management.md#ledenverzoeken)) 
+wanneer het over een lid verzoek vragenlijst gaat of bij formulieren (zie [Formulieren](member-management.md#formulieren)).
+
+**Vragen**
 
 De vragen en antwoorden kunnen aangemaakt worden in verschillende talen. De vraag zal voor de gebruiker 
 automatisch verschijnen in de taal die hij in zijn profiel ingevuld heeft.
 
 ![member question](/assets/images/member_question.png)
 		
-Om een nieuwe vraag aan te maken, klik op "Voeg toe". Onder "Vraag" vul je de vraag in. Klik op "Vertaling toevoegen" om de vraag in meerdere talen beschikbaar te stellen.
+Om een nieuwe vraag aan te maken, klik op het plus symbool. Onder "Vraag" vul je de vraag in. Klik op "Vertaling toevoegen" om de vraag in meerdere talen beschikbaar te stellen.
 Onder "Antwoorden" vul je een mogelijk antwoord op de vraag in. Klik op "Vertaling toevoegen" om het antwoord in meerdere talen beschikbaar te stellen. Klik op + om een extra mogelijk antwoord op de vraag toe te voegen.
 
 Om de vraag te bewaren klik je op "Bewaar". Het volgende lid dat lid wil worden van de club zal de vraag dienen te beantwoorden.
@@ -132,13 +134,22 @@ Om een eerder aangemaakte vraag aan te passen, klik op het potloodje. Hetzelfde 
 
 **Standaard vragen**
 
-Er zijn ook een aantal standaard vragen beschikbaar. Deze dien je enkel actief of inactief te zetten om ze te laten verschijnen.
+Er zijn ook een aantal standaard vragen beschikbaar. Deze kan je niet aanpassen of verwijderen.
 
 - Ik wil me inschrijven voor de nieuwsbrief van club X
 - Welk abonnement wens je? (hiervoor dienen abonnementen aangemaakt te zijn (zie [Abonnementen](#abonnementen)))
 - Aan welk team moet je toegevoegd worden? (hiervoor dienen teams aangemaakt te zijn (zie [Teams](#teams)))
 
 ![standard questions](/assets/images/standard_questions.png)
+
+**Vragenlijsten**
+
+**Standaard vragenlijst**
+
+Er is een standaard vragenlijst om te tonen aan gebruikers die lid willen worden van de club. Deze kan je niet verwijderen. Je kan wel bepalen welke vragen gelinkt zijn aan deze vragenlijst.
+Zodra de vragenlijst minstens één vraag bevat zal hij getoond worden bij lidaanvragen.
+
+![standard questionnaires](/assets/images/standard_questionnaires.png)
 	
 ## Club
 
