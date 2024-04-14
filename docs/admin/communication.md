@@ -52,4 +52,4 @@ Alvorens te kunnen starten dien je vragen te definiëren en deze te linken aan v
 
 ![questionnaires](/assets/images/settings_questionnaires.png)
 
-De vragenlijst "Member request" wordt automatisch getoond wanneer een gebruiker lid wil worden en de lijst minstens één vraag bevat. Het opsturen van de andere vragenlijsten kan via de ledenacties in het ledenscherm (zie [Vragenlijst opsturen](member-management.md#vragenlijstopsturen)).
+De vragenlijst "Member request" wordt automatisch getoond wanneer een gebruiker lid wil worden en de lijst minstens één vraag bevat. Het opsturen van de andere vragenlijsten kan via de ledenacties in het ledenscherm (zie [Vragenlijst opsturen](member-management.md#vragenlijst-opsturen)).
