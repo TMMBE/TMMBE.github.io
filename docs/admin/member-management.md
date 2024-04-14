@@ -370,7 +370,7 @@ Krijg een overzicht van de opgestuurde formulieren in jouw club en hun actuele s
 
 De mogelijke soorten formulieren:
 - Lid gegevens: een lid heeft zijn persoonlijke gegevens (adres, geboortedatum, ...) aangepast. Verwerk het formulier om deze gegevens ook in jouw club op te slaan of aan te passen.
-- Leden vragen: je hebt een vragenlijst opgestuurd (zie [Vragenlijst opsturen](#vragenlijst-opsturen)) en een lid heeft deze beantwoord. Open het antwoord om de antwoorden te bekijken en eventueel door te voeren (bv nieuwe abonnementen).
+- Leden vragen: je hebt een vragenlijst opgestuurd (zie [Vragenlijst opsturen](#vragenlijst-opsturen)) en een lid heeft deze beantwoord. Open het formulier om de antwoorden te bekijken en eventueel door te voeren (bv nieuwe abonnementen).
 
 ![forms detail](/assets/images/forms_detail.png)
 
