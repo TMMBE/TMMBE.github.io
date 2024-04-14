@@ -343,6 +343,7 @@ Het e-mailadres en telefoonnummer dat het lid gebruikt in Squatix worden automat
 gekoppelde leden.
 
 ### Meetings
+
 Hier kan je een overzicht krijgen van alle meetings waarop het lid ingeschreven is (verleden en toekomst). 
 
 Om gerichter te zoeken kan je de meetings filteren op:
@@ -353,9 +354,24 @@ Om gerichter te zoeken kan je de meetings filteren op:
 ![member details subscriptions](/assets/images/member_detail_trainings.png)
 
 ## Vrijwilligers
+
 Je kan leden van je club de vrijwilligersrol toekennen. Vrijwilligers kunnen zich inschrijven op vrijwillgerstaken bij meetings. Om een lid vrijwilliger te maken, ga je naar de detailpagina van het lid. 
 Onder de tab 'Lid gegevens' zet je het 'Vrijwilliger'-knopje aan onder de sectie 'Rollen' (zie [Lid gegevens](#lid-gegevens)). Leden kunnen ofwel lid ofwel vrijwilliger zijn of beide. Een lid die de lid-rol niet heeft 
 maar wel de vrijwilligers-rol, kan zich niet inschrijven om deel te nemen aan meetings. Een lid die beide heeft kan zich zowel inschrijven om deel te nemen als zich inschrijven voor een vrijwilligerstaak. 
 Om vrijwilligerstaken toe te voegen aan een meeting, zie [Meetings](meetings.md#vrijwilligers).
 
 ![member volunteer roles](/assets/images/volunteer_roles.png)
+
+## Formulieren
+
+Krijg een overzicht van de opgestuurde formulieren in jouw club en hun actuele status. Klik op een formulier om de details te zien of (indien in status "wachten op beheerder") te verwerken.
+
+![forms overview](/assets/images/forms_overview.png)
+
+De mogelijke soorten formulieren:
+- Lid gegevens: een lid heeft zijn persoonlijke gegevens (adres, geboortedatum, ...) aangepast. Verwerk het formulier om deze gegevens ook in jouw club op te slaan of aan te passen.
+- Leden vragen: je hebt een vragenlijst opgestuurd en een lid heeft deze beantwoord. Open het antwoord om de antwoorden te bekijken en eventueel door te voeren (bv nieuwe abonnementen).
+
+![forms detail](/assets/images/forms_detail.png)
+
+
