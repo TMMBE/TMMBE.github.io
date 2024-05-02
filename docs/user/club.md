@@ -89,7 +89,7 @@ Door op een club te klikken in de "jouw clubs" sectie (zie [Jouw clubs](#jouw-cl
 ### Formulieren
 
 Formulieren zijn interacties tussen jou en de club:
-- Indien je jouw gebruikersprofiel veranderd wordt een formulier opgestuurd naar de club om de gewijzigde data over te nemen.
+- Indien je jouw gebruikersprofiel veranderd (zie [Profiel opzetten](profile.md#profiel-opzetten)) wordt een formulier opgestuurd naar de club om de gewijzigde data over te nemen.
 - De club kan jou een formulier opsturen met vragen die je dient te beantwoorden.
 
 Dit is de plaats waar je formulieren kan beantwoorden (indien het vragen zijn) of waar je formulieren kan herbekijken
