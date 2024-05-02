@@ -25,11 +25,11 @@ Vooraleer je van start kan gaan dien je eerst een ledenverzoek naar de club te s
 
 Je komt nu op de pagina terecht waar je zowel de status van jouw clubs/ledenverzoeken kan bekijken, op zoek gaan naar een club of zelf een club aanmaken.
 
-### Status clubs
+### Jouw clubs
 
-Je krijgt een overzicht van de door jou verstuurde ledenverzoeken die nog wachten op goedkeuring of de clubs waar je al lid van bent. Ook de rollen die je eventueel gekregen hebt bij
-jouw club worden hier vermeld. Indien je over extra profielen beschikt (zie [Extra profielen aanmaken](profile.md#extra-profielen-aanmaken)) worden hier ook de clubs vermeld waar de
-andere profielen lid van zijn of waar een ledenverzoek voor in behandeling is.
+Je krijgt een overzicht van de door jou verstuurde ledenverzoeken die nog wachten op goedkeuring of de clubs waar je al lid van bent. Indien je over extra profielen beschikt 
+(zie [Extra profielen aanmaken](profile.md#extra-profielen-aanmaken)) worden hier ook de clubs vermeld waar de andere profielen lid van zijn of waar een ledenverzoek voor in behandeling is.
+Door op een club te klikken ga je naar de club detail pagina (zie [Club detail](#club-detail))
 
 ![Overview clubs](/assets/images/overview_clubs.png)
 
@@ -74,12 +74,29 @@ honderd leden beheren in jouw club. Ben je tevreden met de werking en wil je gra
 
 Om een club aan te maken klik op "Club aanmaken". Vul alle nodige data in en klik nogmaals op "Club aanmaken". Je wordt automatisch naar de detailpagina van jouw nieuwe club gestuurd.
 
-## Abonnement bekijken
+## Club detail
 
-Het is mogelijk om het abonnement dat je bij een club hebt in de gaten te houden en zo op de hoogte te blijven van de status. Jouw abonnement vind je op de volgende locatie:
+Door op een club te klikken in de "jouw clubs" sectie (zie [Jouw clubs](#jouw-clubs)) kom je in de club detail pagina terecht. Hier vind je al jouw data bij de club.
 
-- Mobiele app: Ga onderaan naar "Club" en klik op "Status abonnement"
-- Webversie: Klik op "Info" onder de clubnaam in de linker navigatiebalk en scroll naar onderen
+### Overzicht 
+
+- Startdatum van jouw lidmaatschap
+- Jouw rollen bij de club
+- In -of uitschrijven op nieuwsbrieven van de club
+
+![Club detail](/assets/images/club_detail_overview.png)
+
+### Formulieren
+
+Formulieren zijn interacties tussen jou en de club:
+- Indien je jouw gebruikersprofiel veranderd wordt een formulier opgestuurd naar de club om de gewijzigde data over te nemen.
+- De club kan jou een formulier opsturen met vragen die je dient te beantwoorden.
+
+Dit is de plaats waar je formulieren kan beantwoorden (indien het vragen zijn) of waar je formulieren kan herbekijken
+
+### Abonnement
+
+Hier is het om de abonnementen die je bij de club hebt in de gaten te houden en zo op de hoogte te blijven van de status. Ook jouw vorige abonnementen, wijzigingen aan abonnementen etc vind je hier terug
 
 ![Subscription](/assets/images/subscription.png)
 
