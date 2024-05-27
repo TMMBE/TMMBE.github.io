@@ -62,6 +62,19 @@ Aanpassen van een abonnement: klik op het potloodje
 
 Door een abonnement inactief te maken verdwijnt het uit de shop en kan het niet meer toegekend worden.
 
+## Shop
+
+In de shop instellingen kan je zelf items configureren om te verkopen.
+
+![Shop items overzicht](/assets/images/shop_overview_settings.png)
+
+Klik op het + teken om een nieuw item te configureren. Configureer de item, prijs en voeg eventueel een afbeelding toe. Verder kan je zelf een lijst met beschikbare maten en kleuren definieren.
+
+Klik op bewaren. Dit item is nu beschikbaar in je shop.
+
+![Shop item configureren 1](/assets/images/shop_item_config_1.png)
+![Shop item configureren 1](/assets/images/shop_item_config_2.png)
+
 ## Rollen
 Met rollen kan je jouw leden toegang geven tot bepaalde functionaliteiten of pagina's waar een lid zonder die rol geen toegang toe heeft. Op de rollen-pagina kan je de 
 verschillende rollen en hun permissies voor jouw club definiëren. Daarna kan je in de detail pagina van een lid hem een of meerdere van die rollen toekennen 

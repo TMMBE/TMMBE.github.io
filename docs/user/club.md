@@ -203,9 +203,11 @@ Het is mogelijk een privé-bericht te sturen naar de beheerders van jouw club. D
 
 ## Shop
 
-Indien geactiveerd door de clubbeheerder kan je in de shop zelf jouw abonnement aankopen. 
+Indien geactiveerd door de clubbeheerder kan je in de shop zelf jouw abonnement aankopen, of andere items.
 
 ![shop](/assets/images/shop_overview.png)
+
+![shop](/assets/images/shop_tshirt.png)
 
 Ga daarvoor naar de shops pagina en klik op het boodschappenkar-icoontje bij het abonnement van jouw keuze.
 Het detail scherm opent, klik op "verder naar betalen" om de aankoop af te ronden. Na betaling wordt het abonnement automatisch aan jouw toegekend.

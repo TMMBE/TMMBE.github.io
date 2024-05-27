@@ -31,5 +31,8 @@ Het detail scherm opent, klik op "verder naar betalen" om de aankoop af te ronde
 
 Gekoppelde betalingen kan je bekijken in het betalingsoverzicht (zie [Status controleren](payments.md#status-controleren))).
 
+## Andere items
 
+Naast abonnementen is het ook mogelijk om andere items te verkopen via je club shop. Deze kan je configureren in de instellingen (zie [Shop instellen](settings.md#shop)).
 
+![shop](/assets/images/shop_tshirt.png)
