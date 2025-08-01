@@ -62,6 +62,7 @@ De activiteit detail pagina toont volgende activiteit info:
 - Titel
 - Start- en eind datum 
 - Categorie 
+- Toegangsvoorwaarden
 - Locatie (Optioneel)
 - Beschrijving (Optioneel)
 - Aantal bezette plaatsen indien deelnemersbeperking (Optioneel)
@@ -76,29 +77,10 @@ Een overzicht van alle trainers die aangesteld zijn voor de training en hun stat
 ![trainers](/assets/images/meeting_trainers.png)
 
 ### Deelnemers
-In de deelnemers tabel zie je de ingeschreven deelnemers. 
-
-Via + kan je zelf leden handmatig inschrijven voor de activiteit. Wanneer een beheerder een lid handmatig inschrijft is het mogelijk om 
-ook deelnemers met een ongeldig abonnement in te schrijven, zelfs indien ingesteld is dat de activiteitscategorie enkel voor leden met een 
-geldig abonnement toegankelijk is (zie [Activiteitscategorieën](settings.md#activiteitscategorieën)). 
-Wanneer een lid zichzelf wilt inschrijven moet hij wel aan deze regel voldoen.
-
-![meeting participants](/assets/images/meeting_participants.png)
-
-De deelnemers tabel toont: 
-- Voornaam/achternaam van het lid
-- Geldigheid van zijn abonnement tov de activiteit
-- Of de deelnemer aanwezig was (bevestigd)
-- Verwijderknop.
-
-Een deelnemer kan bevestigd worden voor de activiteit indien zijn QR-code gescand wordt (zie [QR scanning](qr-scanning.md)) of indien op "Bevestig" geklikt wordt 
-in de deelnemers tabel.
+Onder deelnemers zie je het aantal ingeschreven deelnemers. Via hier kan je navigeren naar de deelnemers pagina (zie [Deelnemers](#deelnemers))
 
 ### Vrijwilligers
-Gelijkaardig aan de deelnemers tabel, kan je in de vrijwilligers tabel de ingeschreven vrijwilligers bekijken. Indien er aparte vrijwilligerstaken zijn ingesteld, wordt er per vrijwilliger vermeld 
-voor welke taak het lid is ingeschreven. Je kan de inschrijving ongedaan maken door op de afvalemmer te klikken. Je kan zelf een vrijwilliger toevoegen door bovenaan de tabel op '+' te klikken.
-
-![meeting volunteer participants](/assets/images/meeting_volunteer_participants.png)
+Onder Vrijwilligers zie je het aantal ingeschreven vrijwilligers. Via hier kan je navigeren naar de vrijwilligers pagina (zie [Vrijwilligers](#vrijwilligers))
 
 ### Berichten
 
@@ -110,9 +92,7 @@ indien een nieuw bericht geplaatst is.
 
 ### Activiteitsacties
 
-![meeting actions](/assets/images/meeting_actions1.png)
-
-**Activiteit geschiedenis (1)** 
+**Geschiedenis** 
 
 Hier worden alle gebeurtenissen die plaatsvinden op de activiteit getoond. Sommige gebeurtenissen zijn enkel zichtbaar voor een beheerder.
 - Aanpassing details activiteit (Lid + beheerder)
@@ -123,21 +103,21 @@ Hier worden alle gebeurtenissen die plaatsvinden op de activiteit getoond. Sommi
 - Activiteit geannuleerd (Lid + beheerder)
 - Trainers aangepast (Beheerder)
 			
-**Editeer activiteit (2)** 
+**Details bewerken**
 
 zie [Editeer/creeër activiteit](#editeercreeër-activiteit)
 
-**Extra acties via (3):**
+**Timing bewerken**
 
-![meeting actions](/assets/images/meeting_actions2.png)
+zie [Editeer/creeër activiteit](#editeercreeër-activiteit)
 
-- **Maak kopie (1)**  
+- **Maak kopie**  
 Toon de bewerk activiteit pagina met alle velden ingevuld gelijk aan de waardes van de activiteit waarvan een kopie gemaakt is.
 
-- **Verwijder (2)**  
+- **Verwijder**  
 Dit is enkel mogelijk indien er nog geen ingeschreven deelnemers zijn of indien de activiteit eerst geannuleerd is. Verwijderen kan niet ongedaan gemaakt worden.
 
-- **Annuleer activiteit (3)**  
+- **Annuleer activiteit**  
 Activiteit krijgt status "geannuleerd". Alle ingeschreven deelnemers krijgen een notificatie. 
 	
 ## Editeer/creeër activiteit
@@ -237,3 +217,31 @@ herhaling dient te stoppen (maximum 1 jaar in de toekomst). Zodra de activiteit 
 
 Indien een activiteit wordt aangepast en deze onderdeel is van een serie wordt bij het starten van het editeren van de activiteit gevraagd of enkel de geopende activiteit moet aangepast worden 
 of de aanpassing moet doorgevoerd worden in de serie. 
+
+## Deelnemers
+
+In de deelnemers tabel zie je de ingeschreven deelnemers. 
+
+Via + kan je zelf leden handmatig inschrijven voor de activiteit. Wanneer een beheerder een lid handmatig inschrijft is het mogelijk om 
+ook deelnemers met een ongeldig abonnement in te schrijven, zelfs indien ingesteld is dat de activiteitscategorie enkel voor leden met een 
+geldig abonnement toegankelijk is (zie [Activiteitscategorieën](settings.md#activiteitscategorieën)). 
+Wanneer een lid zichzelf wilt inschrijven moet hij wel aan deze regel voldoen.
+
+![meeting participants](/assets/images/meeting_participants.png)
+
+De deelnemers tabel toont: 
+- Voornaam/achternaam van het lid
+- Geldigheid van zijn abonnement tov de activiteit
+- Of de deelnemer aanwezig was (bevestigd)
+- Verwijderknop.
+
+Een deelnemer kan bevestigd worden voor de activiteit indien zijn QR-code gescand wordt (zie [QR scanning](qr-scanning.md)) of indien op "Bevestig" geklikt wordt 
+in de deelnemers tabel.
+
+## Vrijwilligers
+
+Gelijkaardig aan de deelnemers tabel, kan je in de vrijwilligers tabel de ingeschreven vrijwilligers bekijken. Indien er aparte vrijwilligerstaken zijn ingesteld, wordt er per vrijwilliger vermeld 
+voor welke taak het lid is ingeschreven. Je kan de inschrijving ongedaan maken door op de afvalemmer te klikken. Je kan zelf een vrijwilliger toevoegen door bovenaan de tabel op '+' te klikken.
+
+![meeting volunteer participants](/assets/images/meeting_volunteer_participants.png)
+

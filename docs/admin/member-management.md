@@ -15,31 +15,30 @@ nav_order: 6
 
 ---
 
-## Overzicht
+## Leden Overzicht
 
 ### Weergave
 	
-Standaard worden alle actieve leden getoond, alfabetisch gerangschikt op voornaam. Met de pijltjes naast voornaam en achternaam is het mogelijk de resultaten op een 
+Standaard worden alle actieve leden getoond, alfabetisch gerangschikt op voornaam. Met de pijltjes naast een kolomnaam is het mogelijk de resultaten op een 
 andere manier te rangschikken. 
 
-Het is echter mogelijk andere weergaven te tonen, dit kan door op het draaiwieltje naast "weergave" te klikken. Mogelijke opties zijn:
-- Leden (alle leden)
-- Abonnementen (alle leden met hun abonnement informatie, indien een lid twee abonnementen heeft wordt hij tweemaal getoond)
-- E-mails (alle leden met hun e-mail en status op de nieuwsbrief, indien een lid twee e-mailadressesn heeft wordt hij tweemaal getoond)
+Het is echter mogelijk andere weergaven te tonen, kolommen toe te voegen en te verbergen. Dit doe je respectievelijk met de knoppen "Weergaven" en "Kolommen"
 
-Afhankelijk van de gekozen weergave zijn er ook andere ledenacties mogelijk (zie [Ledenacties](#ledenacties))
+### Exporteer
+
+Om de huidige weergave (data + kolommen) te exporteren naar een excel file, druk op "exporteer"
 
 ### Filters
 
 Het is mogelijk verschillende filters toe te passen:
 - Naam (er wordt gezocht in zowel voor- en achternaam)
-- Toon inactieve leden (deze verschijnen in het grijs tussen de actieve leden)
-- Type lid (gekoppelde leden gebruiken Squatix, niet-gekoppelde leden zijn niet gekoppeld met een echte gebruiker (zie [Toevoegen leden](#toevoegen)))
-- Rol (zie [Lid gegevens](#lid-gegevens))
 - Status abonnement (geldig of niet meer geldig)
+- Koppeling (gekoppelde leden gebruiken Squatix, niet-gekoppelde leden zijn niet gekoppeld met een echte gebruiker (zie [Toevoegen leden](#toevoegen)))
 - Type abonnement (met beurten of enkel met een geldigheidsdatum)
+- Rol (zie [Lid gegevens](#lid-gegevens))
+- Team (zie [Lid gegevens](#lid-gegevens))
 - Abonnementscategorie (zie [Abonnement](#abonnement))
-- Nieuwsbrief geabboneerd
+- Geboortedatum
 
 ![member list](/assets/images/member_list.png)
 		
@@ -47,37 +46,19 @@ Een van de extra filters weer verwijderen kan door op "meer filters" te klikken 
 
 ### Acties
 - Nieuwe leden toevoegen kan via "Voeg toe" (zie [Toevoegen](#toevoegen)).
-- Indien er ledenverzoeken zijn wordt dit hier getoond (zie [Ledenverzoeken](#ledenverzoeken)).
-
-![member actions](/assets/images/member_actions1.png)
-
 - Met het drop-down menu en de "Uitvoeren" knop kan je acties uitvoeren op meerdere leden tegelijkertijd, zie [Ledenacties](#ledenacties)
 
 ![member actions](/assets/images/member_actions2.png)		
 		
 ## Ledenacties
 
-### Exporteer
-
-(weergave leden)
-
-Data van de leden kan geexporteerd worden naar een excel file. Vink eerst de leden aan, selecteer "exporteer" in het drop-down menu en klik op "uitvoeren".
-
-In het geopende scherm kan je de layout van de excel file definiëren: selecteer of deselecteer data die je wel of niet wilt zien. Ook de volgorde van de kolommen kan aangepast worden door ze hoger of lager te plaatsen.
-
-![Export excel](/assets/images/export_excel.png)
-
 ### Genereer QR 
-
-(weergave leden)
 
 QR-codes van leden kunnen ook afgedrukt worden. Met deze codes kunnen leden gescand worden om hun aanwezigheid op de meeting te bevestigen (zie [QR scanning](qr-scanning.md)). Vink in het overzicht de leden aan, selecteer "Genereer QR" in het drop-down menu en klik op uitvoeren. Een PDF bestand met de gewenste QR codes wordt geopend.
 
 ![QR codes](/assets/images/generate_qr.png)
 
 ### Aanwezigheidslijst 
-
-(weergave leden)
 
 Genereer een rapport met de aanwezigheden per lid. Vink eerst een aantal leden aan in het overzichtsscherm, selecteer "aanwezigheidslijst" in het drop-down menu en klik op "uitvoeren", het aanwezigheidslijstscherm wordt geopend.
 		
@@ -91,14 +72,10 @@ In het onderste deel kan je de meetings filteren waarvoor je de aanwezigheidslij
 
 ### Team aanmaken 
 
-(weergave leden)
-
 Met deze functie kan je op een snelle manier een nieuw team aanmaken. Vink in het overzicht de leden aan die in het team moeten toegevoegd worden, selecteer "Team aanmaken". Op de volgende pagina
 vul je de naam van het team in, klik je op bewaar en het team is aangemaakt. (zie [Teams](settings.md#teams))
 
 ### Betaling aanmaken 
-
-(weergave leden)
 
 Deze actie kan gebruikt worden om voor meerdere leden tegelijk een losse betaling aan te maken. Vink in het overzicht de gewenste leden aan en selecteer "Betaling aanmaken". Op de volgende pagina
 kan je een bedrag en een beschrijving invullen en eventueel betalingsregels toevoegen. Klik op bewaar en de geselecteerde leden krijgen een melding dat hen een betaling wacht. Voor meer uitleg
@@ -108,13 +85,9 @@ over betalingen zie [Betalingen](payments.md))
 
 ### Maak een groepschat 
 
-(weergave leden)
-
 Vink in het overzicht de gewenste leden aan en selecteer "Maak een groepschat". Op de volgende pagina kan je een bericht aanmaken om te versturen en de chat te openen.
 
 ### Vragenlijst opsturen 
-
-(weergave leden)
 
 Met deze functionaliteit kan je naar alle of een deel van jouw leden vragen opsturen die dienen beantwoord worden. Hiervoor dien je eerst vragen en vragenlijsten te definiëren (zie [Vragenlijsten](settings.md#vragenlijsten)).
 
@@ -123,25 +96,16 @@ een vragenlijst te selecteren. Duw op ok om te verzenden. Let op: enkel leden ge
 
 ![send questionnaire](/assets/images/send_questionnaire.png)
 
-### Bewerk abonnementen 
+### Nieuw abonnement toevoegen 
 
-(weergave abonnementen)
-
-Deze functie kan gebruikt worden indien je bij verschillende leden tegelijk een abonnementsaanpassing wilt doen. Vink in het overzicht de leden aan, selecteer "Bewerk abonnementen" in het drop-down menu en klik op uitvoeren. Het abonnementenscherm wordt geopend.
+Deze functie kan gebruikt worden indien je aan verschillende leden tegelijk een nieuw abonnement wilt toekennen. Vink in het overzicht de leden aan, selecteer "Nieuw abonnement toevoegen" in het drop-down menu en klik op uitvoeren. Het abonnementenscherm wordt geopend.
 		
 Bovenaan vind je een overzicht met de geselecteerde leden, met X kan je eventueel nog leden terug verwijderen.
 
 ![mass subscriptions](/assets/images/mass_subscriptions1.png)	
 		
-In het onderste deel kan je gewenste actie selecteren:
-- Nieuw abonnement toevoegen: alle geselecteerde leden krijgen een nieuwe abonnement toegevoegd. Selecteer het gewenste abonnement en pas eventueel de standaardprijs nog aan. Klik op "Bewaar".
-Om abonnementen te definiëren zie [Abonnementen](settings.md#abonnementen)
-
-![mass subscriptions](/assets/images/mass_subscriptions2.png)
-
-- Abonnement verlengen: alle geselecteerde abonnementen van de geselecteerde leden worden verlengd. Selecteer de termijn en klik op "Bewaar"
-
-![mass subscriptions](/assets/images/mass_subscriptions3.png)				
+In het onderste deel kan je het gewenste abonnement selecteren. Pas eventueel de standaardprijs nog aan. Klik op "Bewaar".
+Om abonnementen te definiëren zie [Abonnementen](settings.md#abonnementen)				
 		
 ## Toevoegen
 Deze functie laat jou toe om leden toe te voegen en hun details te bewaren, ook al gebruiken ze Squatix niet. Indien ze toch later Squatix beginnen gebruiken en een lidverzoek voor jouw club indienen kan je het door jou aangemaakte profiel met de echte gebruiker linken. (zie [Ledenverzoeken](#ledenverzoeken))
@@ -244,13 +208,12 @@ of overschreven in het gebruikersprofiel van het lid. Beide profielen staan los 
 In de bovenste sectie kan je het volgende terugvinden:
 - Foto: uploaden van een foto voor het lid, deze staat los van de eigen foto die het lid in zijn profiel heeft toegevoegd en zal deze dus niet overschrijven
 - Gekoppeld aan gebruikersprofiel: dit label wordt getoond indien een fysieke gebruiker aan dit lid gekoppeld is (na een ledenverzoek, zie [Ledenverzoeken](#ledenverzoeken))
-- Inactief maken: door een lid inactief te maken is hij niet meer aanpasbaar maar telt hij ook niet meer mee in het aantal leden (voor berekening van het clubabonnement).
-Zijn profiel kan wel nog bekeken worden door te zoeken op inactieve leden in het overzicht (zie [Overzicht](#overzicht)).
+- Omzetten naar contact
 
 Opgelet, volgende gevolgen zijn onomkeerbaar: (1) Het lid wordt verwijderd uit alle toekomstige meetings waarvoor het ingeschreven is (2) Indien hij als trainer gekoppeld is aan een meetingscategorie wordt 
 deze koppeling verwijderd (3) Indien een fysieke gebruiker gekoppeld is aan dit lid wordt de connectie verwijderd en heeft deze gebruiker geen toegang meer tot de club
 
-- Lid verwijderen: een lid verwijderen heeft dezelfde gevolgen als een lid inactief maken maar hij wordt ook verwijderd uit de lijst met leden en zijn ledenprofiel
+- Lid verwijderen: een lid verwijderen heeft dezelfde gevolgen als een lid omzetten naar een contact maar hij wordt ook verwijderd uit de lijst met leden en zijn ledenprofiel
 kan op geen enkele manier meer bekeken worden. Deze actie is onomkeerbaar. 
 
 ### Abonnement
@@ -352,15 +315,6 @@ Om gerichter te zoeken kan je de meetings filteren op:
 - Startdatum
 
 ![member details subscriptions](/assets/images/member_detail_trainings.png)
-
-## Vrijwilligers
-
-Je kan leden van je club de vrijwilligersrol toekennen. Vrijwilligers kunnen zich inschrijven op vrijwillgerstaken bij meetings. Om een lid vrijwilliger te maken, ga je naar de detailpagina van het lid. 
-Onder de tab 'Lid gegevens' zet je het 'Vrijwilliger'-knopje aan onder de sectie 'Rollen' (zie [Lid gegevens](#lid-gegevens)). Leden kunnen ofwel lid ofwel vrijwilliger zijn of beide. Een lid die de lid-rol niet heeft 
-maar wel de vrijwilligers-rol, kan zich niet inschrijven om deel te nemen aan meetings. Een lid die beide heeft kan zich zowel inschrijven om deel te nemen als zich inschrijven voor een vrijwilligerstaak. 
-Om vrijwilligerstaken toe te voegen aan een meeting, zie [Meetings](meetings.md#vrijwilligers).
-
-![member volunteer roles](/assets/images/volunteer_roles.png)
 
 ## Formulieren
 
