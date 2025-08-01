@@ -28,3 +28,7 @@ Vul informatie in over jouw club, zichtbaar voor jouw leden. Mogelijke velden zi
 Upload een logo, zichtbaar voor jouw leden
 
 ![logo](/assets/images/upload_logo.png)
+
+## Documenten
+
+## Acties

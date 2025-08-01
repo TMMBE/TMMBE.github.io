@@ -21,7 +21,7 @@ Via berichten kan je alle leden die jouw app gebruiken in één keer bereiken. E
 
 ![messages](/assets/images/insert_message.png)
 
-Berichten kunnen verwijderd of bewerkt worden waarna het bericht de editeerdatum zal tonen (bewerken) of "bericht verwijderd" (verwijderen).
+Berichten kunnen verwijderd of bewerkt worden waarna het bericht de editeerdatum zal tonen (bewerken) of zal verdwijnen (verwijderen).
 
 ![messages](/assets/images/clubmessage.png)
 
@@ -34,13 +34,13 @@ en de antwoorden zullen ook zichbaar worden voor de andere beheerders.
 
 ### Een chat starten
 
-Als beheerder kan je ook een chat starten met een van je leden. Navigeer naar de leden pagina, selecteer het lid waarmee je een chat wil starten, klik op de "..." onder de naam en klik op "Chat".
+Als beheerder kan je ook een chat starten met een van je leden. Navigeer naar de leden pagina, selecteer het lid waarmee je een chat wil starten, klik op de "..." onder de naam en klik op "Chat". Dit kan enkel bij leden die Squatix gebruiken.
 
 ![messages](/assets/images/admin_start_member_chat.png)
 
 ### Een groepschat starten
 
-Om met meerdere leden tegelijk te chatten kan als beheerder een groepschat starten. Alle leden kunnen hierin antwoorden en de berichten zijn voor iedereen zichtbaar. Om een groepschat te starten ga je naar de leden pagina. Selecteer met de vinkjes in het overzichtscherm welke leden je wil toevoegen aan de chat. Ga vervolgens naar het actiemenu rechts op het scherm en selecteer "Groepschat starten". Klik vervolgens op "uitvoeren".
+Om met meerdere leden tegelijk te chatten kan als beheerder een groepschat starten. Alle leden kunnen hierin antwoorden en de berichten zijn voor iedereen zichtbaar. Om een groepschat te starten ga je naar de leden pagina. Selecteer met de vinkjes in het overzichtscherm welke leden je wil toevoegen aan de chat. Ga vervolgens naar het actiemenu rechts op het scherm en selecteer "Groepschat starten". Klik vervolgens op "Uitvoeren".
 
 ![messages](/assets/images/admin_start_member_group_chat.png)
 
@@ -53,3 +53,7 @@ Alvorens te kunnen starten dien je vragen te definiëren en deze te linken aan v
 ![questionnaires](/assets/images/settings_questionnaires.png)
 
 De vragenlijst "Member request" wordt automatisch getoond wanneer een gebruiker lid wil worden en de lijst minstens één vraag bevat. Het opsturen van de andere vragenlijsten kan via de ledenacties in het ledenscherm (zie [Vragenlijst opsturen](member-management.md#vragenlijst-opsturen)).
+
+## Mails
+
+zie [Mails](mails.md)

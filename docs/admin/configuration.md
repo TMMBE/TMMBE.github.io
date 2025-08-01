@@ -15,28 +15,28 @@ nav_order: 11
 
 ---
 
-## Meetingscategorieën
+## Activiteitscategorieën
 
-Om een meetingscategorie toe te voegen, klik op het + symbool. 
+Om een activiteitscategorie toe te voegen, klik op het + symbool. 
 Volgende data kan ingegeven worden:
 - Naam
-- Kleur: wordt weergegeven in de meetingskalender om meetings met een verschillende categorie van elkaar te kunnen onderscheiden
-- Inschrijven: enkel leden met een geldig abonnement kunnen inschrijven op de meeting of alle leden kunnen inschrijven
+- Kleur: wordt weergegeven in de activiteitskalender om activiteiten met een verschillende categorie van elkaar te kunnen onderscheiden
+- Inschrijven: enkel leden met een geldig abonnement kunnen inschrijven op de activiteit of alle leden kunnen inschrijven
 - Zichtbaarheid: enkel leden met een overeenkomend abonnement kunnen deze categorie zien of alle leden kunnen deze categorie zien
-- Prijs voor een enkele meeting: je kan hierin optioneel een prijs instellen. Wanneer leden zich willen inschrijven voor een meeting van deze categorie en ze hebben geen geldig abonnement voor deze meeting zal de prijs getoond worden. Wanneer het lid zich dan inschrijft, wordt er doorverwezen naar de betaalpagina. Zodra de betaling voltooid is, is het lid automatisch ingeschreven. Indien dit veld leeg gelaten wordt, is inschrijven gratis tenzij "enkel leden met een geldig abonnement kunnen inschrijven" is ingeschakeld.
-- Trainers: selecteer trainers die automatisch zullen ingevuld worden bij het aanmaken van een meeting van deze categorie
+- Prijs voor een enkele activiteit: je kan hierin optioneel een prijs instellen. Wanneer leden zich willen inschrijven voor een activiteit van deze categorie en ze hebben geen geldig abonnement voor deze activiteit zal de prijs getoond worden. Wanneer het lid zich dan inschrijft, wordt er doorverwezen naar de betaalpagina. Zodra de betaling voltooid is, is het lid automatisch ingeschreven. Indien dit veld leeg gelaten wordt, is inschrijven gratis tenzij "enkel leden met een geldig abonnement kunnen inschrijven" is ingeschakeld.
+- Trainers: selecteer trainers die automatisch zullen ingevuld worden bij het aanmaken van een activiteit van deze categorie
 
 ![Meeting category](/assets/images/training_categorie.png)
 
-Voor het aanpassen van een meetingscategorie: klik op het potloodje
+Voor het aanpassen van een activiteitscategorie: klik op het potloodje
 
 ## Abonnementscategorieën
 
 Om een abonnementscategorie toe te voegen, klik op het + symbool. 
 Volgende data kan ingegeven worden:
 - Naam
-- Gelinkte meetingscategorieën: link een van de aangemaakte meetingscategorieën aan de abonnementscategorie. Op deze manier kan je bepalen voor welke meetings een lid kan inschrijven 
-(indien de meetingscategorie enkel voor een geldig abonnement inschrijfbaar is).
+- Gelinkte activiteitscategorieën: link een van de aangemaakte activiteitscategorieën aan de abonnementscategorie. Op deze manier kan je bepalen voor welke activiteiten een lid kan inschrijven 
+(indien de activiteitscategorie enkel voor een geldig abonnement inschrijfbaar is).
 
 ![Subscription category](/assets/images/subscription_categorie.png)
 			
@@ -89,12 +89,12 @@ Volgende permissies kunnen aan een rol gegeven worden:
 - Leden wijzigen (Bekijk en wijzig de leden)
 - Rollen beheren (Rollen bekijken, toevoegen en aanpassen)
 - Trainer (Kan geselecteerd worden als trainer)
-- Meetings wijzigen (Aanpassen en aanmaken van meetings)
+- Activiteiten wijzigen (Aanpassen en aanmaken van activiteiten)
 
 Een aantal standaard rollen zijn altijd aanwezig en kunnen niet verwijderd of aangepast worden:
 - Eigenaar (Alle permissies, uitgezonder trainer. Enkel toegekend aan de persoon die de club aangemaakt heeft, kan beheerders aanduiden of verwijderen.)
 - Beheerder (Alle permissies, uitgezonderd trainer, kan geen andere beheerders aanduiden of verwijderen)
-- Trainer (Kan als trainer toegevoegd worden aan een meeting)
+- Trainer (Kan als trainer toegevoegd worden aan een activiteit)
 
 ## Trainer groepen
 Indien je wilt dat trainers bevestigen of ze aanwezig kunnen zijn op een training en een vervanger moeten kiezen indien nodig kan je trainer groepen gebruiken zodat ze enkel een vervanger
@@ -110,9 +110,9 @@ Aanpassen van een Trainer groep: klik op het potloodje
 ![Trainer groups](/assets/images/trainer_groups.png)
 
 ## Teams
-Met teams kan je jouw leden onderverdelen in verschillende teams. Bij het zenden van nieuwsbrieven kan je bijvoorbeeld een team gebruiken als ontvanger van de nieuwsbrief. 
-(zie [Nieuwsbrieven](newsletter.md)) Je kan ook een of meerdere teams aan een training linken zodat alle leden van deze teams automatisch ingeschreven worden voor die 
-training (zie [Editeer/creeër meeting](meetings.md#editeercreeër-meeting))
+Met teams kan je jouw leden onderverdelen in verschillende teams. Bij het zenden van mails kan je bijvoorbeeld een team gebruiken als ontvanger van de mail. 
+(zie [Mails](mail.md)) Je kan ook een of meerdere teams aan een activiteit linken zodat alle leden van deze teams automatisch ingeschreven worden voor die 
+activiteit (zie [Editeer/creeër activiteit](activities.md#editeercreeër-activiteit))
 
 ![Teams](/assets/images/teams.png)
 
@@ -175,7 +175,7 @@ Zodra de vragenlijst minstens één vraag bevat zal hij getoond worden bij lidaa
 
 Onder club kan je volgende dingen bekijken:
 - Bekijk het abonnement waarover de club beschikt bij squatix en de geldigheidsdatum. Zodra de geldigheidsdatum is overschreden is het niet meer mogelijk nieuwe leden toe te voegen.
-- Agenda delen: het is mogelijk de meetingskalender te gebruiken in een externe kalender applicatie die ICS ondersteunt. Kopieër daartoe de ics-url naar de benodigde 
+- Agenda delen: het is mogelijk de activiteitskalender te gebruiken in een externe kalender applicatie die ICS ondersteunt. Kopieër daartoe de ics-url naar de benodigde 
 plaats. Voor ondersteuning neem contact op met het team dat de applicatie aanbiedt.
 - Handleiding: klik op de link om de beheerdershandleiding te bekijken.
 - Mollie: koppel jouw Squatix account met een mollie account om betalingen te kunnen ontvangen (zie [Mollie](payments.md#mollie))
