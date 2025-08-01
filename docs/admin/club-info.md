@@ -1,6 +1,6 @@
 ---
 layout: admin
-title: Clubdetails
+title: Club info
 nav_order: 2
 ---
 

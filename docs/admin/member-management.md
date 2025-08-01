@@ -1,6 +1,6 @@
 ---
 layout: admin
-title: Ledenbeheer
+title: Leden
 nav_order: 6
 ---
 

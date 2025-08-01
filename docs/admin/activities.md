@@ -1,6 +1,6 @@
 ---
 layout: admin
-title: Meetings
+title: Activiteiten
 nav_order: 4
 ---
 
