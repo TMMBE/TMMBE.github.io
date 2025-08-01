@@ -4,7 +4,7 @@ title: Mails
 nav_order: 9
 ---
 
-# Nieuwsbrieven
+# Mails
 {: .no_toc }
 
 ## Inhoudsopgave
@@ -16,6 +16,10 @@ nav_order: 9
 ---
 ## Inleiding
 Gebruik nieuwsbrieven om via mail de leden van jouw club op de hoogte te brengen van het laatste nieuws, aankomende evenementen of andere nuttige updates.
+
+## Documenten
+
+### Document aanmaken
 
 ## Overzicht 
 Op de nieuwsbrievenpagina vind je een samenvatting van:
