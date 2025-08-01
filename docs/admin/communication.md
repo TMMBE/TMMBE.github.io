@@ -56,4 +56,4 @@ De vragenlijst "Member request" wordt automatisch getoond wanneer een gebruiker 
 
 ## Mails
 
-zie [Mails](mails.md)
+zie [Mails](mail.md)

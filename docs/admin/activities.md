@@ -20,23 +20,37 @@ Activiteiten zijn alle afspraken binnen jouw club. Er zijn drie mogelijke soorte
 - Wedstrijd
 - Evenement 
 
-## Overzicht 
-In het activiteitenoverzicht zie je alle activiteiten voor de geselecteerde maand. 
+## Lijst 
+
+### Kalender
+
+In de kalender zie je alle activiteiten voor de geselecteerde maand. 
 
 ![meetinglist](/assets/images/meeting_list.png)
 		
-Bovenaan kan je kiezen voor kalenderzicht (1) of lijstzicht (2). 
-De knop mijn kalender (3) toont de activiteiten waarop het ingelogde lid is ingeschreven (verleden of toekomst). Op deze pagina zien trainers ook een overzicht van de 
+De knop mijn kalender toont de activiteiten waarop het ingelogde lid is ingeschreven (verleden of toekomst). Op deze pagina zien trainers ook een overzicht van de 
 trainingen waarop ze al bevestigd hebben of dewelke ze nog moeten bevestigen (indien degene die de training aangemaakt heeft daarom gevraagd heeft, 
 zie [Editeer/creeër activiteit](#editeercreeër-activiteit)
-
-![meeting_overview](/assets/images/meeting_buttons.png)
 
 Resultaten kunnen gefilterd worden door het type activiteit aan of af te vinken of door activiteitscategorieën te selecteren of te deselecteren.
 
 ![meeting_filter](/assets/images/meetings_filter.png)
 
 Via de knop "Activiteit aanmaken" kan je een nieuwe activiteit creëren (zie [Editeer/creeër activiteit](#editeercreeër-activiteit))
+
+Aanklikken van een activiteit opent de activiteit detail pagina.
+
+### Overzicht 
+
+Hier kan je op basis van een begin -en einddatum en eventueel (een deel van) een titel op zoek gaan naar activiteiten. 
+
+Bovenaan kan je kiezen voor kalenderzicht (1) of lijstzicht (2). De knop mijn kalender (3) toont de activiteiten waarop het ingelogde lid is ingeschreven (verleden of toekomst).
+
+![meeting_overview](/assets/images/meeting_buttons.png)
+
+Resultaten kunnen ook hier gefilterd worden door het type activiteit aan of af te vinken of door activiteitscategorieën te selecteren of te deselecteren.
+
+![meeting_filter](/assets/images/meetings_filter.png)
 
 Aanklikken van een activiteit opent de activiteit detail pagina.
 

@@ -31,4 +31,12 @@ Upload een logo, zichtbaar voor jouw leden
 
 ## Documenten
 
+Hier kan je nuttige documenten toevoegen voor jouw leden. Om een nieuw document toe te voegen klik op "Document toevoegen". Je kan dan een selectie maken uit eerder aangemaakte documenten.
+Om documenten aan te maken ga naar Mails > Documenten (zie [Document aanmaken](mail.md#documentaanmaken)
+
 ## Acties
+
+- Lid worden
+- Mijn lidmaatschap
+- Chat 
+- Club verlaten

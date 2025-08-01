@@ -1,6 +1,6 @@
 ---
 layout: admin
-title: Admin
+title: Beheerder
 nav_order: 1
 ---
 
@@ -16,7 +16,7 @@ nav_order: 1
 ---
 ## Inleiding
 
-Op de beheerders pagina vind je handige informatie over jouw club
+Op de beheerder pagina vind je handige informatie over jouw club
 
 ## Statistieken
 
