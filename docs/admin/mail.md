@@ -1,6 +1,6 @@
 ---
 layout: admin
-title: Nieuwsbrieven
+title: Mails
 nav_order: 9
 ---
 

@@ -4,7 +4,7 @@ title: Activiteiten
 nav_order: 4
 ---
 
-# Meetings
+# Activiteiten
 {: .no_toc }
 
 ## Inhoudsopgave
@@ -123,10 +123,10 @@ Toon de bewerk activiteit pagina met alle velden ingevuld gelijk aan de waardes 
 - **Verwijder (2)**  
 Dit is enkel mogelijk indien er nog geen ingeschreven deelnemers zijn of indien de activiteit eerst geannuleerd is. Verwijderen kan niet ongedaan gemaakt worden.
 
-- **Annuleer meeting (3)**  
+- **Annuleer activiteit (3)**  
 Activiteit krijgt status "geannuleerd". Alle ingeschreven deelnemers krijgen een notificatie. 
 	
-## Editeer/creeër meeting
+## Editeer/creeër activiteit
 	
 Om activiteiten te kunnen aanmaken dien je over minstens 1 activiteitscategorie te beschikken. (zie [Activiteitscategorieën](settings.md#activiteitscategorieën))
 
